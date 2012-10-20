@@ -1,0 +1,91 @@
+[Script Info]
+Title: AMV Minis S1 Episode X2 - Bad Stuff
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:14.92,00:00:19.92,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:00:14.92,00:00:19.92,VideoSource, NTP,0000,0000,0000,,Baccano!
+Dialogue: 0,00:00:14.92,00:00:19.92,AudioSource, NTP,0000,0000,0000,,Richard Cheese - Last Resort
+Dialogue: 0,00:00:38.06,00:00:43.06,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:00:38.06,00:00:43.06,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:00:38.06,00:00:43.06,AudioSource, NTP,0000,0000,0000,,Clerks sound clip
+Dialogue: 0,00:00:55.84,00:01:00.84,Editor, NTP,0000,0000,0000,,DH1900
+Dialogue: 0,00:00:55.84,00:01:00.84,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:00:55.84,00:01:00.84,AudioSource, NTP,0000,0000,0000,,The Dark Knight sound clip
+Dialogue: 0,00:01:11.42,00:01:16.42,Editor, NTP,0000,0000,0000,,Humnut
+Dialogue: 0,00:01:11.42,00:01:16.42,VideoSource, NTP,0000,0000,0000,,Dokuro-Chan
+Dialogue: 0,00:01:11.42,00:01:16.42,AudioSource, NTP,0000,0000,0000,,Brutal Legend sound clip
+Dialogue: 0,00:01:15.17,00:01:20.17,Editor, NTP,0000,0000,0000,,JBFiLMz
+Dialogue: 0,00:01:15.17,00:01:20.17,VideoSource, NTP,0000,0000,0000,,Fullmetal Alchemist
+Dialogue: 0,00:01:15.17,00:01:20.17,AudioSource, NTP,0000,0000,0000,,Terminator 2 sound clip
+Dialogue: 0,00:01:51.24,00:01:56.24,Editor, NTP,0000,0000,0000,,Darkzi
+Dialogue: 0,00:01:51.24,00:01:56.24,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:01:51.24,00:01:56.24,AudioSource, NTP,0000,0000,0000,,Predator 2 sound clip
+Dialogue: 0,00:02:02.32,00:02:07.32,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:02:02.32,00:02:07.32,VideoSource, NTP,0000,0000,0000,,Haruhi
+Dialogue: 0,00:02:02.32,00:02:07.32,AudioSource, NTP,0000,0000,0000,,Live Action: Videodrome 
+Dialogue: 0,00:02:30.56,00:02:35.56,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:02:30.56,00:02:35.56,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:02:30.56,00:02:35.56,AudioSource, NTP,0000,0000,0000,,Clerks sound clip
+Dialogue: 0,00:02:37.98,00:02:42.98,Editor, NTP,0000,0000,0000,,EvilBlackDarkness
+Dialogue: 0,00:02:37.98,00:02:42.98,VideoSource, NTP,0000,0000,0000,,Dead Leaves
+Dialogue: 0,00:02:37.98,00:02:42.98,AudioSource, NTP,0000,0000,0000,,s-CRY-ed sound clip
+Dialogue: 0,00:02:52.95,00:02:57.95,Editor, NTP,0000,0000,0000,,EvilBlackDarkness
+Dialogue: 0,00:02:52.95,00:02:57.95,VideoSource, NTP,0000,0000,0000,,Higurashi no Naku koro Ni
+Dialogue: 0,00:02:52.95,00:02:57.95,AudioSource, NTP,0000,0000,0000,,Necro Critic sound clip
+Dialogue: 0,00:03:04.52,00:03:09.52,Editor, NTP,0000,0000,0000,,Zachary Wisniewski
+Dialogue: 0,00:03:04.52,00:03:09.52,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:03:04.52,00:03:09.52,AudioSource, NTP,0000,0000,0000,,Jamie Kennedy and Stu Stone - Circle Circle Dot Dot
+Dialogue: 0,00:03:21.16,00:03:26.16,Editor, NTP,0000,0000,0000,,Darkzi
+Dialogue: 0,00:03:21.16,00:03:26.16,VideoSource, NTP,0000,0000,0000,,Magical Shopping Arcade Abenobashi
+Dialogue: 0,00:03:21.16,00:03:26.16,AudioSource, NTP,0000,0000,0000,,Mighty Boosh - Old Greg sound clip
+Dialogue: 0,00:03:36.98,00:03:41.98,Editor, NTP,0000,0000,0000,,Shirik
+Dialogue: 0,00:03:36.98,00:03:41.98,VideoSource, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:03:36.98,00:03:41.98,AudioSource, NTP,0000,0000,0000,,Mongrels - What A Difference A Day Makes
+Dialogue: 0,00:03:53.77,00:03:58.77,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:03:53.77,00:03:58.77,VideoSource, NTP,0000,0000,0000,,Taishou Yakyuu Musume
+Dialogue: 0,00:03:53.77,00:03:58.77,AudioSource, NTP,0000,0000,0000,,Bull Durham sound clip
+Dialogue: 0,00:04:25.24,00:04:30.24,Editor, NTP,0000,0000,0000,,FORDboy357
+Dialogue: 0,00:04:25.24,00:04:30.24,VideoSource, NTP,0000,0000,0000,,Trigun
+Dialogue: 0,00:04:25.24,00:04:30.24,AudioSource, NTP,0000,0000,0000,,The Lonely Island (feat. Jack Black) - Sax Man
+Dialogue: 0,00:04:58.03,00:05:03.03,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:04:58.03,00:05:03.03,VideoSource, NTP,0000,0000,0000,,Puni Puni Poemi
+Dialogue: 0,00:04:58.03,00:05:03.03,AudioSource, NTP,0000,0000,0000,,Whose Line Is It Anyway? sound clip
+Dialogue: 0,00:05:03.82,00:05:08.82,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:05:03.82,00:05:08.82,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:05:03.82,00:05:08.82,AudioSource, NTP,0000,0000,0000,,Kill Bill Vol. 1 sound clip
+Dialogue: 0,00:05:54.38,00:05:59.38,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:05:54.38,00:05:59.38,VideoSource, NTP,0000,0000,0000,,Grenadier
+Dialogue: 0,00:05:54.38,00:05:59.38,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:06:01.23,00:06:06.23,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:06:01.23,00:06:06.23,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:06:01.23,00:06:06.23,AudioSource, NTP,0000,0000,0000,,DJ MTG - 6 Little Eggs
+Dialogue: 0,00:06:32.09,00:06:37.09,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:06:32.09,00:06:37.09,VideoSource, NTP,0000,0000,0000,,Bleach
+Dialogue: 0,00:06:32.09,00:06:37.09,AudioSource, NTP,0000,0000,0000,,Robot Chicken sound clip
+Dialogue: 0,00:06:36.54,00:06:41.54,Editor, NTP,0000,0000,0000,,BeyondSandrock
+Dialogue: 0,00:06:36.54,00:06:41.54,VideoSource, NTP,0000,0000,0000,,Voltron: Defender of the Universe
+Dialogue: 0,00:06:36.54,00:06:41.54,AudioSource, NTP,0000,0000,0000,,Tenacious D - Beelzeboss
+Dialogue: 0,00:07:06.45,00:07:11.45,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:07:06.45,00:07:11.45,VideoSource, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:07:06.45,00:07:11.45,AudioSource, NTP,0000,0000,0000,,Zero Punctuation sound clip
+Dialogue: 0,00:07:14.03,00:07:19.03,Editor, NTP,0000,0000,0000,,Shirker
+Dialogue: 0,00:07:14.03,00:07:19.03,VideoSource, NTP,0000,0000,0000,,Ouran High School Host Club
+Dialogue: 0,00:07:14.03,00:07:19.03,AudioSource, NTP,0000,0000,0000,,Left 4 Dead sound clip
+Dialogue: 0,00:07:18.90,00:07:23.90,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:07:18.90,00:07:23.90,VideoSource, NTP,0000,0000,0000,,Hellsing Ultimate / Azumanga Daioh / Live Action: Twilight
+Dialogue: 0,00:07:18.90,00:07:23.90,AudioSource, NTP,0000,0000,0000,,Rifftrax - Twilight

@@ -1,0 +1,45 @@
+[Script Info]
+Title: AMV Minis S1 Episode X1 - Azumanga Daioh
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:15.12,00:00:20.12,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:00:15.12,00:00:20.12,AudioSource, NTP,0000,0000,0000,,The A-Team Opening Theme
+Dialogue: 0,00:00:47.07,00:00:52.07,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:00:47.07,00:00:52.07,AudioSource, NTP,0000,0000,0000,,Drawn Together sound clip
+Dialogue: 0,00:01:07.00,00:01:12.00,Editor, NTP,0000,0000,0000,,Doomimus & Robert Frazer
+Dialogue: 0,00:01:07.00,00:01:12.00,AudioSource, NTP,0000,0000,0000,,Heaven 17 - Temptation
+Dialogue: 0,00:01:41.40,00:01:46.40,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:01:41.40,00:01:46.40,AudioSource, NTP,0000,0000,0000,,Beavis and Butthead sound clip
+Dialogue: 0,00:01:44.10,00:01:49.10,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:01:44.10,00:01:49.10,AudioSource, NTP,0000,0000,0000,,Tengen Toppen Gurren Lagann sound clip
+Dialogue: 0,00:02:13.27,00:02:18.27,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:02:13.27,00:02:18.27,AudioSource, NTP,0000,0000,0000,,Gloria Estefan - Go Away
+Dialogue: 0,00:02:52.46,00:02:57.46,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:02:52.46,00:02:57.46,AudioSource, NTP,0000,0000,0000,,Osu! Tatake! Ouendan! commercial
+Dialogue: 0,00:03:06.40,00:03:11.40,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:03:06.40,00:03:11.40,AudioSource, NTP,0000,0000,0000,,The Divinyls - I Touch Myself / "Weird Al" Yankovic - Do I Creep You Out?
+Dialogue: 0,00:03:52.28,00:03:57.28,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:03:52.28,00:03:57.28,AudioSource, NTP,0000,0000,0000,,When Harry Met Sally sound clip
+Dialogue: 0,00:04:25.43,00:04:30.43,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:04:25.43,00:04:30.43,AudioSource, NTP,0000,0000,0000,,The Allman Brothers Band - Jessica (Top Gear theme)
+Dialogue: 0,00:04:55.36,00:05:00.36,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:04:55.36,00:05:00.36,AudioSource, NTP,0000,0000,0000,,Lord of the Rings: The Fellowship of the Ring sound clip
+Dialogue: 0,00:05:00.42,00:05:05.42,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:05:00.42,00:05:05.42,AudioSource, NTP,0000,0000,0000,,Matt and Mike Chapman - Teen Girl Squad 7
+Dialogue: 0,00:05:16.00,00:05:21.00,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:05:16.00,00:05:21.00,AudioSource, NTP,0000,0000,0000,,Team America - I'm So Ronery 
+
