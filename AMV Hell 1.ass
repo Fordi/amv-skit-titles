@@ -1,0 +1,91 @@
+[Script Info]
+Title: AMV Hell
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AnimeName, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,60,0
+Style: SongName, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,44,0
+Style: SongArtist, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: Editor, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:00.90,00:00:05.90,AnimeName, NTP,0000,0000,0000,,Introduction
+Dialogue: 0,00:00:00.90,00:00:05.90,SongName, NTP,0000,0000,0000,,O Fortuna
+Dialogue: 0,00:00:00.90,00:00:05.90,SongArtist, NTP,0000,0000,0000,,Carl Orff
+Dialogue: 0,00:00:00.90,00:00:05.90,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:00:16.68,00:00:21.68,AnimeName, NTP,0000,0000,0000,,Eiken
+Dialogue: 0,00:00:16.68,00:00:21.68,SongName, NTP,0000,0000,0000,,Penis Fly Trap
+Dialogue: 0,00:00:16.68,00:00:21.68,SongArtist, NTP,0000,0000,0000,,Vomitron
+Dialogue: 0,00:00:16.68,00:00:21.68,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:00:36.96,00:00:41.96,AnimeName, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:00:36.96,00:00:41.96,SongName, NTP,0000,0000,0000,,Ironside Excerpt
+Dialogue: 0,00:00:36.96,00:00:41.96,SongArtist, NTP,0000,0000,0000,,Quincy Jones
+Dialogue: 0,00:00:36.96,00:00:41.96,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:00:54.38,00:00:59.38,AnimeName, NTP,0000,0000,0000,,Hanada Shounen-shi
+Dialogue: 0,00:00:54.38,00:00:59.38,SongName, NTP,0000,0000,0000,,Spank My Booty
+Dialogue: 0,00:00:54.38,00:00:59.38,SongArtist, NTP,0000,0000,0000,,Lords of Acid
+Dialogue: 0,00:00:54.38,00:00:59.38,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:01:00.80,00:01:05.80,AnimeName, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:01:00.80,00:01:05.80,SongName, NTP,0000,0000,0000,,Anything You Can Do
+Dialogue: 0,00:01:00.80,00:01:05.80,SongArtist, NTP,0000,0000,0000,,Annie Get Your Gun
+Dialogue: 0,00:01:00.80,00:01:05.80,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:23.83,00:01:28.83,AnimeName, NTP,0000,0000,0000,,Love Hina
+Dialogue: 0,00:01:23.83,00:01:28.83,SongName, NTP,0000,0000,0000,,I Believe I Can Fly
+Dialogue: 0,00:01:23.83,00:01:28.83,SongArtist, NTP,0000,0000,0000,,R. Kelly
+Dialogue: 0,00:01:23.83,00:01:28.83,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:01:31.53,00:01:36.53,AnimeName, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:01:31.53,00:01:36.53,SongName, NTP,0000,0000,0000,,Ellen Feiss Switch Commercial
+Dialogue: 0,00:01:31.53,00:01:36.53,SongArtist, NTP,0000,0000,0000,,Apple
+Dialogue: 0,00:01:31.53,00:01:36.53,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:02:01.94,00:02:06.94,AnimeName, NTP,0000,0000,0000,,Gravitation
+Dialogue: 0,00:02:01.94,00:02:06.94,SongName, NTP,0000,0000,0000,,Man! I Feel Like a Woman
+Dialogue: 0,00:02:01.94,00:02:06.94,SongArtist, NTP,0000,0000,0000,,Shania Twain
+Dialogue: 0,00:02:01.94,00:02:06.94,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:02:07.87,00:02:12.87,AnimeName, NTP,0000,0000,0000,,Cowboy Bebop
+Dialogue: 0,00:02:07.87,00:02:12.87,SongName, NTP,0000,0000,0000,,America Will Blow Up The Moon
+Dialogue: 0,00:02:07.87,00:02:12.87,SongArtist, NTP,0000,0000,0000,,Mr. Show with Bob & David
+Dialogue: 0,00:02:07.87,00:02:12.87,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:02:17.55,00:02:22.55,AnimeName, NTP,0000,0000,0000,,Naruto
+Dialogue: 0,00:02:17.55,00:02:22.55,SongName, NTP,0000,0000,0000,,Ninja Rap
+Dialogue: 0,00:02:17.55,00:02:22.55,SongArtist, NTP,0000,0000,0000,,Vanilla Ice
+Dialogue: 0,00:02:17.55,00:02:22.55,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:02:26.93,00:02:31.93,AnimeName, NTP,0000,0000,0000,,Sugar: A Little Snow Fairy
+Dialogue: 0,00:02:26.93,00:02:31.93,SongName, NTP,0000,0000,0000,,The Real Suga Bay Bee
+Dialogue: 0,00:02:26.93,00:02:31.93,SongArtist, NTP,0000,0000,0000,,Suga Bay Bee
+Dialogue: 0,00:02:26.93,00:02:31.93,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:02:36.20,00:02:41.20,AnimeName, NTP,0000,0000,0000,,Grave Of The Fireflies
+Dialogue: 0,00:02:36.20,00:02:41.20,SongName, NTP,0000,0000,0000,,If You Love Somebody, Set Them on Fire
+Dialogue: 0,00:02:36.20,00:02:41.20,SongArtist, NTP,0000,0000,0000,,The Dead Milkmen
+Dialogue: 0,00:02:36.20,00:02:41.20,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:02:58.77,00:03:03.77,AnimeName, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:02:58.77,00:03:03.77,SongName, NTP,0000,0000,0000,,Candy Girl
+Dialogue: 0,00:02:58.77,00:03:03.77,SongArtist, NTP,0000,0000,0000,,Bambee
+Dialogue: 0,00:02:58.77,00:03:03.77,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:03:09.01,00:03:14.01,AnimeName, NTP,0000,0000,0000,,Black Jack
+Dialogue: 0,00:03:09.01,00:03:14.01,SongName, NTP,0000,0000,0000,,Like a Surgeon
+Dialogue: 0,00:03:09.01,00:03:14.01,SongArtist, NTP,0000,0000,0000,,"Weird Al" Yankovic
+Dialogue: 0,00:03:09.01,00:03:14.01,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:03:23.55,00:03:28.55,AnimeName, NTP,0000,0000,0000,,Jin-Roh
+Dialogue: 0,00:03:23.55,00:03:28.55,SongName, NTP,0000,0000,0000,,Hungry Like The Wolf
+Dialogue: 0,00:03:23.55,00:03:28.55,SongArtist, NTP,0000,0000,0000,,Reel Big Fish
+Dialogue: 0,00:03:23.55,00:03:28.55,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:03:42.17,00:03:47.17,AnimeName, NTP,0000,0000,0000,,Battle Athletes Victory
+Dialogue: 0,00:03:42.17,00:03:47.17,SongName, NTP,0000,0000,0000,,Move Bitch
+Dialogue: 0,00:03:42.17,00:03:47.17,SongArtist, NTP,0000,0000,0000,,Ludacris
+Dialogue: 0,00:03:42.17,00:03:47.17,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:05.74,00:04:10.74,AnimeName, NTP,0000,0000,0000,,On Your Mark
+Dialogue: 0,00:04:05.74,00:04:10.74,SongName, NTP,0000,0000,0000,,Chinese Coca-Cola Remix
+Dialogue: 0,00:04:05.74,00:04:10.74,SongArtist, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:04:31.70,00:04:36.70,AnimeName, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:04:31.70,00:04:36.70,SongName, NTP,0000,0000,0000,,The Passion of the Christ Trailer
+Dialogue: 0,00:04:31.70,00:04:36.70,SongArtist, NTP,0000,0000,0000,,Zarxrax

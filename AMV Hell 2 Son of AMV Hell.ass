@@ -1,0 +1,89 @@
+[Script Info]
+Title: AMV Hell 2: Son of AMV Hell
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AnimeName, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,60,0
+Style: SongName, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,44,0
+Style: SongArtist, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: Editor, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:01.33,00:00:06.33,AnimeName, NTP,0000,0000,0000,,Introduction
+Dialogue: 0,00:00:01.33,00:00:06.33,SongName, NTP,0000,0000,0000,,Requiem - Dies Irae
+Dialogue: 0,00:00:01.33,00:00:06.33,SongArtist, NTP,0000,0000,0000,,Francesco Verdi
+Dialogue: 0,00:00:01.33,00:00:06.33,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:00:23.82,00:00:28.82,AnimeName, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:00:23.82,00:00:28.82,SongName, NTP,0000,0000,0000,,The Andy Griffith Show Opening Theme
+Dialogue: 0,00:00:23.82,00:00:28.82,SongArtist, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:00:23.82,00:00:28.82,Editor, NTP,0000,0000,0000,,
+Dialogue: 0,00:00:52.64,00:00:57.64,AnimeName, NTP,0000,0000,0000,,Twin Spica
+Dialogue: 0,00:00:52.64,00:00:57.64,SongName, NTP,0000,0000,0000,,Fantasy Spaceship
+Dialogue: 0,00:00:52.64,00:00:57.64,SongArtist, NTP,0000,0000,0000,,Creamy
+Dialogue: 0,00:00:52.64,00:00:57.64,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:01:06.54,00:01:11.54,AnimeName, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:01:06.54,00:01:11.54,SongName, NTP,0000,0000,0000,,Mad World
+Dialogue: 0,00:01:06.54,00:01:11.54,SongArtist, NTP,0000,0000,0000,,Gary Jules
+Dialogue: 0,00:01:06.54,00:01:11.54,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:12.86,00:01:17.86,AnimeName, NTP,0000,0000,0000,,Words Worth
+Dialogue: 0,00:01:12.86,00:01:17.86,SongName, NTP,0000,0000,0000,,Mr. Ed Opening Theme
+Dialogue: 0,00:01:12.86,00:01:17.86,SongArtist, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:01:12.86,00:01:17.86,Editor, NTP,0000,0000,0000,,
+Dialogue: 0,00:01:18.42,00:01:23.42,AnimeName, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:01:18.42,00:01:23.42,SongName, NTP,0000,0000,0000,,Chop Suey
+Dialogue: 0,00:01:18.42,00:01:23.42,SongArtist, NTP,0000,0000,0000,,Richard Cheese
+Dialogue: 0,00:01:18.42,00:01:23.42,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:28.36,00:01:33.36,AnimeName, NTP,0000,0000,0000,,MAPS
+Dialogue: 0,00:01:28.36,00:01:33.36,SongName, NTP,0000,0000,0000,,Maps
+Dialogue: 0,00:01:28.36,00:01:33.36,SongArtist, NTP,0000,0000,0000,,Yeah Yeah Yeahs
+Dialogue: 0,00:01:28.36,00:01:33.36,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:58.91,00:02:03.91,AnimeName, NTP,0000,0000,0000,,Perfect Blue
+Dialogue: 0,00:01:58.91,00:02:03.91,SongName, NTP,0000,0000,0000,,Fuck Her Gently
+Dialogue: 0,00:01:58.91,00:02:03.91,SongArtist, NTP,0000,0000,0000,,Tenacious D
+Dialogue: 0,00:01:58.91,00:02:03.91,Editor, NTP,0000,0000,0000,,Nightowl
+Dialogue: 0,00:02:19.56,00:02:24.56,AnimeName, NTP,0000,0000,0000,,End of Evangelion
+Dialogue: 0,00:02:19.56,00:02:24.56,SongName, NTP,0000,0000,0000,,Bitches
+Dialogue: 0,00:02:19.56,00:02:24.56,SongArtist, NTP,0000,0000,0000,,Mindless Self Indulgence
+Dialogue: 0,00:02:19.56,00:02:24.56,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:02:26.81,00:02:31.81,AnimeName, NTP,0000,0000,0000,,Evan Get It On
+Dialogue: 0,00:02:26.81,00:02:31.81,SongName, NTP,0000,0000,0000,,Tootsie Pop Commercial
+Dialogue: 0,00:02:26.81,00:02:31.81,SongArtist, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:02:26.81,00:02:31.81,Editor, NTP,0000,0000,0000,,
+Dialogue: 0,00:02:39.77,00:02:44.77,AnimeName, NTP,0000,0000,0000,,Cowboy Bebop, End of Evangelion
+Dialogue: 0,00:02:39.77,00:02:44.77,SongName, NTP,0000,0000,0000,,For Those About to Rock
+Dialogue: 0,00:02:39.77,00:02:44.77,SongArtist, NTP,0000,0000,0000,,AC/DC
+Dialogue: 0,00:02:39.77,00:02:44.77,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:02:55.94,00:03:00.94,AnimeName, NTP,0000,0000,0000,,Barefoot Gen
+Dialogue: 0,00:02:55.94,00:03:00.94,SongName, NTP,0000,0000,0000,,"My Anus is Bleeding"
+Dialogue: 0,00:02:55.94,00:03:00.94,SongArtist, NTP,0000,0000,0000,,Sound clip from "Rejected"
+Dialogue: 0,00:02:55.94,00:03:00.94,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:03:19.59,00:03:24.59,AnimeName, NTP,0000,0000,0000,,"Evangelion Opus" AMV by ShounenDizzyCow
+Dialogue: 0,00:03:19.59,00:03:24.59,SongName, NTP,0000,0000,0000,,Mountain Dew "Bohemian Rhapsody" Commercial
+Dialogue: 0,00:03:19.59,00:03:24.59,SongArtist, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:03:19.59,00:03:24.59,Editor, NTP,0000,0000,0000,,
+Dialogue: 0,00:03:44.64,00:03:49.65,AnimeName, NTP,0000,0000,0000,,Dragonball Z
+Dialogue: 0,00:03:44.64,00:03:49.65,SongName, NTP,0000,0000,0000,,"I Have a Dream" speech by Martin Luther King, Jr
+Dialogue: 0,00:03:44.64,00:03:49.65,SongArtist, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:03:44.64,00:03:49.65,Editor, NTP,0000,0000,0000,,
+Dialogue: 0,00:03:53.44,00:03:58.44,AnimeName, NTP,0000,0000,0000,,Barefoot Gen
+Dialogue: 0,00:03:53.44,00:03:58.44,SongName, NTP,0000,0000,0000,,Drop the Bomb
+Dialogue: 0,00:03:53.44,00:03:58.44,SongArtist, NTP,0000,0000,0000,,Scotty D
+Dialogue: 0,00:03:53.44,00:03:58.44,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:21.47,00:04:26.47,AnimeName, NTP,0000,0000,0000,,Cowboy Bebop
+Dialogue: 0,00:04:21.47,00:04:26.47,SongName, NTP,0000,0000,0000,,Mmmbop
+Dialogue: 0,00:04:21.47,00:04:26.47,SongArtist, NTP,0000,0000,0000,,Hanson
+Dialogue: 0,00:04:21.47,00:04:26.47,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:31.51,00:04:36.51,AnimeName, NTP,0000,0000,0000,,Ending (Azumanga Daioh)
+Dialogue: 0,00:04:31.51,00:04:36.51,SongName, NTP,0000,0000,0000,,Sound Clips from "Freakazoid"
+Dialogue: 0,00:04:31.51,00:04:36.51,SongArtist, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:31.51,00:04:36.51,Editor, NTP,0000,0000,0000,,

@@ -1,0 +1,133 @@
+[Script Info]
+Title: AMV Hell 3: The Motion Picture
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.45,00:00:15.45,Editor, NTP,0000,0000,0000,,Bonehimer
+Dialogue: 0,00:00:10.45,00:00:15.45,VideoSource, NTP,0000,0000,0000,,Scott Pilgrim vs. the World
+Dialogue: 0,00:00:10.45,00:00:15.45,AudioSource, NTP,0000,0000,0000,,Masafumi Tanaka - God Hand 
+Dialogue: 0,00:00:53.37,00:00:58.37,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:00:53.37,00:00:58.37,VideoSource, NTP,0000,0000,0000,,Romanian Man Jumps Balcony Parliament
+Dialogue: 0,00:00:53.37,00:00:58.37,AudioSource, NTP,0000,0000,0000,,Futurama Sound Clip
+Dialogue: 0,00:01:03.81,00:01:08.81,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:01:03.81,00:01:08.81,VideoSource, NTP,0000,0000,0000,,SUPER SLUMBER PARTY (18+)
+Dialogue: 0,00:01:03.81,00:01:08.81,AudioSource, NTP,0000,0000,0000,,B.J. Thomas - Raindrops Keep Falling On My Head 
+Dialogue: 0,00:01:13.62,00:01:18.62,Editor, NTP,0000,0000,0000,,Pyroguy44
+Dialogue: 0,00:01:13.62,00:01:18.62,VideoSource, NTP,0000,0000,0000,,The Room
+Dialogue: 0,00:01:13.62,00:01:18.62,AudioSource, NTP,0000,0000,0000,,Hot Chelle Rae - Tonight, Tonight 
+Dialogue: 0,00:01:34.63,00:01:39.63,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:01:34.63,00:01:39.63,VideoSource, NTP,0000,0000,0000,,Kamen Rider ZO
+Dialogue: 0,00:01:34.63,00:01:39.63,AudioSource, NTP,0000,0000,0000,,Brawlgasm Sound Clip 
+Dialogue: 0,00:01:40.44,00:01:45.44,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:01:40.44,00:01:45.44,VideoSource, NTP,0000,0000,0000,,Kill Bill Volume 2
+Dialogue: 0,00:01:40.44,00:01:45.44,AudioSource, NTP,0000,0000,0000,,Johnny Cash - Ain't No Grave 
+Dialogue: 0,00:01:56.66,00:02:01.66,Editor, NTP,0000,0000,0000,,vejtornado
+Dialogue: 0,00:01:56.66,00:02:01.66,VideoSource, NTP,0000,0000,0000,,The Matrix Reloaded
+Dialogue: 0,00:01:56.66,00:02:01.66,AudioSource, NTP,0000,0000,0000,,Finding Nemo Sound Clip 
+Dialogue: 0,00:02:03.08,00:02:08.08,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:02:03.08,00:02:08.08,VideoSource, NTP,0000,0000,0000,,Child's Play
+Dialogue: 0,00:02:03.08,00:02:08.08,AudioSource, NTP,0000,0000,0000,,Tomorrow Corporation - Little Inferno 
+Dialogue: 0,00:02:34.22,00:02:39.22,Editor, NTP,0000,0000,0000,,Bonehimer
+Dialogue: 0,00:02:34.22,00:02:39.22,VideoSource, NTP,0000,0000,0000,,Robocop 2
+Dialogue: 0,00:02:34.22,00:02:39.22,AudioSource, NTP,0000,0000,0000,,Futurama Sound Clip 
+Dialogue: 0,00:02:49.63,00:02:54.63,Editor, NTP,0000,0000,0000,,Bonehimer
+Dialogue: 0,00:02:49.63,00:02:54.63,VideoSource, NTP,0000,0000,0000,,Mighty Morphin Power Rangers: The Movie
+Dialogue: 0,00:02:49.63,00:02:54.63,AudioSource, NTP,0000,0000,0000,,Reservoir Dogs Sound Clip 
+Dialogue: 0,00:03:01.92,00:03:06.92,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:03:01.92,00:03:06.92,VideoSource, NTP,0000,0000,0000,,Young Frankenstein
+Dialogue: 0,00:03:01.92,00:03:06.92,AudioSource, NTP,0000,0000,0000,,Aerosmith - Walk This Way 
+Dialogue: 0,00:03:17.39,00:03:22.39,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:03:17.39,00:03:22.39,VideoSource, NTP,0000,0000,0000,,Kamen Rider Ryuki
+Dialogue: 0,00:03:17.39,00:03:22.39,AudioSource, NTP,0000,0000,0000,,Yu-gi-oh: The Abridged Series Sound Clip 
+Dialogue: 0,00:03:26.62,00:03:31.62,Editor, NTP,0000,0000,0000,,Nebarik
+Dialogue: 0,00:03:26.62,00:03:31.62,VideoSource, NTP,0000,0000,0000,,Stargate Atlantis
+Dialogue: 0,00:03:26.62,00:03:31.62,AudioSource, NTP,0000,0000,0000,,Final Fantasy VII Advent Children - One Wing Angel 
+Dialogue: 0,00:03:44.17,00:03:49.17,Editor, NTP,0000,0000,0000,,Nebarik
+Dialogue: 0,00:03:44.17,00:03:49.17,VideoSource, NTP,0000,0000,0000,,Battlestar Galactica
+Dialogue: 0,00:03:44.17,00:03:49.17,AudioSource, NTP,0000,0000,0000,,Keyboard Cat 
+Dialogue: 0,00:04:03.76,00:04:08.76,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:04:03.76,00:04:08.76,VideoSource, NTP,0000,0000,0000,,Equilibrium
+Dialogue: 0,00:04:03.76,00:04:08.76,AudioSource, NTP,0000,0000,0000,,The Fixx - Lose Face 
+Dialogue: 0,00:04:20.86,00:04:25.86,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:04:20.86,00:04:25.86,VideoSource, NTP,0000,0000,0000,,Unofficial Sentai Akibaranger
+Dialogue: 0,00:04:20.86,00:04:25.86,AudioSource, NTP,0000,0000,0000,,South Park Sound Clip 
+Dialogue: 0,00:04:29.87,00:04:34.87,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:04:29.87,00:04:34.87,VideoSource, NTP,0000,0000,0000,,Terminator 2 Judgement Day
+Dialogue: 0,00:04:29.87,00:04:34.87,AudioSource, NTP,0000,0000,0000,,Sonic R - Can You Feel The Sunshine 
+Dialogue: 0,00:04:46.98,00:04:51.98,Editor, NTP,0000,0000,0000,,Lionforce1337
+Dialogue: 0,00:04:46.98,00:04:51.98,VideoSource, NTP,0000,0000,0000,,Community
+Dialogue: 0,00:04:46.98,00:04:51.98,AudioSource, NTP,0000,0000,0000,,Batman the Animated Series Sound Clip 
+Dialogue: 0,00:04:56.82,00:05:01.82,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:04:56.82,00:05:01.82,VideoSource, NTP,0000,0000,0000,,Austin Powers In Goldmember
+Dialogue: 0,00:04:56.82,00:05:01.82,AudioSource, NTP,0000,0000,0000,,Jem and The Holograms - Glitter and Gold 
+Dialogue: 0,00:05:22.17,00:05:27.17,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:05:22.17,00:05:27.17,VideoSource, NTP,0000,0000,0000,,WWE Monday Night RAW
+Dialogue: 0,00:05:22.17,00:05:27.17,AudioSource, NTP,0000,0000,0000,,Pure Pwnage - Boom Headshot Remix 
+Dialogue: 0,00:05:30.19,00:05:35.19,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:05:30.19,00:05:35.19,VideoSource, NTP,0000,0000,0000,,Judge Dredd
+Dialogue: 0,00:05:30.19,00:05:35.19,AudioSource, NTP,0000,0000,0000,,South Park Sound Clip 
+Dialogue: 0,00:05:33.72,00:05:38.72,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:05:33.72,00:05:38.72,VideoSource, NTP,0000,0000,0000,,Crooklyn
+Dialogue: 0,00:05:33.72,00:05:38.72,AudioSource, NTP,0000,0000,0000,,Nyan Cat
+Dialogue: 0,00:05:43.77,00:05:48.77,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:05:43.77,00:05:48.77,VideoSource, NTP,0000,0000,0000,,Spiderman 1, 2, and 3
+Dialogue: 0,00:05:43.77,00:05:48.77,AudioSource, NTP,0000,0000,0000,,Rick James - Mary Jane 
+Dialogue: 0,00:05:51.80,00:05:56.80,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:05:51.80,00:05:56.80,VideoSource, NTP,0000,0000,0000,,Star Trek: The Next Generation
+Dialogue: 0,00:05:51.80,00:05:56.80,AudioSource, NTP,0000,0000,0000,,The Simpsons Sound Clip 
+Dialogue: 0,00:06:12.60,00:06:17.60,Editor, NTP,0000,0000,0000,,jinzo64
+Dialogue: 0,00:06:12.60,00:06:17.60,VideoSource, NTP,0000,0000,0000,,KungFu Hustle
+Dialogue: 0,00:06:12.60,00:06:17.60,AudioSource, NTP,0000,0000,0000,,Lady Gaga - Just Dance 
+Dialogue: 0,00:06:32.61,00:06:37.61,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:06:32.61,00:06:37.61,VideoSource, NTP,0000,0000,0000,,Battle Royale
+Dialogue: 0,00:06:32.61,00:06:37.61,AudioSource, NTP,0000,0000,0000,,La Toya Jackson - Hot Potato 
+Dialogue: 0,00:06:45.84,00:06:50.84,Editor, NTP,0000,0000,0000,,jinzo64
+Dialogue: 0,00:06:45.84,00:06:50.84,VideoSource, NTP,0000,0000,0000,,KungFu Hustle
+Dialogue: 0,00:06:45.84,00:06:50.84,AudioSource, NTP,0000,0000,0000,,Sonic R - Super Sonic Racing 
+Dialogue: 0,00:07:19.06,00:07:24.06,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:07:19.06,00:07:24.06,VideoSource, NTP,0000,0000,0000,,Creepshow
+Dialogue: 0,00:07:19.06,00:07:24.06,AudioSource, NTP,0000,0000,0000,,Linkin Park - Crawling In My Skin 
+Dialogue: 0,00:07:33.42,00:07:38.42,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:07:33.42,00:07:38.42,VideoSource, NTP,0000,0000,0000,,Groundhog Day
+Dialogue: 0,00:07:33.42,00:07:38.42,AudioSource, NTP,0000,0000,0000,,Queen - Don't Try Suicide 
+Dialogue: 0,00:07:55.06,00:08:00.06,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:07:55.06,00:08:00.06,VideoSource, NTP,0000,0000,0000,,Menace II Society
+Dialogue: 0,00:07:55.06,00:08:00.06,AudioSource, NTP,0000,0000,0000,,Henrietta Collins & The Wife-Beating Child-Haters - Drive By Shooting 
+Dialogue: 0,00:08:12.60,00:08:17.60,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:08:12.60,00:08:17.60,VideoSource, NTP,0000,0000,0000,,The Avengers
+Dialogue: 0,00:08:12.60,00:08:17.60,AudioSource, NTP,0000,0000,0000,,The Lonely Island - Threw It On The Ground 
+Dialogue: 0,00:08:24.29,00:08:29.29,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:08:24.29,00:08:29.29,VideoSource, NTP,0000,0000,0000,,CBS News
+Dialogue: 0,00:08:24.29,00:08:29.29,AudioSource, NTP,0000,0000,0000,,Austin Powers Sound Clip 
+Dialogue: 0,00:08:29.53,00:08:34.53,Editor, NTP,0000,0000,0000,,Lionforce1337
+Dialogue: 0,00:08:29.53,00:08:34.53,VideoSource, NTP,0000,0000,0000,,Cutie Honey Film
+Dialogue: 0,00:08:29.53,00:08:34.53,AudioSource, NTP,0000,0000,0000,,Eduard Khil - Trololo Song 
+Dialogue: 0,00:08:53.57,00:08:58.57,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:08:53.57,00:08:58.57,VideoSource, NTP,0000,0000,0000,,Law & Order: Special Victims Unit
+Dialogue: 0,00:08:53.57,00:08:58.57,AudioSource, NTP,0000,0000,0000,,Phoenix Wright: Ace Attorney Sound Clips
+Dialogue: 0,00:09:14.30,00:09:19.30,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:09:14.30,00:09:19.30,VideoSource, NTP,0000,0000,0000,,Logan's Run
+Dialogue: 0,00:09:14.30,00:09:19.30,AudioSource, NTP,0000,0000,0000,,South Park Sound Clip 
+Dialogue: 0,00:09:37.80,00:09:42.80,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:09:37.80,00:09:42.80,VideoSource, NTP,0000,0000,0000,,The Blues Brothers
+Dialogue: 0,00:09:37.80,00:09:42.80,AudioSource, NTP,0000,0000,0000,,Waylon Jennings - Good Ol Boys 
+Dialogue: 0,00:09:57.92,00:10:02.92,Editor, NTP,0000,0000,0000,,Bonehimer
+Dialogue: 0,00:09:57.92,00:10:02.92,VideoSource, NTP,0000,0000,0000,,The Human Centipede
+Dialogue: 0,00:09:57.92,00:10:02.92,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Eat It 
+Dialogue: 0,00:10:10.70,00:10:15.70,Editor, NTP,0000,0000,0000,,Stevie
+Dialogue: 0,00:10:10.70,00:10:15.70,VideoSource, NTP,0000,0000,0000,,Transformers 1 & 3
+Dialogue: 0,00:10:10.70,00:10:15.70,AudioSource, NTP,0000,0000,0000,,Megas XLR theme song
