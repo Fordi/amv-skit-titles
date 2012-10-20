@@ -1,0 +1,319 @@
+[Script Info]
+Title: AMV Minis S2 Episode 01
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.67,00:00:15.67,Editor, NTP,0000,0000,0000,,LawRayLiet 
+Dialogue: 0,00:00:10.67,00:00:15.67,VideoSource, NTP,0000,0000,0000,,Cowboy Bebop 
+Dialogue: 0,00:00:10.67,00:00:15.67,AudioSource, NTP,0000,0000,0000,,"Flintstones" Opening Theme
+Dialogue: 0,00:00:15.66,00:00:20.66,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:00:15.66,00:00:20.66,VideoSource, NTP,0000,0000,0000,,Canaan 
+Dialogue: 0,00:00:15.66,00:00:20.66,AudioSource, NTP,0000,0000,0000,,Electric Six - High Voltage 
+Dialogue: 0,00:00:20.84,00:00:25.84,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:00:20.84,00:00:25.84,VideoSource, NTP,0000,0000,0000,,Adventures of Sonic the Hedgehog
+Dialogue: 0,00:00:20.84,00:00:25.84,AudioSource, NTP,0000,0000,0000,,The Beatles - I am the Walrus
+Dialogue: 0,00:00:30.24,00:00:35.24,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:00:30.24,00:00:35.24,VideoSource, NTP,0000,0000,0000,,My Bride Is A Mermaid 
+Dialogue: 0,00:00:30.24,00:00:35.24,AudioSource, NTP,0000,0000,0000,,Blue October - Into The Ocean 
+Dialogue: 0,00:00:39.81,00:00:44.81,Editor, NTP,0000,0000,0000,,Humnut
+Dialogue: 0,00:00:39.81,00:00:44.81,VideoSource, NTP,0000,0000,0000,,Bokurano
+Dialogue: 0,00:00:39.81,00:00:44.81,AudioSource, NTP,0000,0000,0000,,Sublime - Date Rape
+Dialogue: 0,00:00:49.72,00:00:54.72,Editor, NTP,0000,0000,0000,,Bakagami & XelaisPWN 
+Dialogue: 0,00:00:49.72,00:00:54.72,VideoSource, NTP,0000,0000,0000,,Toradora! 
+Dialogue: 0,00:00:49.72,00:00:54.72,AudioSource, NTP,0000,0000,0000,,Hall & Oates - Maneater
+Dialogue: 0,00:00:54.64,00:00:59.64,Editor, NTP,0000,0000,0000,,Bill Ein 
+Dialogue: 0,00:00:54.64,00:00:59.64,VideoSource, NTP,0000,0000,0000,,Naruto
+Dialogue: 0,00:00:54.64,00:00:59.64,AudioSource, NTP,0000,0000,0000,,Pif-paf, oy-oy-oy! - Opera
+Dialogue: 0,00:01:03.90,00:01:08.90,Editor, NTP,0000,0000,0000,,Santiago
+Dialogue: 0,00:01:03.90,00:01:08.90,VideoSource, NTP,0000,0000,0000,,Puella Magi Madoka Magika 
+Dialogue: 0,00:01:03.90,00:01:08.90,AudioSource, NTP,0000,0000,0000,,Pink Floyd - Is there Anybody Out there 
+Dialogue: 0,00:01:09.16,00:01:14.16,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:01:09.16,00:01:14.16,VideoSource, NTP,0000,0000,0000,,Oban Star-Racers 
+Dialogue: 0,00:01:09.16,00:01:14.16,AudioSource, NTP,0000,0000,0000,,Kylie Minogue - Spinning Around 
+Dialogue: 0,00:01:14.39,00:01:19.39,Editor, NTP,0000,0000,0000,,StormWolf
+Dialogue: 0,00:01:14.39,00:01:19.39,VideoSource, NTP,0000,0000,0000,,Cowboy Bebop: The Movie 
+Dialogue: 0,00:01:14.39,00:01:19.39,AudioSource, NTP,0000,0000,0000,,Brandon Flowers - Crossfire
+Dialogue: 0,00:01:20.86,00:01:25.86,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:01:20.86,00:01:25.86,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:01:20.86,00:01:25.86,AudioSource, NTP,0000,0000,0000,,SUPER STAR -MITSURU- - She is my wife 
+Dialogue: 0,00:01:27.37,00:01:32.37,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:01:27.37,00:01:32.37,VideoSource, NTP,0000,0000,0000,,Nausica? of the Valley of the Wind 
+Dialogue: 0,00:01:27.37,00:01:32.37,AudioSource, NTP,0000,0000,0000,,Nobuo Uematsu - Chocobo Theme (Final Fantasy III DS version) 
+Dialogue: 0,00:01:33.99,00:01:38.99,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:01:33.99,00:01:38.99,VideoSource, NTP,0000,0000,0000,,Panty & Stocking with Garterbelt 
+Dialogue: 0,00:01:33.99,00:01:38.99,AudioSource, NTP,0000,0000,0000,,Michael Jackson - Speed Demon 
+Dialogue: 0,00:01:40.73,00:01:45.73,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:01:40.73,00:01:45.73,VideoSource, NTP,0000,0000,0000,,Outlaw Star 
+Dialogue: 0,00:01:40.73,00:01:45.73,AudioSource, NTP,0000,0000,0000,,Peter Gabriel - Solsbury Hill 
+Dialogue: 0,00:01:47.59,00:01:52.59,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:01:47.59,00:01:52.59,VideoSource, NTP,0000,0000,0000,,Higurashi no Naku Koro ni Kai 
+Dialogue: 0,00:01:47.59,00:01:52.59,AudioSource, NTP,0000,0000,0000,,Peachfuzz - Hero of Nineteen Eighty Three 
+Dialogue: 0,00:01:54.44,00:01:59.44,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:01:54.44,00:01:59.44,VideoSource, NTP,0000,0000,0000,,Godannar
+Dialogue: 0,00:01:54.44,00:01:59.44,AudioSource, NTP,0000,0000,0000,,The Beach Boys - Good Vibrations
+Dialogue: 0,00:02:01.05,00:02:06.05,Editor, NTP,0000,0000,0000,,LOLWTFBBQ
+Dialogue: 0,00:02:01.05,00:02:06.05,VideoSource, NTP,0000,0000,0000,,Tenjou Tenge 
+Dialogue: 0,00:02:01.05,00:02:06.05,AudioSource, NTP,0000,0000,0000,,Antoine Dodson & The Gregory Brothers - Bed Intruder Song 
+Dialogue: 0,00:02:08.11,00:02:13.11,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:02:08.11,00:02:13.11,VideoSource, NTP,0000,0000,0000,,Tenjou Tenge 
+Dialogue: 0,00:02:08.11,00:02:13.11,AudioSource, NTP,0000,0000,0000,,Five For Fighting - 100 Years
+Dialogue: 0,00:02:14.91,00:02:19.91,Editor, NTP,0000,0000,0000,,Prophet of Doom 
+Dialogue: 0,00:02:14.91,00:02:19.91,VideoSource, NTP,0000,0000,0000,,Pokemon 
+Dialogue: 0,00:02:14.91,00:02:19.91,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovich - I Think I'm A Clone Now 
+Dialogue: 0,00:02:22.14,00:02:27.14,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:02:22.14,00:02:27.14,VideoSource, NTP,0000,0000,0000,,My Neighbor Totoro 
+Dialogue: 0,00:02:22.14,00:02:27.14,AudioSource, NTP,0000,0000,0000,,The Hobbit (1977 animated film) - Rollin' Down the Hole 
+Dialogue: 0,00:02:29.15,00:02:34.15,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:02:29.15,00:02:34.15,VideoSource, NTP,0000,0000,0000,,Sorcerer Hunters 
+Dialogue: 0,00:02:29.15,00:02:34.15,AudioSource, NTP,0000,0000,0000,,The Addams Family Theme 
+Dialogue: 0,00:02:36.07,00:02:41.07,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:02:36.07,00:02:41.07,VideoSource, NTP,0000,0000,0000,,Hellsing OVA 
+Dialogue: 0,00:02:36.07,00:02:41.07,AudioSource, NTP,0000,0000,0000,,Nice Peter - Nom Nom Nom Nom, Babies! 
+Dialogue: 0,00:02:40.25,00:02:45.25,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:02:40.25,00:02:45.25,VideoSource, NTP,0000,0000,0000,,Mezzo DSA 
+Dialogue: 0,00:02:40.25,00:02:45.25,AudioSource, NTP,0000,0000,0000,,Merv Griffin - I've Got a Lovely Bunch of Coconuts 
+Dialogue: 0,00:02:44.56,00:02:49.56,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:02:44.56,00:02:49.56,VideoSource, NTP,0000,0000,0000,,Panty & Stocking with Garterbelt 
+Dialogue: 0,00:02:44.56,00:02:49.56,AudioSource, NTP,0000,0000,0000,,Group X - Good Girl Yes!! Bad Girl No!! 
+Dialogue: 0,00:02:48.93,00:02:53.93,Editor, NTP,0000,0000,0000,,!@#$ Youkai 
+Dialogue: 0,00:02:48.93,00:02:53.93,VideoSource, NTP,0000,0000,0000,,Paranoia Agent 
+Dialogue: 0,00:02:48.93,00:02:53.93,AudioSource, NTP,0000,0000,0000,,Daft Punk - Around the World 
+Dialogue: 0,00:02:53.10,00:02:58.10,Editor, NTP,0000,0000,0000,,Backup
+Dialogue: 0,00:02:53.10,00:02:58.10,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:02:53.10,00:02:58.10,AudioSource, NTP,0000,0000,0000,,Talking Heads - Psycho Killer 
+Dialogue: 0,00:02:57.66,00:03:02.66,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:02:57.66,00:03:02.66,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion 
+Dialogue: 0,00:02:57.66,00:03:02.66,AudioSource, NTP,0000,0000,0000,,Tom Petty and the Heartbreakers - The Waiting 
+Dialogue: 0,00:03:02.40,00:03:07.40,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:03:02.40,00:03:07.40,VideoSource, NTP,0000,0000,0000,,Panty & Stocking with Garterbelt 
+Dialogue: 0,00:03:02.40,00:03:07.40,AudioSource, NTP,0000,0000,0000,,Cliff Richard - Devil Woman 
+Dialogue: 0,00:03:07.07,00:03:12.07,Editor, NTP,0000,0000,0000,,SLAYER NEXUS 
+Dialogue: 0,00:03:07.07,00:03:12.07,VideoSource, NTP,0000,0000,0000,,Green Green 
+Dialogue: 0,00:03:07.07,00:03:12.07,AudioSource, NTP,0000,0000,0000,,Harry Belafonte - Day-O (The Banana Boat Song) 
+Dialogue: 0,00:03:11.80,00:03:16.80,Editor, NTP,0000,0000,0000,,Backup
+Dialogue: 0,00:03:11.80,00:03:16.80,VideoSource, NTP,0000,0000,0000,,Death Note 
+Dialogue: 0,00:03:11.80,00:03:16.80,AudioSource, NTP,0000,0000,0000,,Emigrate - Wake Up
+Dialogue: 0,00:03:16.71,00:03:21.71,Editor, NTP,0000,0000,0000,,Deemer
+Dialogue: 0,00:03:16.71,00:03:21.71,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:03:16.71,00:03:21.71,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Your Horoscope For Today
+Dialogue: 0,00:03:21.55,00:03:26.55,Editor, NTP,0000,0000,0000,,Chewi105
+Dialogue: 0,00:03:21.55,00:03:26.55,VideoSource, NTP,0000,0000,0000,,My Neighbor Totoro 
+Dialogue: 0,00:03:21.55,00:03:26.55,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Another One Rides the Bus 
+Dialogue: 0,00:03:25.24,00:03:30.24,Editor, NTP,0000,0000,0000,,HalOfBorg
+Dialogue: 0,00:03:25.24,00:03:30.24,VideoSource, NTP,0000,0000,0000,,Dragonball Z 
+Dialogue: 0,00:03:25.24,00:03:30.24,AudioSource, NTP,0000,0000,0000,,Alan Jackson - Where Were You (When The World Stopped Turning) 
+Dialogue: 0,00:03:32.57,00:03:37.57,Editor, NTP,0000,0000,0000,,VasSerMan7
+Dialogue: 0,00:03:32.57,00:03:37.57,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:03:32.57,00:03:37.57,AudioSource, NTP,0000,0000,0000,,Eminem - Just Lose It 
+Dialogue: 0,00:03:39.88,00:03:44.88,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:03:39.88,00:03:44.88,VideoSource, NTP,0000,0000,0000,,Durarara!! 
+Dialogue: 0,00:03:39.88,00:03:44.88,AudioSource, NTP,0000,0000,0000,,Basement Jaxx - Where's Your Head At? 
+Dialogue: 0,00:03:47.08,00:03:52.08,Editor, NTP,0000,0000,0000,,Prophet of Doom 
+Dialogue: 0,00:03:47.08,00:03:52.08,VideoSource, NTP,0000,0000,0000,,Naruto
+Dialogue: 0,00:03:47.08,00:03:52.08,AudioSource, NTP,0000,0000,0000,,A-Ha - Take on Me
+Dialogue: 0,00:03:54.67,00:03:59.67,Editor, NTP,0000,0000,0000,,Prophet of Doom 
+Dialogue: 0,00:03:54.67,00:03:59.67,VideoSource, NTP,0000,0000,0000,,Pokemon
+Dialogue: 0,00:03:54.67,00:03:59.67,AudioSource, NTP,0000,0000,0000,,Mike Batt - Bright Eyes
+Dialogue: 0,00:04:01.93,00:04:06.93,Editor, NTP,0000,0000,0000,,HalOfBorg
+Dialogue: 0,00:04:01.93,00:04:06.93,VideoSource, NTP,0000,0000,0000,,Mahoromatic: Something More Beautiful 
+Dialogue: 0,00:04:01.93,00:04:06.93,AudioSource, NTP,0000,0000,0000,,Patsy Cline - I Fall To Pieces 
+Dialogue: 0,00:04:09.22,00:04:14.22,Editor, NTP,0000,0000,0000,,Shibbidah
+Dialogue: 0,00:04:09.22,00:04:14.22,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi-chan Suzumiya 
+Dialogue: 0,00:04:09.22,00:04:14.22,AudioSource, NTP,0000,0000,0000,,Dead or Alive - You Spin Me Round 
+Dialogue: 0,00:04:16.65,00:04:21.65,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:04:16.65,00:04:21.65,VideoSource, NTP,0000,0000,0000,,Cowboy Bebop, Naruto 
+Dialogue: 0,00:04:16.65,00:04:21.65,AudioSource, NTP,0000,0000,0000,,Copycat - Copycat
+Dialogue: 0,00:04:24.00,00:04:29.00,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:04:24.00,00:04:29.00,VideoSource, NTP,0000,0000,0000,,Ponyo
+Dialogue: 0,00:04:24.00,00:04:29.00,AudioSource, NTP,0000,0000,0000,,Fastball - You're An Ocean 
+Dialogue: 0,00:04:31.49,00:04:36.49,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:04:31.49,00:04:36.49,VideoSource, NTP,0000,0000,0000,,Pokemon
+Dialogue: 0,00:04:31.49,00:04:36.49,AudioSource, NTP,0000,0000,0000,,Willow Smith - Whip My Hair
+Dialogue: 0,00:04:38.89,00:04:43.89,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:04:38.89,00:04:43.89,VideoSource, NTP,0000,0000,0000,,Midori Days 
+Dialogue: 0,00:04:38.89,00:04:43.89,AudioSource, NTP,0000,0000,0000,,Linkin Park - Figure.09
+Dialogue: 0,00:04:44.97,00:04:49.97,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:04:44.97,00:04:49.97,VideoSource, NTP,0000,0000,0000,,Howl's Moving Castle 
+Dialogue: 0,00:04:44.97,00:04:49.97,AudioSource, NTP,0000,0000,0000,,Blink 182 - What's My Age Again? 
+Dialogue: 0,00:04:51.13,00:04:56.13,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:04:51.13,00:04:56.13,VideoSource, NTP,0000,0000,0000,,Dennou Coil 
+Dialogue: 0,00:04:51.13,00:04:56.13,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Virus Alert 
+Dialogue: 0,00:04:57.45,00:05:02.45,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:04:57.45,00:05:02.45,VideoSource, NTP,0000,0000,0000,,Karin
+Dialogue: 0,00:04:57.45,00:05:02.45,AudioSource, NTP,0000,0000,0000,,Nickelback - Photograph
+Dialogue: 0,00:05:03.57,00:05:08.57,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:05:03.57,00:05:08.57,VideoSource, NTP,0000,0000,0000,,Sound of the Skies 
+Dialogue: 0,00:05:03.57,00:05:08.57,AudioSource, NTP,0000,0000,0000,,Sabaton - Ghost Division 
+Dialogue: 0,00:05:09.85,00:05:14.85,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:05:09.85,00:05:14.85,VideoSource, NTP,0000,0000,0000,,You're Under Arrest (OVA) 
+Dialogue: 0,00:05:09.85,00:05:14.85,AudioSource, NTP,0000,0000,0000,,Axel F - Haltemeyer
+Dialogue: 0,00:05:17.27,00:05:22.27,Editor, NTP,0000,0000,0000,,Seasons
+Dialogue: 0,00:05:17.27,00:05:22.27,VideoSource, NTP,0000,0000,0000,,Planetes
+Dialogue: 0,00:05:17.27,00:05:22.27,AudioSource, NTP,0000,0000,0000,,Ramones - Gimme Gimme Shock Treatment 
+Dialogue: 0,00:05:24.88,00:05:29.88,Editor, NTP,0000,0000,0000,,Synbad2
+Dialogue: 0,00:05:24.88,00:05:29.88,VideoSource, NTP,0000,0000,0000,,Gundam Seed 
+Dialogue: 0,00:05:24.88,00:05:29.88,AudioSource, NTP,0000,0000,0000,,Franz Ferdinand - This Fire 
+Dialogue: 0,00:05:32.33,00:05:37.33,Editor, NTP,0000,0000,0000,,Gan_HOPE326
+Dialogue: 0,00:05:32.33,00:05:37.33,VideoSource, NTP,0000,0000,0000,,One Piece 
+Dialogue: 0,00:05:32.33,00:05:37.33,AudioSource, NTP,0000,0000,0000,,Ofra Haza - Deliver Us 
+Dialogue: 0,00:05:39.81,00:05:44.81,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:05:39.81,00:05:44.81,VideoSource, NTP,0000,0000,0000,,Higurashi: When They Cry 
+Dialogue: 0,00:05:39.81,00:05:44.81,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Good Old Days 
+Dialogue: 0,00:05:47.53,00:05:52.53,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:05:47.53,00:05:52.53,VideoSource, NTP,0000,0000,0000,,Ouran High School Host Club
+Dialogue: 0,00:05:47.53,00:05:52.53,AudioSource, NTP,0000,0000,0000,,Blur - Girls & Boys 
+Dialogue: 0,00:05:54.95,00:05:59.95,Editor, NTP,0000,0000,0000,,Celticfoxx
+Dialogue: 0,00:05:54.95,00:05:59.95,VideoSource, NTP,0000,0000,0000,,Blue Sub #6 
+Dialogue: 0,00:05:54.95,00:05:59.95,AudioSource, NTP,0000,0000,0000,,The B-52's - Rock Lobster
+Dialogue: 0,00:06:02.58,00:06:07.58,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:06:02.58,00:06:07.58,VideoSource, NTP,0000,0000,0000,,Rebuild of Evangelion 1.11 
+Dialogue: 0,00:06:02.58,00:06:07.58,AudioSource, NTP,0000,0000,0000,,TeddyLoid - Fly Away
+Dialogue: 0,00:06:10.34,00:06:15.34,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:06:10.34,00:06:15.34,VideoSource, NTP,0000,0000,0000,,Akira
+Dialogue: 0,00:06:10.34,00:06:15.34,AudioSource, NTP,0000,0000,0000,,Shinedown - Sound of Madness
+Dialogue: 0,00:06:12.75,00:06:17.75,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:06:12.75,00:06:17.75,VideoSource, NTP,0000,0000,0000,,Panty & Stocking with Garterbelt 
+Dialogue: 0,00:06:12.75,00:06:17.75,AudioSource, NTP,0000,0000,0000,,Disturbed - Down With the Sickness 
+Dialogue: 0,00:06:15.78,00:06:20.78,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:06:15.78,00:06:20.78,VideoSource, NTP,0000,0000,0000,,Tengen Toppa Gurren Lagann 
+Dialogue: 0,00:06:15.78,00:06:20.78,AudioSource, NTP,0000,0000,0000,,Disturbed - The Night 
+Dialogue: 0,00:06:19.04,00:06:24.04,Editor, NTP,0000,0000,0000,,VasSerMan7
+Dialogue: 0,00:06:19.04,00:06:24.04,VideoSource, NTP,0000,0000,0000,,Darker Than Black: Ryusei no Gemini 
+Dialogue: 0,00:06:19.04,00:06:24.04,AudioSource, NTP,0000,0000,0000,,Grand Theft Auto 4 - "America's Next Top Hooker" Commercial 
+Dialogue: 0,00:06:22.84,00:06:27.84,Editor, NTP,0000,0000,0000,,Shockweed831
+Dialogue: 0,00:06:22.84,00:06:27.84,VideoSource, NTP,0000,0000,0000,,Beelzebub
+Dialogue: 0,00:06:22.84,00:06:27.84,AudioSource, NTP,0000,0000,0000,,Sex Pistols - Anarchy in the U.K. 
+Dialogue: 0,00:06:26.77,00:06:31.77,Editor, NTP,0000,0000,0000,,Shockweed831
+Dialogue: 0,00:06:26.77,00:06:31.77,VideoSource, NTP,0000,0000,0000,,Beelzebub
+Dialogue: 0,00:06:26.77,00:06:31.77,AudioSource, NTP,0000,0000,0000,,Marilyn Manson - Snake Eyes and Sissies 
+Dialogue: 0,00:06:30.58,00:06:35.58,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:06:30.58,00:06:35.58,VideoSource, NTP,0000,0000,0000,,Soul Eater
+Dialogue: 0,00:06:30.58,00:06:35.58,AudioSource, NTP,0000,0000,0000,,Shinedown - Devour
+Dialogue: 0,00:06:34.54,00:06:39.54,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:06:34.54,00:06:39.54,VideoSource, NTP,0000,0000,0000,,2x2 Shinobuden
+Dialogue: 0,00:06:34.54,00:06:39.54,AudioSource, NTP,0000,0000,0000,,Donovan - Mellow Yellow
+Dialogue: 0,00:06:38.68,00:06:43.68,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:06:38.68,00:06:43.68,VideoSource, NTP,0000,0000,0000,,My Bride Is A Mermaid 
+Dialogue: 0,00:06:38.68,00:06:43.68,AudioSource, NTP,0000,0000,0000,,WWE - Chris Jericho's theme 
+Dialogue: 0,00:06:42.90,00:06:47.90,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:06:42.90,00:06:47.90,VideoSource, NTP,0000,0000,0000,,Excel Saga 
+Dialogue: 0,00:06:42.90,00:06:47.90,AudioSource, NTP,0000,0000,0000,,My Chemical Romance - Dead!
+Dialogue: 0,00:06:51.03,00:06:56.03,Editor, NTP,0000,0000,0000,,Palla156
+Dialogue: 0,00:06:51.03,00:06:56.03,VideoSource, NTP,0000,0000,0000,,Clannad
+Dialogue: 0,00:06:51.03,00:06:56.03,AudioSource, NTP,0000,0000,0000,,Spongebob Squarepants - The Best Day Ever 
+Dialogue: 0,00:06:59.25,00:07:04.25,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:06:59.25,00:07:04.25,VideoSource, NTP,0000,0000,0000,,Panty & Stocking with Garterbelt 
+Dialogue: 0,00:06:59.25,00:07:04.25,AudioSource, NTP,0000,0000,0000,,Peter Gabriel - Big Time
+Dialogue: 0,00:07:07.96,00:07:12.96,Editor, NTP,0000,0000,0000,,Palla156
+Dialogue: 0,00:07:07.96,00:07:12.96,VideoSource, NTP,0000,0000,0000,,Kingdom Hearts 2 
+Dialogue: 0,00:07:07.96,00:07:12.96,AudioSource, NTP,0000,0000,0000,,Kanye West - Heartless
+Dialogue: 0,00:07:17.01,00:07:22.01,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:07:17.01,00:07:22.01,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z 
+Dialogue: 0,00:07:17.01,00:07:22.01,AudioSource, NTP,0000,0000,0000,,Hootie and the blowfish - I go blind
+Dialogue: 0,00:07:25.41,00:07:30.41,Editor, NTP,0000,0000,0000,,Stevie
+Dialogue: 0,00:07:25.41,00:07:30.41,VideoSource, NTP,0000,0000,0000,,Naruto Shippuden 
+Dialogue: 0,00:07:25.41,00:07:30.41,AudioSource, NTP,0000,0000,0000,,Jimi Hendrix - Foxy Lady 
+Dialogue: 0,00:07:31.04,00:07:36.04,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:07:31.04,00:07:36.04,VideoSource, NTP,0000,0000,0000,,Negima!? 
+Dialogue: 0,00:07:31.04,00:07:36.04,AudioSource, NTP,0000,0000,0000,,TLC - No Scrubs
+Dialogue: 0,00:07:36.61,00:07:41.61,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:07:36.61,00:07:41.61,VideoSource, NTP,0000,0000,0000,,Sky of Connection 
+Dialogue: 0,00:07:36.61,00:07:41.61,AudioSource, NTP,0000,0000,0000,,Tomoyasu Hotei - Battle Without Honor or Humanity 
+Dialogue: 0,00:07:42.33,00:07:47.33,Editor, NTP,0000,0000,0000,,emi-chan
+Dialogue: 0,00:07:42.33,00:07:47.33,VideoSource, NTP,0000,0000,0000,,Yamato Nadeshiko Shichi Henge 
+Dialogue: 0,00:07:42.33,00:07:47.33,AudioSource, NTP,0000,0000,0000,,Rocky Horror Picture Show - Touch-a Touch-a Touch Me
+Dialogue: 0,00:07:47.95,00:07:52.95,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:07:47.95,00:07:52.95,VideoSource, NTP,0000,0000,0000,,Panty & Stocking with Garterbelt 
+Dialogue: 0,00:07:47.95,00:07:52.95,AudioSource, NTP,0000,0000,0000,,Trey Songz - Panty Droppa 
+Dialogue: 0,00:07:53.95,00:07:58.95,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:07:53.95,00:07:58.95,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:07:53.95,00:07:58.95,AudioSource, NTP,0000,0000,0000,,Badfinger - No Matter What 
+Dialogue: 0,00:07:59.88,00:08:04.88,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:07:59.88,00:08:04.88,VideoSource, NTP,0000,0000,0000,,Fullmetal Alchemist Brotherhood 
+Dialogue: 0,00:07:59.88,00:08:04.88,AudioSource, NTP,0000,0000,0000,,Disturbed - The Night 
+Dialogue: 0,00:08:04.99,00:08:09.99,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:08:04.99,00:08:09.99,VideoSource, NTP,0000,0000,0000,,Oruchuban Ebichu 
+Dialogue: 0,00:08:04.99,00:08:09.99,AudioSource, NTP,0000,0000,0000,,"Dramatic Chipmunk" audio
+Dialogue: 0,00:08:10.63,00:08:15.63,Editor, NTP,0000,0000,0000,,StormWolf
+Dialogue: 0,00:08:10.63,00:08:15.63,VideoSource, NTP,0000,0000,0000,,FullMetal Alchemist 
+Dialogue: 0,00:08:10.63,00:08:15.63,AudioSource, NTP,0000,0000,0000,,Eminem featuring Rihanna - Love the Way You Lie 
+Dialogue: 0,00:08:15.97,00:08:20.97,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:08:15.97,00:08:20.97,VideoSource, NTP,0000,0000,0000,,Death Note 
+Dialogue: 0,00:08:15.97,00:08:20.97,AudioSource, NTP,0000,0000,0000,,Paul Simon - Me And Julio Down By The Schoolyard 
+Dialogue: 0,00:08:21.34,00:08:26.34,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:08:21.34,00:08:26.34,VideoSource, NTP,0000,0000,0000,,K-ON! 
+Dialogue: 0,00:08:21.34,00:08:26.34,AudioSource, NTP,0000,0000,0000,,Eminem - Lose Yourself 
+Dialogue: 0,00:08:26.90,00:08:31.90,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:08:26.90,00:08:31.90,VideoSource, NTP,0000,0000,0000,,Panty & Stocking With Garterbelt 
+Dialogue: 0,00:08:26.90,00:08:31.90,AudioSource, NTP,0000,0000,0000,,Stan Bush - The Touch 
+Dialogue: 0,00:08:34.64,00:08:39.64,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:08:34.64,00:08:39.64,VideoSource, NTP,0000,0000,0000,,End of Evangelion 
+Dialogue: 0,00:08:34.64,00:08:39.64,AudioSource, NTP,0000,0000,0000,,Cream - Strange Brew
+Dialogue: 0,00:08:42.33,00:08:47.33,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:08:42.33,00:08:47.33,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:08:42.33,00:08:47.33,AudioSource, NTP,0000,0000,0000,,Garbage - Right Between the Eyes 
+Dialogue: 0,00:08:50.19,00:08:55.19,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:08:50.19,00:08:55.19,VideoSource, NTP,0000,0000,0000,,Crayon Shin Chan 
+Dialogue: 0,00:08:50.19,00:08:55.19,AudioSource, NTP,0000,0000,0000,,Tiger Army - Oogie Boogie's Song
+Dialogue: 0,00:08:58.05,00:09:03.05,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:08:58.05,00:09:03.05,VideoSource, NTP,0000,0000,0000,,Kanon [2006] 
+Dialogue: 0,00:08:58.05,00:09:03.05,AudioSource, NTP,0000,0000,0000,,Dean Martin - Jingle Bells 
+Dialogue: 0,00:09:06.12,00:09:11.12,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:09:06.12,00:09:11.12,VideoSource, NTP,0000,0000,0000,,Princess Mononoke 
+Dialogue: 0,00:09:06.12,00:09:11.12,AudioSource, NTP,0000,0000,0000,,Divinyls - Wild Thing 
+Dialogue: 0,00:09:14.06,00:09:19.06,Editor, NTP,0000,0000,0000,,Humnut
+Dialogue: 0,00:09:14.06,00:09:19.06,VideoSource, NTP,0000,0000,0000,,Clannad
+Dialogue: 0,00:09:14.06,00:09:19.06,AudioSource, NTP,0000,0000,0000,,Nightwish - Ghost Love Score 
+Dialogue: 0,00:09:21.12,00:09:26.12,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:09:21.12,00:09:26.12,VideoSource, NTP,0000,0000,0000,,Castle in the Sky 
+Dialogue: 0,00:09:21.12,00:09:26.12,AudioSource, NTP,0000,0000,0000,,Van Halen - Jump
+Dialogue: 0,00:09:28.63,00:09:33.63,Editor, NTP,0000,0000,0000,,Animal_Guy 
+Dialogue: 0,00:09:28.63,00:09:33.63,VideoSource, NTP,0000,0000,0000,,Inukami
+Dialogue: 0,00:09:28.63,00:09:33.63,AudioSource, NTP,0000,0000,0000,,Cliff Edwards and the Hall Johnson Choir - When I see an Elephant Fly 
+Dialogue: 0,00:09:35.30,00:09:40.30,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:09:35.30,00:09:40.30,VideoSource, NTP,0000,0000,0000,,Sayonara, Zetsubou-Sensei 
+Dialogue: 0,00:09:35.30,00:09:40.30,AudioSource, NTP,0000,0000,0000,,Rockwell - Somebody's Watching Me 
+Dialogue: 0,00:09:42.80,00:09:47.80,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:09:42.80,00:09:47.80,VideoSource, NTP,0000,0000,0000,,Chobits
+Dialogue: 0,00:09:42.80,00:09:47.80,AudioSource, NTP,0000,0000,0000,,Duran Duran - Electric Barbarella 
+Dialogue: 0,00:09:49.85,00:09:54.85,Editor, NTP,0000,0000,0000,,HalOfBorg
+Dialogue: 0,00:09:49.85,00:09:54.85,VideoSource, NTP,0000,0000,0000,,Full Metal Alchemist 
+Dialogue: 0,00:09:49.85,00:09:54.85,AudioSource, NTP,0000,0000,0000,,Bob Rivers - Chipmunks Roasting on an Open Fire 
+Dialogue: 0,00:09:57.46,00:10:02.46,Editor, NTP,0000,0000,0000,,HalOfBorg
+Dialogue: 0,00:09:57.46,00:10:02.46,VideoSource, NTP,0000,0000,0000,,Puni Puni Poemi 
+Dialogue: 0,00:09:57.46,00:10:02.46,AudioSource, NTP,0000,0000,0000,,Bob Rivers - Bob Rivers 
+Dialogue: 0,00:10:04.66,00:10:09.66,Editor, NTP,0000,0000,0000,,Speedlemon 
+Dialogue: 0,00:10:04.66,00:10:09.66,VideoSource, NTP,0000,0000,0000,,Panty and Stocking with Garterbelt 
+Dialogue: 0,00:10:04.66,00:10:09.66,AudioSource, NTP,0000,0000,0000,,AC/DC - Dirty Deeds Done Dirt Cheep 
+Dialogue: 0,00:10:12.05,00:10:17.05,Editor, NTP,0000,0000,0000,,MagicalSuicune
+Dialogue: 0,00:10:12.05,00:10:17.05,VideoSource, NTP,0000,0000,0000,,FLCL
+Dialogue: 0,00:10:12.05,00:10:17.05,AudioSource, NTP,0000,0000,0000,,Elvis Presley - Burning Love 
+Dialogue: 0,00:10:19.25,00:10:24.25,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:10:19.25,00:10:24.25,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z 
+Dialogue: 0,00:10:19.25,00:10:24.25,AudioSource, NTP,0000,0000,0000,,Cheech Marin - My Scrotum 
+Dialogue: 0,00:10:26.58,00:10:31.59,Editor, NTP,0000,0000,0000,,Darkzi
+Dialogue: 0,00:10:26.58,00:10:31.59,VideoSource, NTP,0000,0000,0000,,Clannad
+Dialogue: 0,00:10:26.58,00:10:31.59,AudioSource, NTP,0000,0000,0000,,Limp Bizkit - Hot Dog 
+Dialogue: 0,00:10:33.71,00:10:38.71,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:10:33.71,00:10:38.71,VideoSource, NTP,0000,0000,0000,,Panty & Stocking With Garterbelt 
+Dialogue: 0,00:10:33.71,00:10:38.71,AudioSource, NTP,0000,0000,0000,,Girls Aloud - Sound of the Underground 
+Dialogue: 0,00:10:41.06,00:10:46.06,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:10:41.06,00:10:46.06,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi-chan Suzumiya 
+Dialogue: 0,00:10:41.06,00:10:46.06,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - The Night Santa Went Crazy 
+Dialogue: 0,00:10:49.34,00:10:54.34,Editor, NTP,0000,0000,0000,,Speedlemon
+Dialogue: 0,00:10:49.34,00:10:54.34,VideoSource, NTP,0000,0000,0000,,Panty and Stocking 
+Dialogue: 0,00:10:49.34,00:10:54.34,AudioSource, NTP,0000,0000,0000,,The Beatles - Come Together 

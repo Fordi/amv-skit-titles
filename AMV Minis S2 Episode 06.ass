@@ -1,0 +1,103 @@
+[Script Info]
+Title: AMV Minis S2 Episode 06
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.71,00:00:15.71,Editor, NTP,0000,0000,0000,,Sticgam
+Dialogue: 0,00:00:10.71,00:00:15.71,VideoSource, NTP,0000,0000,0000,,Higurashi, School Days, Darker Than Black, Baccano 
+Dialogue: 0,00:00:10.71,00:00:15.71,AudioSource, NTP,0000,0000,0000,,Gnarls Barkley - Crazy
+Dialogue: 0,00:00:30.44,00:00:35.44,Editor, NTP,0000,0000,0000,,N.P.C.C. 
+Dialogue: 0,00:00:30.44,00:00:35.44,VideoSource, NTP,0000,0000,0000,,Sailor Moon 
+Dialogue: 0,00:00:30.44,00:00:35.44,AudioSource, NTP,0000,0000,0000,,Pat Benatar - Heartbreaker
+Dialogue: 0,00:00:32.84,00:00:37.84,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:00:32.84,00:00:37.84,VideoSource, NTP,0000,0000,0000,,High School of the Dead 
+Dialogue: 0,00:00:32.84,00:00:37.84,AudioSource, NTP,0000,0000,0000,,Bee Gees - Stayin' Alive
+Dialogue: 0,00:00:54.42,00:00:59.42,Editor, NTP,0000,0000,0000,,synbad2
+Dialogue: 0,00:00:54.42,00:00:59.42,VideoSource, NTP,0000,0000,0000,,Tengen Toppa Gurren Lagann 
+Dialogue: 0,00:00:54.42,00:00:59.42,AudioSource, NTP,0000,0000,0000,,Will Smith - Getting Jiggy With It 
+Dialogue: 0,00:01:04.11,00:01:09.11,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:01:04.11,00:01:09.11,VideoSource, NTP,0000,0000,0000,,Panty & Stocking with Garterelt 
+Dialogue: 0,00:01:04.11,00:01:09.11,AudioSource, NTP,0000,0000,0000,,Usher - DJ Got Us Falling In Love Again 
+Dialogue: 0,00:01:13.52,00:01:18.52,Editor, NTP,0000,0000,0000,,Koolfox
+Dialogue: 0,00:01:13.52,00:01:18.52,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:01:13.52,00:01:18.52,AudioSource, NTP,0000,0000,0000,,Pixies - Where Is My Mind?
+Dialogue: 0,00:01:21.77,00:01:26.77,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:01:21.77,00:01:26.77,VideoSource, NTP,0000,0000,0000,,Virus Buster Serge 
+Dialogue: 0,00:01:21.77,00:01:26.77,AudioSource, NTP,0000,0000,0000,,Noel's House Party - Mr Blobby's Theme 
+Dialogue: 0,00:01:36.43,00:01:41.43,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:01:36.43,00:01:41.43,VideoSource, NTP,0000,0000,0000,,One Piece 
+Dialogue: 0,00:01:36.43,00:01:41.43,AudioSource, NTP,0000,0000,0000,,Macho Man Randy Savage Slim Jim Commercial
+Dialogue: 0,00:01:39.83,00:01:44.83,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:01:39.83,00:01:44.83,VideoSource, NTP,0000,0000,0000,,Elfen Lied 
+Dialogue: 0,00:01:39.83,00:01:44.83,AudioSource, NTP,0000,0000,0000,,Llamas with Hats 2 
+Dialogue: 0,00:01:55.87,00:02:00.87,Editor, NTP,0000,0000,0000,,SilentChaz
+Dialogue: 0,00:01:55.87,00:02:00.87,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion 
+Dialogue: 0,00:01:55.87,00:02:00.87,AudioSource, NTP,0000,0000,0000,,DJ Jazzy Jeff & The Fresh Prince - Boom! Shake the Room 
+Dialogue: 0,00:02:06.18,00:02:11.18,Editor, NTP,0000,0000,0000,,theEngineers
+Dialogue: 0,00:02:06.18,00:02:11.18,VideoSource, NTP,0000,0000,0000,,Code Geass 
+Dialogue: 0,00:02:06.18,00:02:11.18,AudioSource, NTP,0000,0000,0000,,Portal 2 - Want You Gone
+Dialogue: 0,00:02:18.56,00:02:23.56,Editor, NTP,0000,0000,0000,,Koolfox
+Dialogue: 0,00:02:18.56,00:02:23.56,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:02:18.56,00:02:23.56,AudioSource, NTP,0000,0000,0000,,Hot Butter - Popcorn
+Dialogue: 0,00:02:32.29,00:02:37.29,Editor, NTP,0000,0000,0000,,=DarKNesS= 
+Dialogue: 0,00:02:32.29,00:02:37.29,VideoSource, NTP,0000,0000,0000,,End of Evangelion 
+Dialogue: 0,00:02:32.29,00:02:37.29,AudioSource, NTP,0000,0000,0000,,The Lonely Island - Space Olympics 
+Dialogue: 0,00:02:42.30,00:02:47.30,Editor, NTP,0000,0000,0000,,Lionforce1337
+Dialogue: 0,00:02:42.30,00:02:47.30,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:02:42.30,00:02:47.30,AudioSource, NTP,0000,0000,0000,,Samsaya - ADHD
+Dialogue: 0,00:02:54.33,00:02:59.33,Editor, NTP,0000,0000,0000,,CelticFoxx
+Dialogue: 0,00:02:54.33,00:02:59.33,VideoSource, NTP,0000,0000,0000,,Maria Holic 
+Dialogue: 0,00:02:54.33,00:02:59.33,AudioSource, NTP,0000,0000,0000,,3OH!3 - Don't Trust Me
+Dialogue: 0,00:03:02.83,00:03:07.83,Editor, NTP,0000,0000,0000,,N.P.C.C. 
+Dialogue: 0,00:03:02.83,00:03:07.83,VideoSource, NTP,0000,0000,0000,,Sailor Moon 
+Dialogue: 0,00:03:02.83,00:03:07.83,AudioSource, NTP,0000,0000,0000,,Shinedown - 45
+Dialogue: 0,00:03:14.54,00:03:19.54,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:03:14.54,00:03:19.54,VideoSource, NTP,0000,0000,0000,,Panty & Stocking With Garterbelt 
+Dialogue: 0,00:03:14.54,00:03:19.54,AudioSource, NTP,0000,0000,0000,,Green Day - Boulevard of Broken Dreams 
+Dialogue: 0,00:03:32.24,00:03:37.24,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:03:32.24,00:03:37.24,VideoSource, NTP,0000,0000,0000,,Elfen Lied 
+Dialogue: 0,00:03:32.24,00:03:37.24,AudioSource, NTP,0000,0000,0000,,AC/DC - You Shook Me All Night Long 
+Dialogue: 0,00:03:38.34,00:03:43.34,Editor, NTP,0000,0000,0000,,SleeplessPanda
+Dialogue: 0,00:03:38.34,00:03:43.34,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion 
+Dialogue: 0,00:03:38.34,00:03:43.34,AudioSource, NTP,0000,0000,0000,,Katy Perry - I Kissed A Girl 
+Dialogue: 0,00:03:46.53,00:03:51.53,Editor, NTP,0000,0000,0000,,oobleck999
+Dialogue: 0,00:03:46.53,00:03:51.53,VideoSource, NTP,0000,0000,0000,,Higurashi no Naku Kori Ni 
+Dialogue: 0,00:03:46.53,00:03:51.53,AudioSource, NTP,0000,0000,0000,,Star Wars Episode III: Revenge of the Sith sound clip
+Dialogue: 0,00:04:04.90,00:04:09.90,Editor, NTP,0000,0000,0000,,SleeplessPanda
+Dialogue: 0,00:04:04.90,00:04:09.90,VideoSource, NTP,0000,0000,0000,,Lucky Star 
+Dialogue: 0,00:04:04.90,00:04:09.90,AudioSource, NTP,0000,0000,0000,,Cat Stevens - Wild World
+Dialogue: 0,00:04:12.10,00:04:17.10,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:04:12.10,00:04:17.10,VideoSource, NTP,0000,0000,0000,,Elfen lied 
+Dialogue: 0,00:04:12.10,00:04:17.10,AudioSource, NTP,0000,0000,0000,,Roxette - She's Got the Look
+Dialogue: 0,00:04:22.65,00:04:27.65,Editor, NTP,0000,0000,0000,,Sticgam
+Dialogue: 0,00:04:22.65,00:04:27.65,VideoSource, NTP,0000,0000,0000,,School Rumble 
+Dialogue: 0,00:04:22.65,00:04:27.65,AudioSource, NTP,0000,0000,0000,,Scott Pilgrim vs The World sound clip
+Dialogue: 0,00:04:38.79,00:04:43.79,Editor, NTP,0000,0000,0000,,SilentChaz
+Dialogue: 0,00:04:38.79,00:04:43.79,VideoSource, NTP,0000,0000,0000,,Excel Saga 
+Dialogue: 0,00:04:38.79,00:04:43.79,AudioSource, NTP,0000,0000,0000,,Rev Theory - Voices
+Dialogue: 0,00:04:49.29,00:04:54.29,Editor, NTP,0000,0000,0000,,LedusCoast
+Dialogue: 0,00:04:49.29,00:04:54.29,VideoSource, NTP,0000,0000,0000,,Bleach
+Dialogue: 0,00:04:49.29,00:04:54.29,AudioSource, NTP,0000,0000,0000,,Duke Nukem sound clip
+Dialogue: 0,00:04:58.53,00:05:03.53,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:04:58.53,00:05:03.53,VideoSource, NTP,0000,0000,0000,,Dokuro-Chan 
+Dialogue: 0,00:04:58.53,00:05:03.53,AudioSource, NTP,0000,0000,0000,,Hirose Kohmi - Promise
+Dialogue: 0,00:05:04.11,00:05:09.11,Editor, NTP,0000,0000,0000,,theEngineers
+Dialogue: 0,00:05:04.11,00:05:09.11,VideoSource, NTP,0000,0000,0000,,Death Note 
+Dialogue: 0,00:05:04.11,00:05:09.11,AudioSource, NTP,0000,0000,0000,,Invader Zim sound clip
+Dialogue: 0,00:05:14.34,00:05:19.34,Editor, NTP,0000,0000,0000,,Deemer
+Dialogue: 0,00:05:14.34,00:05:19.34,VideoSource, NTP,0000,0000,0000,,G Gundam 
+Dialogue: 0,00:05:14.34,00:05:19.34,AudioSource, NTP,0000,0000,0000,,Richard Wagner - Ride Of The Valkyries, Futurama sound clip 

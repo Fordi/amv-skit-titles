@@ -1,0 +1,79 @@
+[Script Info]
+Title: AMV Minis S2 Episode 02
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.41,00:00:15.41,Editor, NTP,0000,0000,0000,,Bill Ein
+Dialogue: 0,00:00:10.41,00:00:15.41,VideoSource, NTP,0000,0000,0000,,Nana
+Dialogue: 0,00:00:10.41,00:00:15.41,AudioSource, NTP,0000,0000,0000,,Arch Enemy - Nemesis
+Dialogue: 0,00:00:32.35,00:00:37.35,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:00:32.35,00:00:37.35,VideoSource, NTP,0000,0000,0000,,One Piece
+Dialogue: 0,00:00:32.35,00:00:37.35,AudioSource, NTP,0000,0000,0000,,Boom Head Shot
+Dialogue: 0,00:00:39.03,00:00:44.03,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:00:39.03,00:00:44.03,VideoSource, NTP,0000,0000,0000,,Dokuro-Chan
+Dialogue: 0,00:00:39.03,00:00:44.03,AudioSource, NTP,0000,0000,0000,,Spellbound - Devil in Disguise 
+Dialogue: 0,00:01:05.24,00:01:10.24,Editor, NTP,0000,0000,0000,,Chewi105
+Dialogue: 0,00:01:05.24,00:01:10.24,VideoSource, NTP,0000,0000,0000,,Akira
+Dialogue: 0,00:01:05.24,00:01:10.24,AudioSource, NTP,0000,0000,0000,,Left 4 Dead 2 - sound clip
+Dialogue: 0,00:01:06.84,00:01:11.84,Editor, NTP,0000,0000,0000,,mattroks101
+Dialogue: 0,00:01:06.84,00:01:11.84,VideoSource, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:01:06.84,00:01:11.84,AudioSource, NTP,0000,0000,0000,,Gorrilaz - Feel Good inc.
+Dialogue: 0,00:01:28.08,00:01:33.08,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:01:28.08,00:01:33.08,VideoSource, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:01:28.08,00:01:33.08,AudioSource, NTP,0000,0000,0000,,Lady Gaga - Alejandro
+Dialogue: 0,00:01:51.91,00:01:56.91,Editor, NTP,0000,0000,0000,,akalink
+Dialogue: 0,00:01:51.91,00:01:56.91,VideoSource, NTP,0000,0000,0000,,K-On!
+Dialogue: 0,00:01:51.91,00:01:56.91,AudioSource, NTP,0000,0000,0000,,The Grateful Dead - China Cat Sunflower
+Dialogue: 0,00:01:59.83,00:02:04.83,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:01:59.83,00:02:04.83,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z
+Dialogue: 0,00:01:59.83,00:02:04.83,AudioSource, NTP,0000,0000,0000,,Bill Withers - Lean On Me
+Dialogue: 0,00:02:22.97,00:02:27.97,Editor, NTP,0000,0000,0000,,Lord Marthus
+Dialogue: 0,00:02:22.97,00:02:27.97,VideoSource, NTP,0000,0000,0000,,The World of Warcraft - Cataclysm
+Dialogue: 0,00:02:22.97,00:02:27.97,AudioSource, NTP,0000,0000,0000,,Strong Bad - TROGDOR
+Dialogue: 0,00:02:27.87,00:02:32.87,Editor, NTP,0000,0000,0000,,Chewi105
+Dialogue: 0,00:02:27.87,00:02:32.87,VideoSource, NTP,0000,0000,0000,,FLCL
+Dialogue: 0,00:02:27.87,00:02:32.87,AudioSource, NTP,0000,0000,0000,,Randy Newman - Strange Things
+Dialogue: 0,00:02:36.72,00:02:41.72,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:02:36.72,00:02:41.72,VideoSource, NTP,0000,0000,0000,,Kiki's Delivery Service
+Dialogue: 0,00:02:36.72,00:02:41.72,AudioSource, NTP,0000,0000,0000,,Coming To America - sound clips
+Dialogue: 0,00:02:48.61,00:02:53.61,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:02:48.61,00:02:53.61,VideoSource, NTP,0000,0000,0000,,Fate/stay night Unlimited Bladeworks
+Dialogue: 0,00:02:48.61,00:02:53.61,AudioSource, NTP,0000,0000,0000,,Janis Joplin - Piece of My Heart
+Dialogue: 0,00:03:06.28,00:03:11.28,Editor, NTP,0000,0000,0000,,Ironworks
+Dialogue: 0,00:03:06.28,00:03:11.28,VideoSource, NTP,0000,0000,0000,,Kore wa Zombie Desuka?
+Dialogue: 0,00:03:06.28,00:03:11.28,AudioSource, NTP,0000,0000,0000,,Rob Zombie - Living Dead Girl
+Dialogue: 0,00:03:13.77,00:03:18.77,Editor, NTP,0000,0000,0000,,BeyondSandrock
+Dialogue: 0,00:03:13.77,00:03:18.77,VideoSource, NTP,0000,0000,0000,,Full Metal Alchemist
+Dialogue: 0,00:03:13.77,00:03:18.77,AudioSource, NTP,0000,0000,0000,,Charlie The Unicorn 3 - sound clip
+Dialogue: 0,00:03:28.42,00:03:33.42,Editor, NTP,0000,0000,0000,,Lyokowarirtitan
+Dialogue: 0,00:03:28.42,00:03:33.42,VideoSource, NTP,0000,0000,0000,,Toaru Majutsu no Index
+Dialogue: 0,00:03:28.42,00:03:33.42,AudioSource, NTP,0000,0000,0000,,Shoop da whoop - IMA FIRIN MAH LAZOR
+Dialogue: 0,00:03:40.34,00:03:45.34,Editor, NTP,0000,0000,0000,,SLAYER NEXUS
+Dialogue: 0,00:03:40.34,00:03:45.34,VideoSource, NTP,0000,0000,0000,,Spotlight
+Dialogue: 0,00:03:40.34,00:03:45.34,AudioSource, NTP,0000,0000,0000,,Blink 182 - Just about done
+Dialogue: 0,00:04:04.01,00:04:09.01,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:04.01,00:04:09.01,VideoSource, NTP,0000,0000,0000,,Dragon Ball
+Dialogue: 0,00:04:04.01,00:04:09.01,AudioSource, NTP,0000,0000,0000,,Carrie - sound clip
+Dialogue: 0,00:04:13.74,00:04:18.74,Editor, NTP,0000,0000,0000,,domo18
+Dialogue: 0,00:04:13.74,00:04:18.74,VideoSource, NTP,0000,0000,0000,,Mobile Suit Gundam, New Mobile Report Gundam Wing 
+Dialogue: 0,00:04:13.74,00:04:18.74,AudioSource, NTP,0000,0000,0000,,Lion - Transformers theme
+Dialogue: 0,00:04:33.02,00:04:38.02,Editor, NTP,0000,0000,0000,,superkeijikun
+Dialogue: 0,00:04:33.02,00:04:38.02,VideoSource, NTP,0000,0000,0000,,BlazBlue: Continuum Shift
+Dialogue: 0,00:04:33.02,00:04:38.02,AudioSource, NTP,0000,0000,0000,,kingsharksam - You've Been Trolled
+Dialogue: 0,00:04:47.78,00:04:52.79,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:04:47.78,00:04:52.79,VideoSource, NTP,0000,0000,0000,,Umineko
+Dialogue: 0,00:04:47.78,00:04:52.79,AudioSource, NTP,0000,0000,0000,,Giga Pudding commercial audio 

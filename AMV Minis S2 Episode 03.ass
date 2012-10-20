@@ -1,0 +1,76 @@
+[Script Info]
+Title: AMV Minis S2 Episode 03
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:11.11,00:00:16.11,Editor, NTP,0000,0000,0000,,BeyondSandrock
+Dialogue: 0,00:00:11.11,00:00:16.11,VideoSource, NTP,0000,0000,0000,,Full Metal Alchemist
+Dialogue: 0,00:00:11.11,00:00:16.11,AudioSource, NTP,0000,0000,0000,,The Muppet Movie - Movin' Right Along
+Dialogue: 0,00:00:40.82,00:00:45.82,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:00:40.82,00:00:45.82,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z 
+Dialogue: 0,00:00:40.82,00:00:45.82,AudioSource, NTP,0000,0000,0000,,Price Of Persia Parody
+Dialogue: 0,00:00:53.91,00:00:58.91,Editor, NTP,0000,0000,0000,,HalOfBorg
+Dialogue: 0,00:00:53.91,00:00:58.91,VideoSource, NTP,0000,0000,0000,,Highschool of the Dead 
+Dialogue: 0,00:00:53.91,00:00:58.91,AudioSource, NTP,0000,0000,0000,,Red Dwarf - "Abandon Ship!"
+Dialogue: 0,00:01:01.19,00:01:06.19,Editor, NTP,0000,0000,0000,,Ryan Fornelius 
+Dialogue: 0,00:01:01.19,00:01:06.19,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion 
+Dialogue: 0,00:01:01.19,00:01:06.19,AudioSource, NTP,0000,0000,0000,,Queen - You're My Best Friend 
+Dialogue: 0,00:01:24.64,00:01:29.64,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:01:24.64,00:01:29.64,VideoSource, NTP,0000,0000,0000,,High School of the Dead 
+Dialogue: 0,00:01:24.64,00:01:29.64,AudioSource, NTP,0000,0000,0000,,G.I. Joe Theme 
+Dialogue: 0,00:01:28.94,00:01:33.94,Editor, NTP,0000,0000,0000,,Bill Ein 
+Dialogue: 0,00:01:28.94,00:01:33.94,VideoSource, NTP,0000,0000,0000,,Shijou Saikyou no Deshi Kenichi 
+Dialogue: 0,00:01:28.94,00:01:33.94,AudioSource, NTP,0000,0000,0000,,Joe 'Bean' Esposito - You're The Best 
+Dialogue: 0,00:01:43.36,00:01:48.36,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:01:43.36,00:01:48.36,VideoSource, NTP,0000,0000,0000,,Full Metal Panic 
+Dialogue: 0,00:01:43.36,00:01:48.36,AudioSource, NTP,0000,0000,0000,,Family Guy - Jackass Parody 
+Dialogue: 0,00:01:54.25,00:01:59.25,Editor, NTP,0000,0000,0000,,HalOfBorg
+Dialogue: 0,00:01:54.25,00:01:59.25,VideoSource, NTP,0000,0000,0000,,Full Metal Alchemist 
+Dialogue: 0,00:01:54.25,00:01:59.25,AudioSource, NTP,0000,0000,0000,,Alice Cooper - He's Back (The Man Behind The Mask) 
+Dialogue: 0,00:02:21.99,00:02:26.99,Editor, NTP,0000,0000,0000,,Deemer
+Dialogue: 0,00:02:21.99,00:02:26.99,VideoSource, NTP,0000,0000,0000,,Goku Midnight Eye 
+Dialogue: 0,00:02:21.99,00:02:26.99,AudioSource, NTP,0000,0000,0000,,GI Joe Spoof - Motorcycle sound clip
+Dialogue: 0,00:02:26.03,00:02:31.03,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:02:26.03,00:02:31.03,VideoSource, NTP,0000,0000,0000,,My Neighbor Totoro 
+Dialogue: 0,00:02:26.03,00:02:31.03,AudioSource, NTP,0000,0000,0000,,Aerosmith - I Don't Want To Miss A Thing 
+Dialogue: 0,00:02:50.20,00:02:55.20,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:02:50.20,00:02:55.20,VideoSource, NTP,0000,0000,0000,,Lucky Star 
+Dialogue: 0,00:02:50.20,00:02:55.20,AudioSource, NTP,0000,0000,0000,,Talladega Nights sound clip
+Dialogue: 0,00:03:08.90,00:03:13.90,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:03:08.90,00:03:13.90,VideoSource, NTP,0000,0000,0000,,Clannad
+Dialogue: 0,00:03:08.90,00:03:13.90,AudioSource, NTP,0000,0000,0000,,Suger Ray - When It's Over 
+Dialogue: 0,00:03:19.79,00:03:24.79,Editor, NTP,0000,0000,0000,,Chewi105 & mattroks101 
+Dialogue: 0,00:03:19.79,00:03:24.79,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:03:19.79,00:03:24.79,AudioSource, NTP,0000,0000,0000,,Pong sound effects
+Dialogue: 0,00:03:31.86,00:03:36.86,Editor, NTP,0000,0000,0000,,Seasons
+Dialogue: 0,00:03:31.86,00:03:36.86,VideoSource, NTP,0000,0000,0000,,Inuyasha
+Dialogue: 0,00:03:31.86,00:03:36.86,AudioSource, NTP,0000,0000,0000,,Living in a Box - Living in a Box 
+Dialogue: 0,00:03:46.43,00:03:51.43,Editor, NTP,0000,0000,0000,,Keinushi
+Dialogue: 0,00:03:46.43,00:03:51.43,VideoSource, NTP,0000,0000,0000,,Yu Yu Hakisho 
+Dialogue: 0,00:03:46.43,00:03:51.43,AudioSource, NTP,0000,0000,0000,,Star Wars Episode IV: A New Hope - Jawa sound clip
+Dialogue: 0,00:03:49.01,00:03:54.01,Editor, NTP,0000,0000,0000,,The Last Visible Dog 
+Dialogue: 0,00:03:49.01,00:03:54.01,VideoSource, NTP,0000,0000,0000,,Naruto
+Dialogue: 0,00:03:49.01,00:03:54.01,AudioSource, NTP,0000,0000,0000,,Ren & Stimpy sound clip
+Dialogue: 0,00:04:07.01,00:04:12.01,Editor, NTP,0000,0000,0000,,Peter Hopkins 
+Dialogue: 0,00:04:07.01,00:04:12.01,VideoSource, NTP,0000,0000,0000,,Skip Beat 
+Dialogue: 0,00:04:07.01,00:04:12.01,AudioSource, NTP,0000,0000,0000,,Lonely Island - On the Ground 
+Dialogue: 0,00:04:36.70,00:04:41.70,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:04:36.70,00:04:41.70,VideoSource, NTP,0000,0000,0000,,Serial Experiments Lain 
+Dialogue: 0,00:04:36.70,00:04:41.70,AudioSource, NTP,0000,0000,0000,,Little Nicky sound clip
+Dialogue: 0,00:04:46.29,00:04:51.29,Editor, NTP,0000,0000,0000,,Bill Ein
+Dialogue: 0,00:04:46.29,00:04:51.29,VideoSource, NTP,0000,0000,0000,,Rosario + Vampire, Disco Dancer 
+Dialogue: 0,00:04:46.29,00:04:51.29,AudioSource, NTP,0000,0000,0000,,Parvati Khan - Jimmy Jimmy Ajaa 
