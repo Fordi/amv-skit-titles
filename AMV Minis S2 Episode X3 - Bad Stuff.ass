@@ -1,0 +1,97 @@
+[Script Info]
+Title: AMV Minis S2 Episode X3 - Bad Stuff
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.69,00:00:15.70,Editor, NTP,0000,0000,0000,,Koolfox
+Dialogue: 0,00:00:10.69,00:00:15.70,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:00:10.69,00:00:15.70,AudioSource, NTP,0000,0000,0000,,5 Second Films - Late for Work
+Dialogue: 0,00:00:18.03,00:00:23.03,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:00:18.03,00:00:23.03,VideoSource, NTP,0000,0000,0000,,Panty and Stocking with Garterbelt 
+Dialogue: 0,00:00:18.03,00:00:23.03,AudioSource, NTP,0000,0000,0000,,The Lonely Island - I Just Had Sex (feat. Akon) 
+Dialogue: 0,00:00:32.85,00:00:37.85,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:00:32.85,00:00:37.85,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:00:32.85,00:00:37.85,AudioSource, NTP,0000,0000,0000,,YouTube clip - "Your face, goddammit"
+Dialogue: 0,00:00:43.69,00:00:48.69,Editor, NTP,0000,0000,0000,,Tayson
+Dialogue: 0,00:00:43.69,00:00:48.69,VideoSource, NTP,0000,0000,0000,,Elfen Lied 
+Dialogue: 0,00:00:43.69,00:00:48.69,AudioSource, NTP,0000,0000,0000,,Justin Bieber - Never Say Never 
+Dialogue: 0,00:00:50.10,00:00:55.10,Editor, NTP,0000,0000,0000,,Koolfox
+Dialogue: 0,00:00:50.10,00:00:55.10,VideoSource, NTP,0000,0000,0000,,Black Lagoon 
+Dialogue: 0,00:00:50.10,00:00:55.10,AudioSource, NTP,0000,0000,0000,,System of a Down - Cigaro
+Dialogue: 0,00:01:07.50,00:01:12.50,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:01:07.50,00:01:12.50,VideoSource, NTP,0000,0000,0000,,Dragon Ball: The Path to Power 
+Dialogue: 0,00:01:07.50,00:01:12.50,AudioSource, NTP,0000,0000,0000,,The Legend of Zelda: Ocarina of Time - sound clip
+Dialogue: 0,00:01:18.50,00:01:23.50,Editor, NTP,0000,0000,0000,,SilentChaz
+Dialogue: 0,00:01:18.50,00:01:23.50,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion 
+Dialogue: 0,00:01:18.50,00:01:23.50,AudioSource, NTP,0000,0000,0000,,Time Gentlemen Please sound clip
+Dialogue: 0,00:01:24.98,00:01:29.98,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:01:24.98,00:01:29.98,VideoSource, NTP,0000,0000,0000,,Welcome to the NHK 
+Dialogue: 0,00:01:24.98,00:01:29.98,AudioSource, NTP,0000,0000,0000,,Hollywood Undead - The Diary 
+Dialogue: 0,00:01:50.96,00:01:55.96,Editor, NTP,0000,0000,0000,,Giliage
+Dialogue: 0,00:01:50.96,00:01:55.96,VideoSource, NTP,0000,0000,0000,,Mahou Shoujo Madoka Magica 
+Dialogue: 0,00:01:50.96,00:01:55.96,AudioSource, NTP,0000,0000,0000,,Dick Figures - Butt Genie
+Dialogue: 0,00:02:22.60,00:02:27.60,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:02:22.60,00:02:27.60,VideoSource, NTP,0000,0000,0000,,Panty & Stocking with Garterbelt 
+Dialogue: 0,00:02:22.60,00:02:27.60,AudioSource, NTP,0000,0000,0000,,Monty Python's The Meaning of Life - Every Sperm is Sacred
+Dialogue: 0,00:02:42.43,00:02:47.43,Editor, NTP,0000,0000,0000,,RBRat3
+Dialogue: 0,00:02:42.43,00:02:47.43,VideoSource, NTP,0000,0000,0000,,Yosuga no sora 
+Dialogue: 0,00:02:42.43,00:02:47.43,AudioSource, NTP,0000,0000,0000,,Wet hot american summer sound clip
+Dialogue: 0,00:03:07.24,00:03:12.24,Editor, NTP,0000,0000,0000,,Lmckay023
+Dialogue: 0,00:03:07.24,00:03:12.24,VideoSource, NTP,0000,0000,0000,,Higurashi No Naku Koro Ni 
+Dialogue: 0,00:03:07.24,00:03:12.24,AudioSource, NTP,0000,0000,0000,,Mock The Week - Scenes we'd like to see
+Dialogue: 0,00:03:13.25,00:03:18.25,Editor, NTP,0000,0000,0000,,santiago198
+Dialogue: 0,00:03:13.25,00:03:18.25,VideoSource, NTP,0000,0000,0000,,denpa onna seishun otoko 
+Dialogue: 0,00:03:13.25,00:03:18.25,AudioSource, NTP,0000,0000,0000,,bloodhound gang - diarrhea runs in the family 
+Dialogue: 0,00:03:29.32,00:03:34.32,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:03:29.32,00:03:34.32,VideoSource, NTP,0000,0000,0000,,Kannagi: Crazy Shrine Maidens 
+Dialogue: 0,00:03:29.32,00:03:34.32,AudioSource, NTP,0000,0000,0000,,Black Eyed Peas - My Humps
+Dialogue: 0,00:03:45.73,00:03:50.73,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:03:45.73,00:03:50.73,VideoSource, NTP,0000,0000,0000,,Rozen Maiden 
+Dialogue: 0,00:03:45.73,00:03:50.73,AudioSource, NTP,0000,0000,0000,,South Park sound clip
+Dialogue: 0,00:04:12.36,00:04:17.36,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:04:12.36,00:04:17.36,VideoSource, NTP,0000,0000,0000,,Hellsing Ultimate 
+Dialogue: 0,00:04:12.36,00:04:17.36,AudioSource, NTP,0000,0000,0000,,Day of the Dead sound clip
+Dialogue: 0,00:04:22.35,00:04:27.35,Editor, NTP,0000,0000,0000,,CelticFoxx
+Dialogue: 0,00:04:22.35,00:04:27.35,VideoSource, NTP,0000,0000,0000,,Welcome to the NHK 
+Dialogue: 0,00:04:22.35,00:04:27.35,AudioSource, NTP,0000,0000,0000,,Tenacious D - Kickapoo
+Dialogue: 0,00:04:39.81,00:04:44.81,Editor, NTP,0000,0000,0000,,Bill Ein 
+Dialogue: 0,00:04:39.81,00:04:44.81,VideoSource, NTP,0000,0000,0000,,Elfen Lied 
+Dialogue: 0,00:04:39.81,00:04:44.81,AudioSource, NTP,0000,0000,0000,,Elfen Lied sound clip
+Dialogue: 0,00:04:52.04,00:04:57.04,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:04:52.04,00:04:57.04,VideoSource, NTP,0000,0000,0000,,Bleach
+Dialogue: 0,00:04:52.04,00:04:57.04,AudioSource, NTP,0000,0000,0000,,Bleach sound clip
+Dialogue: 0,00:05:00.33,00:05:05.33,Editor, NTP,0000,0000,0000,,brotherbear92
+Dialogue: 0,00:05:00.33,00:05:05.33,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:05:00.33,00:05:05.33,AudioSource, NTP,0000,0000,0000,,Jon Lajoie - WTF Collective
+Dialogue: 0,00:05:21.50,00:05:26.50,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:05:21.50,00:05:26.50,VideoSource, NTP,0000,0000,0000,,Tiger & Bunny 
+Dialogue: 0,00:05:21.50,00:05:26.50,AudioSource, NTP,0000,0000,0000,,The Boondocks - A Pimp's Prayer
+Dialogue: 0,00:05:41.88,00:05:46.88,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:05:41.88,00:05:46.88,VideoSource, NTP,0000,0000,0000,,Elfen Lied 
+Dialogue: 0,00:05:41.88,00:05:46.88,AudioSource, NTP,0000,0000,0000,,Sugarcult - She's the Blade
+Dialogue: 0,00:05:54.80,00:05:59.80,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:05:54.80,00:05:59.80,VideoSource, NTP,0000,0000,0000,,Girls Bravo: Second Season 
+Dialogue: 0,00:05:54.80,00:05:59.80,AudioSource, NTP,0000,0000,0000,,Your Favorite Martian - Bitch Got a Penis
+Dialogue: 0,00:06:10.15,00:06:15.15,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:06:10.15,00:06:15.15,VideoSource, NTP,0000,0000,0000,,Baby Princess 3D Paradise Love 
+Dialogue: 0,00:06:10.15,00:06:15.15,AudioSource, NTP,0000,0000,0000,,MadTV - World's Greatest (Statutory Rapist) 
+Dialogue: 0,00:06:31.89,00:06:36.89,Editor, NTP,0000,0000,0000,,mattroks101
+Dialogue: 0,00:06:31.89,00:06:36.89,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:06:31.89,00:06:36.89,AudioSource, NTP,0000,0000,0000,,Pulp Fiction sound clip
+Dialogue: 0,00:06:40.69,00:06:45.69,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:06:40.69,00:06:45.69,VideoSource, NTP,0000,0000,0000,,My Last Day 
+Dialogue: 0,00:06:40.69,00:06:45.69,AudioSource, NTP,0000,0000,0000,,Devo - Whip It 
