@@ -1,0 +1,91 @@
+[Script Info]
+Title: AMV Minis S2 Episode 07
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.56,00:00:15.56,Editor, NTP,0000,0000,0000,,Koolfox
+Dialogue: 0,00:00:10.56,00:00:15.56,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:00:10.56,00:00:15.56,AudioSource, NTP,0000,0000,0000,,Dschinghis Khan - Moskau, Moskau 
+Dialogue: 0,00:00:18.66,00:00:23.66,Editor, NTP,0000,0000,0000,,mattroks101
+Dialogue: 0,00:00:18.66,00:00:23.66,VideoSource, NTP,0000,0000,0000,,Baccano! 
+Dialogue: 0,00:00:18.66,00:00:23.66,AudioSource, NTP,0000,0000,0000,,Littlekuriboh - Brooklyn Rage 
+Dialogue: 0,00:00:34.80,00:00:39.80,Editor, NTP,0000,0000,0000,,simpleton216
+Dialogue: 0,00:00:34.80,00:00:39.80,VideoSource, NTP,0000,0000,0000,,Xenosaga Episode II
+Dialogue: 0,00:00:34.80,00:00:39.80,AudioSource, NTP,0000,0000,0000,,Chris Cagle - Chicks Dig It 
+Dialogue: 0,00:00:43.73,00:00:48.73,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:00:43.73,00:00:48.73,VideoSource, NTP,0000,0000,0000,,Soul Eater 
+Dialogue: 0,00:00:43.73,00:00:48.73,AudioSource, NTP,0000,0000,0000,,Dragon Ball Z Abridged (TFS) 
+Dialogue: 0,00:00:54.03,00:00:59.03,Editor, NTP,0000,0000,0000,,oobleck999
+Dialogue: 0,00:00:54.03,00:00:59.03,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:00:54.03,00:00:59.03,AudioSource, NTP,0000,0000,0000,,Leona Lewis - Bleeding Love 
+Dialogue: 0,00:01:07.29,00:01:12.29,Editor, NTP,0000,0000,0000,,mattroks101
+Dialogue: 0,00:01:07.29,00:01:12.29,VideoSource, NTP,0000,0000,0000,,Baccano! 
+Dialogue: 0,00:01:07.29,00:01:12.29,AudioSource, NTP,0000,0000,0000,,asdfmovie 3
+Dialogue: 0,00:01:11.34,00:01:16.34,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:01:11.34,00:01:16.34,VideoSource, NTP,0000,0000,0000,,Kanon
+Dialogue: 0,00:01:11.34,00:01:16.34,AudioSource, NTP,0000,0000,0000,,Schmoyoho - Can't Hug Every Cat 
+Dialogue: 0,00:01:20.76,00:01:25.76,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:01:20.76,00:01:25.76,VideoSource, NTP,0000,0000,0000,,Highschool of the Dead 
+Dialogue: 0,00:01:20.76,00:01:25.76,AudioSource, NTP,0000,0000,0000,,Gifted But Twisted - Ice Cream Man 2.0 
+Dialogue: 0,00:01:31.46,00:01:36.46,Editor, NTP,0000,0000,0000,,emi-chan 
+Dialogue: 0,00:01:31.46,00:01:36.46,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:01:31.46,00:01:36.46,AudioSource, NTP,0000,0000,0000,,The Beatles - Lucy in the Sky with Diamonds 
+Dialogue: 0,00:01:44.18,00:01:49.18,Editor, NTP,0000,0000,0000,,Guest
+Dialogue: 0,00:01:44.18,00:01:49.18,VideoSource, NTP,0000,0000,0000,,FLAG, Metal Slug 
+Dialogue: 0,00:01:44.18,00:01:49.18,AudioSource, NTP,0000,0000,0000,,Metal Slug audio
+Dialogue: 0,00:01:58.82,00:02:03.82,Editor, NTP,0000,0000,0000,,Gentle Dementia 
+Dialogue: 0,00:01:58.82,00:02:03.82,VideoSource, NTP,0000,0000,0000,,Paranoia Agent 
+Dialogue: 0,00:01:58.82,00:02:03.82,AudioSource, NTP,0000,0000,0000,,Hardtack Montana
+Dialogue: 0,00:02:04.55,00:02:09.55,Editor, NTP,0000,0000,0000,,Koolfox & TigerboyPT 
+Dialogue: 0,00:02:04.55,00:02:09.55,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:02:04.55,00:02:09.55,AudioSource, NTP,0000,0000,0000,,Mortal Kombat sounds
+Dialogue: 0,00:02:23.12,00:02:28.12,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:02:23.12,00:02:28.12,VideoSource, NTP,0000,0000,0000,,Chobits
+Dialogue: 0,00:02:23.12,00:02:28.12,AudioSource, NTP,0000,0000,0000,,Our Lady Peace - R.K. 2029 
+Dialogue: 0,00:02:37.79,00:02:42.79,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:02:37.79,00:02:42.79,VideoSource, NTP,0000,0000,0000,,Gunslinger Girl 
+Dialogue: 0,00:02:37.79,00:02:42.79,AudioSource, NTP,0000,0000,0000,,The Dickies - Banana Splits 
+Dialogue: 0,00:02:50.32,00:02:55.32,Editor, NTP,0000,0000,0000,,LOLWTFBBQ
+Dialogue: 0,00:02:50.32,00:02:55.32,VideoSource, NTP,0000,0000,0000,,2NE1 - Hate You music video
+Dialogue: 0,00:02:50.32,00:02:55.32,AudioSource, NTP,0000,0000,0000,,Fight Club - 8 Rules trailer
+Dialogue: 0,00:03:12.62,00:03:17.62,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:03:12.62,00:03:17.62,VideoSource, NTP,0000,0000,0000,,When They Cry 
+Dialogue: 0,00:03:12.62,00:03:17.62,AudioSource, NTP,0000,0000,0000,,Akon ft. Kardinal Offishall - Dangerous
+Dialogue: 0,00:03:29.12,00:03:34.12,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:03:29.12,00:03:34.12,VideoSource, NTP,0000,0000,0000,,Gravitation
+Dialogue: 0,00:03:29.12,00:03:34.12,AudioSource, NTP,0000,0000,0000,,Michael Jackson - Thriller
+Dialogue: 0,00:03:33.79,00:03:38.79,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:03:33.79,00:03:38.79,VideoSource, NTP,0000,0000,0000,,K-ON! 
+Dialogue: 0,00:03:33.79,00:03:38.79,AudioSource, NTP,0000,0000,0000,,Greatest freak out ever 4 
+Dialogue: 0,00:03:53.91,00:03:58.91,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:03:53.91,00:03:58.91,VideoSource, NTP,0000,0000,0000,,Puella Magi Madoka Magica 
+Dialogue: 0,00:03:53.91,00:03:58.91,AudioSource, NTP,0000,0000,0000,,Pop Goes the Weasel 
+Dialogue: 0,00:03:58.74,00:04:03.74,Editor, NTP,0000,0000,0000,,DragonBlade
+Dialogue: 0,00:03:58.74,00:04:03.74,VideoSource, NTP,0000,0000,0000,,Soul Eater 
+Dialogue: 0,00:03:58.74,00:04:03.74,AudioSource, NTP,0000,0000,0000,,Meet the soldier
+Dialogue: 0,00:04:26.78,00:04:31.78,Editor, NTP,0000,0000,0000,,Sun-Wukong 
+Dialogue: 0,00:04:26.78,00:04:31.78,VideoSource, NTP,0000,0000,0000,,Detective Conan 
+Dialogue: 0,00:04:26.78,00:04:31.78,AudioSource, NTP,0000,0000,0000,,Manfred Mann's Earth Band - Blinded By The Light 
+Dialogue: 0,00:04:33.35,00:04:38.35,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:04:33.35,00:04:38.35,VideoSource, NTP,0000,0000,0000,,One Piece 
+Dialogue: 0,00:04:33.35,00:04:38.35,AudioSource, NTP,0000,0000,0000,,Veggie Tales - Marshmallow Song 
+Dialogue: 0,00:04:37.97,00:04:42.97,Editor, NTP,0000,0000,0000,,Koolfox
+Dialogue: 0,00:04:37.97,00:04:42.97,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:04:37.97,00:04:42.97,AudioSource, NTP,0000,0000,0000,,Starbucks commercial
+Dialogue: 0,00:04:52.53,00:04:57.53,Editor, NTP,0000,0000,0000,,LostHeaven
+Dialogue: 0,00:04:52.53,00:04:57.53,VideoSource, NTP,0000,0000,0000,,Metal Gear Solid 3: Snake Eater 
+Dialogue: 0,00:04:52.53,00:04:57.53,AudioSource, NTP,0000,0000,0000,,The Doors - The End 

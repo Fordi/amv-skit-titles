@@ -1,0 +1,88 @@
+[Script Info]
+Title: AMV Minis S2 Episode 11
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.63,00:00:15.63,Editor, NTP,0000,0000,0000,,marbilSWE
+Dialogue: 0,00:00:10.63,00:00:15.63,VideoSource, NTP,0000,0000,0000,,Welcome to the nhk
+Dialogue: 0,00:00:10.63,00:00:15.63,AudioSource, NTP,0000,0000,0000,,Spose - I'm awesome 
+Dialogue: 0,00:00:23.38,00:00:28.38,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:00:23.38,00:00:28.38,VideoSource, NTP,0000,0000,0000,,Shin-chan
+Dialogue: 0,00:00:23.38,00:00:28.38,AudioSource, NTP,0000,0000,0000,,Code Monkeys - Sound Clip 
+Dialogue: 0,00:00:33.13,00:00:38.13,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:00:33.13,00:00:38.13,VideoSource, NTP,0000,0000,0000,,Fullmetal Alchemist
+Dialogue: 0,00:00:33.13,00:00:38.13,AudioSource, NTP,0000,0000,0000,,Disney's Beauty and the Beast - Gaston 
+Dialogue: 0,00:00:48.87,00:00:53.87,Editor, NTP,0000,0000,0000,,SilentChaz
+Dialogue: 0,00:00:48.87,00:00:53.87,VideoSource, NTP,0000,0000,0000,,Interstella 5555
+Dialogue: 0,00:00:48.87,00:00:53.87,AudioSource, NTP,0000,0000,0000,,charlie teh unicron episode 2 - sound clip 
+Dialogue: 0,00:00:52.21,00:00:57.21,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:00:52.21,00:00:57.21,VideoSource, NTP,0000,0000,0000,,Fruits Basket
+Dialogue: 0,00:00:52.21,00:00:57.21,AudioSource, NTP,0000,0000,0000,,The Looney Tunes Show - We Are In Love 
+Dialogue: 0,00:01:22.80,00:01:27.80,Editor, NTP,0000,0000,0000,,Patrick Wiley
+Dialogue: 0,00:01:22.80,00:01:27.80,VideoSource, NTP,0000,0000,0000,,Fooly Cooly
+Dialogue: 0,00:01:22.80,00:01:27.80,AudioSource, NTP,0000,0000,0000,,Men in Black - Sound Clip
+Dialogue: 0,00:01:30.36,00:01:35.36,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:01:30.36,00:01:35.36,VideoSource, NTP,0000,0000,0000,,Fist of the North Star
+Dialogue: 0,00:01:30.36,00:01:35.36,AudioSource, NTP,0000,0000,0000,,Fleetwood Mac - Hold Me 
+Dialogue: 0,00:01:43.85,00:01:48.85,Editor, NTP,0000,0000,0000,,jjlb84
+Dialogue: 0,00:01:43.85,00:01:48.85,VideoSource, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:01:43.85,00:01:48.85,AudioSource, NTP,0000,0000,0000,,Army of Darkness - sound clip
+Dialogue: 0,00:01:51.41,00:01:56.41,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:01:51.41,00:01:56.41,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:01:51.41,00:01:56.41,AudioSource, NTP,0000,0000,0000,,Melissa Manchester - Midnight Blue 
+Dialogue: 0,00:02:00.29,00:02:05.29,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:02:00.29,00:02:05.29,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:02:00.29,00:02:05.29,AudioSource, NTP,0000,0000,0000,,Jem and The Holograms (The Misfits) - Congratulations 
+Dialogue: 0,00:02:12.59,00:02:17.59,Editor, NTP,0000,0000,0000,,BakaLyte39K
+Dialogue: 0,00:02:12.59,00:02:17.59,VideoSource, NTP,0000,0000,0000,,Acchi Kochi
+Dialogue: 0,00:02:12.59,00:02:17.59,AudioSource, NTP,0000,0000,0000,,Chrono Trigger - Lavos' Theme 
+Dialogue: 0,00:02:24.30,00:02:29.30,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:02:24.30,00:02:29.30,VideoSource, NTP,0000,0000,0000,,Armored Trooper Votoms: The Last Red Shoulder
+Dialogue: 0,00:02:24.30,00:02:29.30,AudioSource, NTP,0000,0000,0000,,Family Guy - Sound Clip 
+Dialogue: 0,00:02:39.15,00:02:44.15,Editor, NTP,0000,0000,0000,,adzman
+Dialogue: 0,00:02:39.15,00:02:44.15,VideoSource, NTP,0000,0000,0000,,Akira
+Dialogue: 0,00:02:39.15,00:02:44.15,AudioSource, NTP,0000,0000,0000,,Sealab 2021 - Sound Clip
+Dialogue: 0,00:02:54.42,00:02:59.42,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:02:54.42,00:02:59.42,VideoSource, NTP,0000,0000,0000,,Sengoku Basara
+Dialogue: 0,00:02:54.42,00:02:59.42,AudioSource, NTP,0000,0000,0000,,Psy - Gangnam Style
+Dialogue: 0,00:03:10.82,00:03:15.82,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:03:10.82,00:03:15.82,VideoSource, NTP,0000,0000,0000,,Joshiraku
+Dialogue: 0,00:03:10.82,00:03:15.82,AudioSource, NTP,0000,0000,0000,,Full Metal Jacket - Sound Clip
+Dialogue: 0,00:03:24.07,00:03:29.07,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:03:24.07,00:03:29.07,VideoSource, NTP,0000,0000,0000,,The Legend of Reyon: From New Struggles
+Dialogue: 0,00:03:24.07,00:03:29.07,AudioSource, NTP,0000,0000,0000,,The Boondocks - Sound Clip 
+Dialogue: 0,00:03:35.72,00:03:40.72,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:03:35.72,00:03:40.72,VideoSource, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:03:35.72,00:03:40.72,AudioSource, NTP,0000,0000,0000,,FUN. - We Are Young 
+Dialogue: 0,00:03:46.01,00:03:51.01,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:03:46.01,00:03:51.01,VideoSource, NTP,0000,0000,0000,,Tenchi Universe
+Dialogue: 0,00:03:46.01,00:03:51.01,AudioSource, NTP,0000,0000,0000,,Terminator & Terminator 2: Judgement Day - Sound Clips
+Dialogue: 0,00:04:06.00,00:04:11.00,Editor, NTP,0000,0000,0000,,HaarTheDragonlord
+Dialogue: 0,00:04:06.00,00:04:11.00,VideoSource, NTP,0000,0000,0000,,Pokémon: Indigo League
+Dialogue: 0,00:04:06.00,00:04:11.00,AudioSource, NTP,0000,0000,0000,,Speedy Gonzales - Sound Clip 
+Dialogue: 0,00:04:19.57,00:04:24.57,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:04:19.57,00:04:24.57,VideoSource, NTP,0000,0000,0000,,Shiki
+Dialogue: 0,00:04:19.57,00:04:24.57,AudioSource, NTP,0000,0000,0000,,Weebl's Stuff - science 
+Dialogue: 0,00:04:51.48,00:04:56.48,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:04:51.48,00:04:56.48,VideoSource, NTP,0000,0000,0000,,Queen's Blade
+Dialogue: 0,00:04:51.48,00:04:56.48,AudioSource, NTP,0000,0000,0000,,SpongeBob SquarePants - Sound Clip
+Dialogue: 0,00:05:01.24,00:05:06.24,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:05:01.24,00:05:06.24,VideoSource, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:05:01.24,00:05:06.24,AudioSource, NTP,0000,0000,0000,,FloRida - Whistle 
+Dialogue: 0,00:05:07.41,00:05:12.41,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:05:07.41,00:05:12.41,VideoSource, NTP,0000,0000,0000,,Cromartie High School and Night Shift Nurses Kazama Mana
+Dialogue: 0,00:05:07.41,00:05:12.41,AudioSource, NTP,0000,0000,0000,,The Lonely Island - Threw It On The Ground

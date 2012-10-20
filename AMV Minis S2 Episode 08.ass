@@ -1,0 +1,91 @@
+[Script Info]
+Title: AMV Minis S2 Episode 08
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.58,00:00:15.58,Editor, NTP,0000,0000,0000,,Masahiro & Sexximus
+Dialogue: 0,00:00:10.58,00:00:15.58,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:00:10.58,00:00:15.58,AudioSource, NTP,0000,0000,0000,,The Pretender - Intro
+Dialogue: 0,00:00:39.24,00:00:44.24,Editor, NTP,0000,0000,0000,,deathhunter101
+Dialogue: 0,00:00:39.24,00:00:44.24,VideoSource, NTP,0000,0000,0000,,Mahou Shoujo Madoka Magica 
+Dialogue: 0,00:00:39.24,00:00:44.24,AudioSource, NTP,0000,0000,0000,,P.O.D. - Boom
+Dialogue: 0,00:01:08.13,00:01:13.13,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:01:08.13,00:01:13.13,VideoSource, NTP,0000,0000,0000,,Magical Shopping Arcade Abenobashi
+Dialogue: 0,00:01:08.13,00:01:13.13,AudioSource, NTP,0000,0000,0000,,Baltimora - Tarzan Boy
+Dialogue: 0,00:01:27.17,00:01:32.17,Editor, NTP,0000,0000,0000,,Shibbidah
+Dialogue: 0,00:01:27.17,00:01:32.17,VideoSource, NTP,0000,0000,0000,,Shinryaku! Ika Musume 
+Dialogue: 0,00:01:27.17,00:01:32.17,AudioSource, NTP,0000,0000,0000,,Alestorm - Death Throes of the Terrorsquid 
+Dialogue: 0,00:01:38.53,00:01:43.53,Editor, NTP,0000,0000,0000,,SilentChaz
+Dialogue: 0,00:01:38.53,00:01:43.53,VideoSource, NTP,0000,0000,0000,,Pom Poko
+Dialogue: 0,00:01:38.53,00:01:43.53,AudioSource, NTP,0000,0000,0000,,Transformers theme
+Dialogue: 0,00:01:48.26,00:01:53.26,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:01:48.26,00:01:53.26,VideoSource, NTP,0000,0000,0000,,Seitokai Yakuindomo 
+Dialogue: 0,00:01:48.26,00:01:53.26,AudioSource, NTP,0000,0000,0000,,Savlonic - Tiny Japanese Girl 
+Dialogue: 0,00:02:01.91,00:02:06.91,Editor, NTP,0000,0000,0000,,SilentChaz
+Dialogue: 0,00:02:01.91,00:02:06.91,VideoSource, NTP,0000,0000,0000,,Excel Saga 
+Dialogue: 0,00:02:01.91,00:02:06.91,AudioSource, NTP,0000,0000,0000,,Jonathan Ian Mathers - Squirrel Songs
+Dialogue: 0,00:02:10.31,00:02:15.31,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:02:10.31,00:02:15.31,VideoSource, NTP,0000,0000,0000,,Dokuro-chan 
+Dialogue: 0,00:02:10.31,00:02:15.31,AudioSource, NTP,0000,0000,0000,,Bloodhound Gang - Why's Everything Always Pickin' on me?
+Dialogue: 0,00:02:27.51,00:02:32.51,Editor, NTP,0000,0000,0000,,SSJGarfield
+Dialogue: 0,00:02:27.51,00:02:32.51,VideoSource, NTP,0000,0000,0000,,Lucky Star OVA
+Dialogue: 0,00:02:27.51,00:02:32.51,AudioSource, NTP,0000,0000,0000,,Jurassic Park sound effect
+Dialogue: 0,00:02:34.58,00:02:39.58,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:02:34.58,00:02:39.58,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:02:34.58,00:02:39.58,AudioSource, NTP,0000,0000,0000,,mrweebl - Cat Face
+Dialogue: 0,00:02:46.57,00:02:51.57,Editor, NTP,0000,0000,0000,,Cheeze4brains94
+Dialogue: 0,00:02:46.57,00:02:51.57,VideoSource, NTP,0000,0000,0000,,Pokemon
+Dialogue: 0,00:02:46.57,00:02:51.57,AudioSource, NTP,0000,0000,0000,,The Notorious B.I.G. - Hypnotize
+Dialogue: 0,00:02:51.58,00:02:56.58,Editor, NTP,0000,0000,0000,,SilentChaz
+Dialogue: 0,00:02:51.58,00:02:56.58,VideoSource, NTP,0000,0000,0000,,High School of the Dead
+Dialogue: 0,00:02:51.58,00:02:56.58,AudioSource, NTP,0000,0000,0000,,Disturbed - Meaning of Life
+Dialogue: 0,00:03:01.10,00:03:06.10,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:03:01.10,00:03:06.10,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:03:01.10,00:03:06.10,AudioSource, NTP,0000,0000,0000,,30 Rock sound clip
+Dialogue: 0,00:03:05.54,00:03:10.54,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:03:05.54,00:03:10.54,VideoSource, NTP,0000,0000,0000,,Sailor Moon 
+Dialogue: 0,00:03:05.54,00:03:10.54,AudioSource, NTP,0000,0000,0000,,Dean Martin - That's Amore
+Dialogue: 0,00:03:18.82,00:03:23.82,Editor, NTP,0000,0000,0000,,chaoshusky
+Dialogue: 0,00:03:18.82,00:03:23.82,VideoSource, NTP,0000,0000,0000,,one piece
+Dialogue: 0,00:03:18.82,00:03:23.82,AudioSource, NTP,0000,0000,0000,,the Emperor's new groove sound clip
+Dialogue: 0,00:03:32.68,00:03:37.68,Editor, NTP,0000,0000,0000,,Masahiro & Sexximus
+Dialogue: 0,00:03:32.68,00:03:37.68,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:03:32.68,00:03:37.68,AudioSource, NTP,0000,0000,0000,,Homestar Runner - Halloween 2001 Audio Clip
+Dialogue: 0,00:03:43.83,00:03:48.83,Editor, NTP,0000,0000,0000,,SuperiorAtolBoy
+Dialogue: 0,00:03:43.83,00:03:48.83,VideoSource, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:03:43.83,00:03:48.83,AudioSource, NTP,0000,0000,0000,,Drew Carey's Improv-A-Ganza sound clip
+Dialogue: 0,00:03:52.14,00:03:57.14,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:03:52.14,00:03:57.14,VideoSource, NTP,0000,0000,0000,,Bakemonogatari
+Dialogue: 0,00:03:52.14,00:03:57.14,AudioSource, NTP,0000,0000,0000,,cash cash - jaw drop
+Dialogue: 0,00:04:13.87,00:04:18.87,Editor, NTP,0000,0000,0000,,keinushi
+Dialogue: 0,00:04:13.87,00:04:18.87,VideoSource, NTP,0000,0000,0000,,Higurashi no naku koro ni
+Dialogue: 0,00:04:13.87,00:04:18.87,AudioSource, NTP,0000,0000,0000,,coppercab - Gingers have souls 
+Dialogue: 0,00:04:26.14,00:04:31.14,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:04:26.14,00:04:31.14,VideoSource, NTP,0000,0000,0000,,Panty and Stocking with Garterbelt 
+Dialogue: 0,00:04:26.14,00:04:31.14,AudioSource, NTP,0000,0000,0000,,Tom Jones - Sex Bomb
+Dialogue: 0,00:04:30.98,00:04:35.98,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:04:30.98,00:04:35.98,VideoSource, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:04:30.98,00:04:35.98,AudioSource, NTP,0000,0000,0000,,Pirates of the Caribbean: Curse of the Black Pearl sound clip
+Dialogue: 0,00:04:38.78,00:04:43.78,Editor, NTP,0000,0000,0000,,frankyfilms
+Dialogue: 0,00:04:38.78,00:04:43.78,VideoSource, NTP,0000,0000,0000,,Baccano
+Dialogue: 0,00:04:38.78,00:04:43.78,AudioSource, NTP,0000,0000,0000,,Justice League Unlimited sound clip
+Dialogue: 0,00:04:48.11,00:04:53.12,Editor, NTP,0000,0000,0000,,adracamas
+Dialogue: 0,00:04:48.11,00:04:53.12,VideoSource, NTP,0000,0000,0000,,Bottle Fairys 
+Dialogue: 0,00:04:48.11,00:04:53.12,AudioSource, NTP,0000,0000,0000,,Mitch Hedberg - Sandwiches
+Dialogue: 0,00:04:54.06,00:04:59.06,Editor, NTP,0000,0000,0000,,Dajore Niseny Elph 
+Dialogue: 0,00:04:54.06,00:04:59.06,VideoSource, NTP,0000,0000,0000,,Pokemon
+Dialogue: 0,00:04:54.06,00:04:59.06,AudioSource, NTP,0000,0000,0000,,Garfield and Friends - Intro 

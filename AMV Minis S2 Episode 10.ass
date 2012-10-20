@@ -1,0 +1,94 @@
+[Script Info]
+Title: AMV Minis S2 Episode 10
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.83,00:00:15.83,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:00:10.83,00:00:15.83,VideoSource, NTP,0000,0000,0000,,The End of Evangelion
+Dialogue: 0,00:00:10.83,00:00:15.83,AudioSource, NTP,0000,0000,0000,,Blood on the Dance Floor - Suicide Club 
+Dialogue: 0,00:00:28.71,00:00:33.71,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:00:28.71,00:00:33.71,VideoSource, NTP,0000,0000,0000,,Cowboy Bebop
+Dialogue: 0,00:00:28.71,00:00:33.71,AudioSource, NTP,0000,0000,0000,,Megamind (the movie) - Intro scene 
+Dialogue: 0,00:00:47.10,00:00:52.10,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:00:47.10,00:00:52.10,VideoSource, NTP,0000,0000,0000,,Galaxy Angel
+Dialogue: 0,00:00:47.10,00:00:52.10,AudioSource, NTP,0000,0000,0000,,My Little Pony: Friendship is Magic sound clips
+Dialogue: 0,00:01:13.06,00:01:18.06,Editor, NTP,0000,0000,0000,,StarRodMan
+Dialogue: 0,00:01:13.06,00:01:18.06,VideoSource, NTP,0000,0000,0000,,Overman King Gainer
+Dialogue: 0,00:01:13.06,00:01:18.06,AudioSource, NTP,0000,0000,0000,,Johnny Bravo Theme Song 
+Dialogue: 0,00:01:21.96,00:01:26.96,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:01:21.96,00:01:26.96,VideoSource, NTP,0000,0000,0000,,Angel Beats
+Dialogue: 0,00:01:21.96,00:01:26.96,AudioSource, NTP,0000,0000,0000,,South Park sound clips
+Dialogue: 0,00:01:30.57,00:01:35.57,Editor, NTP,0000,0000,0000,,LOLWTFBBQ
+Dialogue: 0,00:01:30.57,00:01:35.57,VideoSource, NTP,0000,0000,0000,,Tengen Toppa Gurren Lagann
+Dialogue: 0,00:01:30.57,00:01:35.57,AudioSource, NTP,0000,0000,0000,,Watchmen - sound clip 
+Dialogue: 0,00:01:45.97,00:01:50.97,Editor, NTP,0000,0000,0000,,Lmckay023
+Dialogue: 0,00:01:45.97,00:01:50.97,VideoSource, NTP,0000,0000,0000,,Fullmetal Alchemist Brotherhood
+Dialogue: 0,00:01:45.97,00:01:50.97,AudioSource, NTP,0000,0000,0000,,Super Mario bros 8 bit sound effects 
+Dialogue: 0,00:01:58.82,00:02:03.82,Editor, NTP,0000,0000,0000,,Kaiyou1691
+Dialogue: 0,00:01:58.82,00:02:03.82,VideoSource, NTP,0000,0000,0000,,Lucky Star
+Dialogue: 0,00:01:58.82,00:02:03.82,AudioSource, NTP,0000,0000,0000,,Jason Steele - 
+Dialogue: 0,00:02:31.37,00:02:36.37,Editor, NTP,0000,0000,0000,,Kurohei
+Dialogue: 0,00:02:31.37,00:02:36.37,VideoSource, NTP,0000,0000,0000,,Tengen Topa Gurren Lagann
+Dialogue: 0,00:02:31.37,00:02:36.37,AudioSource, NTP,0000,0000,0000,,Patient Zero - Dwarf Hole (Diggy Diggy Hole) 
+Dialogue: 0,00:02:52.32,00:02:57.32,Editor, NTP,0000,0000,0000,,adracamas
+Dialogue: 0,00:02:52.32,00:02:57.32,VideoSource, NTP,0000,0000,0000,,Fruits Basket
+Dialogue: 0,00:02:52.32,00:02:57.32,AudioSource, NTP,0000,0000,0000,,Mitch Hedberg - Houses 
+Dialogue: 0,00:03:02.70,00:03:07.70,Editor, NTP,0000,0000,0000,,IntegratedPaper
+Dialogue: 0,00:03:02.70,00:03:07.70,VideoSource, NTP,0000,0000,0000,,Clannad
+Dialogue: 0,00:03:02.70,00:03:07.70,AudioSource, NTP,0000,0000,0000,,Skyrim Sound Clip 
+Dialogue: 0,00:03:17.62,00:03:22.62,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:03:17.62,00:03:22.62,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z
+Dialogue: 0,00:03:17.62,00:03:22.62,AudioSource, NTP,0000,0000,0000,,The Boondocks Sound Clip 
+Dialogue: 0,00:03:32.35,00:03:37.35,Editor, NTP,0000,0000,0000,,Insignia
+Dialogue: 0,00:03:32.35,00:03:37.35,VideoSource, NTP,0000,0000,0000,,Highschool of the Dead
+Dialogue: 0,00:03:32.35,00:03:37.35,AudioSource, NTP,0000,0000,0000,,Tobuscus - Tobuscus Adventures 
+Dialogue: 0,00:03:56.83,00:04:01.83,Editor, NTP,0000,0000,0000,,IntegratedPaper
+Dialogue: 0,00:03:56.83,00:04:01.83,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:03:56.83,00:04:01.83,AudioSource, NTP,0000,0000,0000,,Chris Tomlin - How Great is Our God? 
+Dialogue: 0,00:04:13.55,00:04:18.55,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:04:13.55,00:04:18.55,VideoSource, NTP,0000,0000,0000,,Pani Poni Dash
+Dialogue: 0,00:04:13.55,00:04:18.55,AudioSource, NTP,0000,0000,0000,,Kindergarten Cop Sound clip 
+Dialogue: 0,00:04:28.72,00:04:33.72,Editor, NTP,0000,0000,0000,,Dajore Niseny Elph
+Dialogue: 0,00:04:28.72,00:04:33.72,VideoSource, NTP,0000,0000,0000,,Sailor Moon Super S
+Dialogue: 0,00:04:28.72,00:04:33.72,AudioSource, NTP,0000,0000,0000,,Star Wars Episode 4: A New Hope Sound Clip 
+Dialogue: 0,00:04:51.85,00:04:56.85,Editor, NTP,0000,0000,0000,,$ov13t
+Dialogue: 0,00:04:51.85,00:04:56.85,VideoSource, NTP,0000,0000,0000,,Poyno
+Dialogue: 0,00:04:51.85,00:04:56.85,AudioSource, NTP,0000,0000,0000,,Dave Rogers - Space Boy aka Initial D theme 
+Dialogue: 0,00:05:07.95,00:05:12.95,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:05:07.95,00:05:12.95,VideoSource, NTP,0000,0000,0000,,Akikan!
+Dialogue: 0,00:05:07.95,00:05:12.95,AudioSource, NTP,0000,0000,0000,,The Whitest Kids U' Know - Grapist 
+Dialogue: 0,00:05:26.25,00:05:31.25,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:05:26.25,00:05:31.25,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:05:26.25,00:05:31.25,AudioSource, NTP,0000,0000,0000,,The Beatles - Lucy in the Sky With Diamonds 
+Dialogue: 0,00:05:52.47,00:05:57.47,Editor, NTP,0000,0000,0000,,IntegratedPaper
+Dialogue: 0,00:05:52.47,00:05:57.47,VideoSource, NTP,0000,0000,0000,,Angel Beats!
+Dialogue: 0,00:05:52.47,00:05:57.47,AudioSource, NTP,0000,0000,0000,,Death Note Sound Clip 
+Dialogue: 0,00:06:05.48,00:06:10.48,Editor, NTP,0000,0000,0000,,mattroks101
+Dialogue: 0,00:06:05.48,00:06:10.48,VideoSource, NTP,0000,0000,0000,,Darker Than Black
+Dialogue: 0,00:06:05.48,00:06:10.48,AudioSource, NTP,0000,0000,0000,,Fat Joe - Make It Rain 
+Dialogue: 0,00:06:18.81,00:06:23.81,Editor, NTP,0000,0000,0000,,IntegratedPaper
+Dialogue: 0,00:06:18.81,00:06:23.81,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:06:18.81,00:06:23.81,AudioSource, NTP,0000,0000,0000,,The Lonely Island - Threw It On The Ground 
+Dialogue: 0,00:06:38.17,00:06:43.17,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:06:38.17,00:06:43.17,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:06:38.17,00:06:43.17,AudioSource, NTP,0000,0000,0000,,Styx - Too Much Time On My Hands 
+Dialogue: 0,00:06:45.73,00:06:50.73,Editor, NTP,0000,0000,0000,,Speedlemon
+Dialogue: 0,00:06:45.73,00:06:50.73,VideoSource, NTP,0000,0000,0000,,Panty and Stocking with Garterbelt
+Dialogue: 0,00:06:45.73,00:06:50.73,AudioSource, NTP,0000,0000,0000,,Eminem - Without Me 
+Dialogue: 0,00:07:02.95,00:07:07.95,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:07:02.95,00:07:07.95,VideoSource, NTP,0000,0000,0000,,Highschool Of The Dead
+Dialogue: 0,00:07:02.95,00:07:07.95,AudioSource, NTP,0000,0000,0000,,Pulp Fiction sound clip / The Centurians - Bullwinkle II 

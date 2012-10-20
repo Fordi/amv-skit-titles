@@ -1,0 +1,97 @@
+[Script Info]
+Title: AMV Minis S2 Episode 09
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.79,00:00:15.79,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:00:10.79,00:00:15.79,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh 
+Dialogue: 0,00:00:10.79,00:00:15.79,AudioSource, NTP,0000,0000,0000,,Songify This - Winning by Charlie Sheen
+Dialogue: 0,00:00:35.13,00:00:40.13,Editor, NTP,0000,0000,0000,,MEECROB
+Dialogue: 0,00:00:35.13,00:00:40.13,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya 
+Dialogue: 0,00:00:35.13,00:00:40.13,AudioSource, NTP,0000,0000,0000,,South Park sound clip
+Dialogue: 0,00:00:52.71,00:00:57.71,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:00:52.71,00:00:57.71,VideoSource, NTP,0000,0000,0000,,JoJo's bizarre adventure 
+Dialogue: 0,00:00:52.71,00:00:57.71,AudioSource, NTP,0000,0000,0000,,Chuck Berry - Riding along in my automobile
+Dialogue: 0,00:01:05.54,00:01:10.54,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:01:05.54,00:01:10.54,VideoSource, NTP,0000,0000,0000,,Dai Mahou Touge 
+Dialogue: 0,00:01:05.54,00:01:10.54,AudioSource, NTP,0000,0000,0000,,Portal 2 sound clip
+Dialogue: 0,00:01:07.90,00:01:12.90,Editor, NTP,0000,0000,0000,,Dajore Niseny Elph 
+Dialogue: 0,00:01:07.90,00:01:12.90,VideoSource, NTP,0000,0000,0000,,Bobobo-bo Bo-bobo 
+Dialogue: 0,00:01:07.90,00:01:12.90,AudioSource, NTP,0000,0000,0000,,Katy Perry - Firework
+Dialogue: 0,00:01:24.16,00:01:29.16,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:01:24.16,00:01:29.16,VideoSource, NTP,0000,0000,0000,,Dragonball
+Dialogue: 0,00:01:24.16,00:01:29.16,AudioSource, NTP,0000,0000,0000,,SpongeBob Squarepants sound clip
+Dialogue: 0,00:01:29.10,00:01:34.10,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:01:29.10,00:01:34.10,VideoSource, NTP,0000,0000,0000,,Toki wo kakeru shoujo 
+Dialogue: 0,00:01:29.10,00:01:34.10,AudioSource, NTP,0000,0000,0000,,Barrell Roll song
+Dialogue: 0,00:01:43.59,00:01:48.59,Editor, NTP,0000,0000,0000,,nyaakyle
+Dialogue: 0,00:01:43.59,00:01:48.59,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:01:43.59,00:01:48.59,AudioSource, NTP,0000,0000,0000,,Ferris bueller's day off sound clip
+Dialogue: 0,00:02:14.16,00:02:19.16,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:02:14.16,00:02:19.16,VideoSource, NTP,0000,0000,0000,,Death Note 
+Dialogue: 0,00:02:14.16,00:02:19.16,AudioSource, NTP,0000,0000,0000,,Nancy Sinatra - Bang Bang
+Dialogue: 0,00:02:37.18,00:02:42.18,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:02:37.18,00:02:42.18,VideoSource, NTP,0000,0000,0000,,Hellsing Ultimate 
+Dialogue: 0,00:02:37.18,00:02:42.18,AudioSource, NTP,0000,0000,0000,,asdfmovie
+Dialogue: 0,00:02:40.32,00:02:45.32,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:02:40.32,00:02:45.32,VideoSource, NTP,0000,0000,0000,,JoJo's Bizarre Adventure
+Dialogue: 0,00:02:40.32,00:02:45.32,AudioSource, NTP,0000,0000,0000,,Queen - Somebody to love 
+Dialogue: 0,00:02:49.94,00:02:54.94,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:02:49.94,00:02:54.94,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya 
+Dialogue: 0,00:02:49.94,00:02:54.94,AudioSource, NTP,0000,0000,0000,,Jackass 3.5 - sound clip
+Dialogue: 0,00:03:06.20,00:03:11.20,Editor, NTP,0000,0000,0000,,SilentChaz
+Dialogue: 0,00:03:06.20,00:03:11.20,VideoSource, NTP,0000,0000,0000,,Howl's Moving Castle 
+Dialogue: 0,00:03:06.20,00:03:11.20,AudioSource, NTP,0000,0000,0000,,The Crazy World of Arthur Brown - Fire
+Dialogue: 0,00:03:13.17,00:03:18.17,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:03:13.17,00:03:18.17,VideoSource, NTP,0000,0000,0000,,Highschool of the Dead 
+Dialogue: 0,00:03:13.17,00:03:18.17,AudioSource, NTP,0000,0000,0000,,The Outlaw Josey Wales sound clip
+Dialogue: 0,00:03:20.47,00:03:25.47,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:03:20.47,00:03:25.47,VideoSource, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:03:20.47,00:03:25.47,AudioSource, NTP,0000,0000,0000,,Right Said Fred - I'm Too Sexy
+Dialogue: 0,00:03:29.14,00:03:34.14,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:03:29.14,00:03:34.14,VideoSource, NTP,0000,0000,0000,,End of Evangelion 
+Dialogue: 0,00:03:29.14,00:03:34.14,AudioSource, NTP,0000,0000,0000,,Maybelline "Sensational Red" Lipstick Commercial 
+Dialogue: 0,00:03:45.34,00:03:50.34,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:03:45.34,00:03:50.34,VideoSource, NTP,0000,0000,0000,,K-On! 
+Dialogue: 0,00:03:45.34,00:03:50.34,AudioSource, NTP,0000,0000,0000,,Squeeze - Tempted
+Dialogue: 0,00:03:52.15,00:03:57.15,Editor, NTP,0000,0000,0000,,mattroks101
+Dialogue: 0,00:03:52.15,00:03:57.15,VideoSource, NTP,0000,0000,0000,,Trigun
+Dialogue: 0,00:03:52.15,00:03:57.15,AudioSource, NTP,0000,0000,0000,,George Thorogood - One Bourbon, One Scotch, One Beer 
+Dialogue: 0,00:04:06.77,00:04:11.77,Editor, NTP,0000,0000,0000,,jinzo64
+Dialogue: 0,00:04:06.77,00:04:11.77,VideoSource, NTP,0000,0000,0000,,Strike Witches 
+Dialogue: 0,00:04:06.77,00:04:11.77,AudioSource, NTP,0000,0000,0000,,K-on! sound clip
+Dialogue: 0,00:04:23.15,00:04:28.15,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:04:23.15,00:04:28.15,VideoSource, NTP,0000,0000,0000,,Toradora! 
+Dialogue: 0,00:04:23.15,00:04:28.15,AudioSource, NTP,0000,0000,0000,,Family Guy - Surfin' Bird
+Dialogue: 0,00:04:33.81,00:04:38.81,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:04:33.81,00:04:38.81,VideoSource, NTP,0000,0000,0000,,Kore wa Zombie Desu ka? 
+Dialogue: 0,00:04:33.81,00:04:38.81,AudioSource, NTP,0000,0000,0000,,System of a Down - Aerials
+Dialogue: 0,00:04:41.07,00:04:46.07,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:04:41.07,00:04:46.07,VideoSource, NTP,0000,0000,0000,,JoJo's Bizarre Adventures
+Dialogue: 0,00:04:41.07,00:04:46.07,AudioSource, NTP,0000,0000,0000,,The whitest kids you know - Russian roulette sound clip
+Dialogue: 0,00:04:57.66,00:05:02.66,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:04:57.66,00:05:02.66,VideoSource, NTP,0000,0000,0000,,End of Evangelion 
+Dialogue: 0,00:04:57.66,00:05:02.66,AudioSource, NTP,0000,0000,0000,,ABBA - Under Attack
+Dialogue: 0,00:05:14.75,00:05:19.75,Editor, NTP,0000,0000,0000,,Zanmora
+Dialogue: 0,00:05:14.75,00:05:19.75,VideoSource, NTP,0000,0000,0000,,Yu Yu Hakusho 
+Dialogue: 0,00:05:14.75,00:05:19.75,AudioSource, NTP,0000,0000,0000,,Kung Pow: Enter the Fist Sound Clip
+Dialogue: 0,00:05:19.73,00:05:24.73,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:05:19.73,00:05:24.73,VideoSource, NTP,0000,0000,0000,,Death Note 
+Dialogue: 0,00:05:19.73,00:05:24.73,AudioSource, NTP,0000,0000,0000,,Eminem - Toy Soldiers
+Dialogue: 0,00:05:46.38,00:05:51.38,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:05:46.38,00:05:51.38,VideoSource, NTP,0000,0000,0000,,Kyoto Animation Commercial 
+Dialogue: 0,00:05:46.38,00:05:51.38,AudioSource, NTP,0000,0000,0000,,The Hitchhickers guide to the galaxy - So long and thanks for all the fish 
