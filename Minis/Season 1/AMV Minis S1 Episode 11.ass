@@ -1,0 +1,103 @@
+[Script Info]
+Title: AMV Minis S1 Episode 11
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:14.94,00:00:19.94,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:00:14.94,00:00:19.94,VideoSource, NTP,0000,0000,0000,,School Rumble
+Dialogue: 0,00:00:14.94,00:00:19.94,AudioSource, NTP,0000,0000,0000,,Indochine - You Spin Me Round (Like A Record)
+Dialogue: 0,00:00:43.62,00:00:48.62,Editor, NTP,0000,0000,0000,,IrisGirlProductions
+Dialogue: 0,00:00:43.62,00:00:48.62,VideoSource, NTP,0000,0000,0000,,Higurashi no Naku Koro Ni
+Dialogue: 0,00:00:43.62,00:00:48.62,AudioSource, NTP,0000,0000,0000,,Clone High sound clip
+Dialogue: 0,00:00:58.58,00:01:03.58,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:00:58.58,00:01:03.58,VideoSource, NTP,0000,0000,0000,,School Rumble
+Dialogue: 0,00:00:58.58,00:01:03.58,AudioSource, NTP,0000,0000,0000,,Bon Jovi - Shot Through the heart
+Dialogue: 0,00:01:17.75,00:01:22.75,Editor, NTP,0000,0000,0000,,PhantomRonin
+Dialogue: 0,00:01:17.75,00:01:22.75,VideoSource, NTP,0000,0000,0000,,Hellsing
+Dialogue: 0,00:01:17.75,00:01:22.75,AudioSource, NTP,0000,0000,0000,,Pulp Fiction sound clip
+Dialogue: 0,00:01:41.58,00:01:46.58,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:01:41.58,00:01:46.58,VideoSource, NTP,0000,0000,0000,,Basilisk
+Dialogue: 0,00:01:41.58,00:01:46.58,AudioSource, NTP,0000,0000,0000,,Kung Pow sound clip
+Dialogue: 0,00:01:48.46,00:01:53.46,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:01:48.46,00:01:53.46,VideoSource, NTP,0000,0000,0000,,Sound of the Skies
+Dialogue: 0,00:01:48.46,00:01:53.46,AudioSource, NTP,0000,0000,0000,,Sonic the Hedgehog sound clips
+Dialogue: 0,00:02:26.13,00:02:31.13,Editor, NTP,0000,0000,0000,,Tayson1570
+Dialogue: 0,00:02:26.13,00:02:31.13,VideoSource, NTP,0000,0000,0000,,Naruto
+Dialogue: 0,00:02:26.13,00:02:31.13,AudioSource, NTP,0000,0000,0000,,Eminem ft. Rihanna - Love the way you lie
+Dialogue: 0,00:02:41.90,00:02:46.90,Editor, NTP,0000,0000,0000,,carloscurro
+Dialogue: 0,00:02:41.90,00:02:46.90,VideoSource, NTP,0000,0000,0000,,Golden Boy
+Dialogue: 0,00:02:41.90,00:02:46.90,AudioSource, NTP,0000,0000,0000,,John Williams - E.T.
+Dialogue: 0,00:03:07.69,00:03:12.69,Editor, NTP,0000,0000,0000,,Hosokawa37
+Dialogue: 0,00:03:07.69,00:03:12.69,VideoSource, NTP,0000,0000,0000,,Fullmetal Alchemist Brotherhood
+Dialogue: 0,00:03:07.69,00:03:12.69,AudioSource, NTP,0000,0000,0000,,Disturbed - Indestructible
+Dialogue: 0,00:03:13.79,00:03:18.79,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:03:13.79,00:03:18.79,VideoSource, NTP,0000,0000,0000,,School Rumble
+Dialogue: 0,00:03:13.79,00:03:18.79,AudioSource, NTP,0000,0000,0000,,Bon Jovi - You Give Love a Bad Name
+Dialogue: 0,00:03:29.86,00:03:34.86,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:03:29.86,00:03:34.86,VideoSource, NTP,0000,0000,0000,,Dragonball Z
+Dialogue: 0,00:03:29.86,00:03:34.86,AudioSource, NTP,0000,0000,0000,,Larry The Cable Guy sound clip
+Dialogue: 0,00:03:32.48,00:03:37.48,Editor, NTP,0000,0000,0000,,HalOfBorg
+Dialogue: 0,00:03:32.48,00:03:37.48,VideoSource, NTP,0000,0000,0000,,Desert Punk
+Dialogue: 0,00:03:32.48,00:03:37.48,AudioSource, NTP,0000,0000,0000,,Unknown - "Good Morning!"
+Dialogue: 0,00:04:01.70,00:04:06.70,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:04:01.70,00:04:06.70,VideoSource, NTP,0000,0000,0000,,Toaru Kagaku no Railgun
+Dialogue: 0,00:04:01.70,00:04:06.70,AudioSource, NTP,0000,0000,0000,,Team Fortress 2 sound clip
+Dialogue: 0,00:04:06.02,00:04:11.02,Editor, NTP,0000,0000,0000,,David Cooks
+Dialogue: 0,00:04:06.02,00:04:11.02,VideoSource, NTP,0000,0000,0000,,Kiss x sis
+Dialogue: 0,00:04:06.02,00:04:11.02,AudioSource, NTP,0000,0000,0000,,Blink 182 - Depends
+Dialogue: 0,00:04:24.77,00:04:29.77,Editor, NTP,0000,0000,0000,,David Cooks
+Dialogue: 0,00:04:24.77,00:04:29.77,VideoSource, NTP,0000,0000,0000,,Karin
+Dialogue: 0,00:04:24.77,00:04:29.77,AudioSource, NTP,0000,0000,0000,,Fastkill - Bloodbath
+Dialogue: 0,00:04:28.00,00:04:33.00,Editor, NTP,0000,0000,0000,,DXM
+Dialogue: 0,00:04:28.00,00:04:33.00,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z
+Dialogue: 0,00:04:28.00,00:04:33.00,AudioSource, NTP,0000,0000,0000,,Kung pow sound clip
+Dialogue: 0,00:05:12.82,00:05:17.82,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:05:12.82,00:05:17.82,VideoSource, NTP,0000,0000,0000,,They Are My Nobel Masters
+Dialogue: 0,00:05:12.82,00:05:17.82,AudioSource, NTP,0000,0000,0000,,The Lazer Collection (Dr. Octagonapus) sound clip
+Dialogue: 0,00:05:15.08,00:05:20.08,Editor, NTP,0000,0000,0000,,LedusCoast
+Dialogue: 0,00:05:15.08,00:05:20.08,VideoSource, NTP,0000,0000,0000,,School Days
+Dialogue: 0,00:05:15.08,00:05:20.08,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:05:31.11,00:05:36.11,Editor, NTP,0000,0000,0000,,Menelkiner
+Dialogue: 0,00:05:31.11,00:05:36.11,VideoSource, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:05:31.11,00:05:36.11,AudioSource, NTP,0000,0000,0000,,Monty Python and the Holy Grail sound clip
+Dialogue: 0,00:05:35.38,00:05:40.38,Editor, NTP,0000,0000,0000,,Prophet of Doom
+Dialogue: 0,00:05:35.38,00:05:40.38,VideoSource, NTP,0000,0000,0000,,Pokemon 
+Dialogue: 0,00:05:35.38,00:05:40.38,AudioSource, NTP,0000,0000,0000,,The Steve Miller Band - Abrakadabra
+Dialogue: 0,00:05:51.79,00:05:56.79,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:05:51.79,00:05:56.79,VideoSource, NTP,0000,0000,0000,,Sound of the Skies
+Dialogue: 0,00:05:51.79,00:05:56.79,AudioSource, NTP,0000,0000,0000,,Kill Bill Vol. 2 OST - The Legend of Pai Mei
+Dialogue: 0,00:06:14.03,00:06:19.03,Editor, NTP,0000,0000,0000,,Prophet of Doom
+Dialogue: 0,00:06:14.03,00:06:19.03,VideoSource, NTP,0000,0000,0000,,Legend Of Zelda: The Windwaker
+Dialogue: 0,00:06:14.03,00:06:19.03,AudioSource, NTP,0000,0000,0000,,James Blunt - My Triangle
+Dialogue: 0,00:06:25.66,00:06:30.66,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:06:25.66,00:06:30.66,VideoSource, NTP,0000,0000,0000,,Halo: Legends
+Dialogue: 0,00:06:25.66,00:06:30.66,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:06:51.04,00:06:56.04,Editor, NTP,0000,0000,0000,,TPishek
+Dialogue: 0,00:06:51.04,00:06:56.04,VideoSource, NTP,0000,0000,0000,,Toaru Kagaku no Railgun
+Dialogue: 0,00:06:51.04,00:06:56.04,AudioSource, NTP,0000,0000,0000,,Pokemon sound clip
+Dialogue: 0,00:06:59.05,00:07:04.05,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:06:59.05,00:07:04.05,VideoSource, NTP,0000,0000,0000,,School Rumble
+Dialogue: 0,00:06:59.05,00:07:04.05,AudioSource, NTP,0000,0000,0000,,Imogen Heap - Hide and Seek
+Dialogue: 0,00:07:14.71,00:07:19.71,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:07:14.71,00:07:19.71,VideoSource, NTP,0000,0000,0000,,Highschool of the Dead
+Dialogue: 0,00:07:14.71,00:07:19.71,AudioSource, NTP,0000,0000,0000,,G Gundam sound clip
+Dialogue: 0,00:07:18.50,00:07:23.50,Editor, NTP,0000,0000,0000,,hasyly
+Dialogue: 0,00:07:18.50,00:07:23.50,VideoSource, NTP,0000,0000,0000,,Seikimatsu Occult Gakuin
+Dialogue: 0,00:07:18.50,00:07:23.50,AudioSource, NTP,0000,0000,0000,,Richard Gale - SPOON vs. SPOON
+Dialogue: 0,00:07:38.64,00:07:43.64,Editor, NTP,0000,0000,0000,,Osaka117
+Dialogue: 0,00:07:38.64,00:07:43.64,VideoSource, NTP,0000,0000,0000,,Lucky Star OVA
+Dialogue: 0,00:07:38.64,00:07:43.64,AudioSource, NTP,0000,0000,0000,,Paul Stanley - Live to Win 

@@ -1,0 +1,67 @@
+﻿[Script Info]
+Title: AMV Minis S1 Episode 04
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:15.11,00:00:20.11,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:00:15.11,00:00:20.11,VideoSource, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:00:15.11,00:00:20.11,AudioSource, NTP,0000,0000,0000,,INXS - New Sensation
+Dialogue: 0,00:00:38.31,00:00:43.31,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:00:38.31,00:00:43.31,VideoSource, NTP,0000,0000,0000,,Dragonball Z 
+Dialogue: 0,00:00:38.31,00:00:43.31,AudioSource, NTP,0000,0000,0000,,Ready to Rumble sound clip
+Dialogue: 0,00:00:53.56,00:00:58.56,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:00:53.56,00:00:58.56,VideoSource, NTP,0000,0000,0000,,Sasami Magical Girls Club
+Dialogue: 0,00:00:53.56,00:00:58.56,AudioSource, NTP,0000,0000,0000,,Matthew Wilder - Break My Stride
+Dialogue: 0,00:01:15.19,00:01:20.19,Editor, NTP,0000,0000,0000,,Keena53
+Dialogue: 0,00:01:15.19,00:01:20.19,VideoSource, NTP,0000,0000,0000,,Kuroshitsuji
+Dialogue: 0,00:01:15.19,00:01:20.19,AudioSource, NTP,0000,0000,0000,,Porgy and Bess - Bess, You is Mah Woman Now
+Dialogue: 0,00:01:45.74,00:01:50.74,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:01:45.74,00:01:50.74,VideoSource, NTP,0000,0000,0000,,Bokusatsu Tenshi Dokuro-chan
+Dialogue: 0,00:01:45.74,00:01:50.74,AudioSource, NTP,0000,0000,0000,,Spongebob Squarepants sound clip
+Dialogue: 0,00:01:57.19,00:02:02.19,Editor, NTP,0000,0000,0000,,Rhoran
+Dialogue: 0,00:01:57.19,00:02:02.19,VideoSource, NTP,0000,0000,0000,,IGPX: Immortal Grand Prix
+Dialogue: 0,00:01:57.19,00:02:02.19,AudioSource, NTP,0000,0000,0000,,Space Ghost sound clip
+Dialogue: 0,00:02:13.54,00:02:18.54,Editor, NTP,0000,0000,0000,,Austin Marck
+Dialogue: 0,00:02:13.54,00:02:18.54,VideoSource, NTP,0000,0000,0000,,Dennou Coil
+Dialogue: 0,00:02:13.54,00:02:18.54,AudioSource, NTP,0000,0000,0000,,The Lonely Island - Throw It On The Ground
+Dialogue: 0,00:02:33.59,00:02:38.59,Editor, NTP,0000,0000,0000,,The-Ville
+Dialogue: 0,00:02:33.59,00:02:38.59,VideoSource, NTP,0000,0000,0000,,K-On!
+Dialogue: 0,00:02:33.59,00:02:38.59,AudioSource, NTP,0000,0000,0000,,Led Zeppelin - Stairway to Heaven
+Dialogue: 0,00:03:02.28,00:03:07.28,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:03:02.28,00:03:07.28,VideoSource, NTP,0000,0000,0000,,When the Cicada's Cry-Higurashi 
+Dialogue: 0,00:03:02.28,00:03:07.28,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:03:11.66,00:03:16.66,Editor, NTP,0000,0000,0000,,Akatissi
+Dialogue: 0,00:03:11.66,00:03:16.66,VideoSource, NTP,0000,0000,0000,,Yakitate!! Japan
+Dialogue: 0,00:03:11.66,00:03:16.66,AudioSource, NTP,0000,0000,0000,,Green Day - American Idiot
+Dialogue: 0,00:03:27.50,00:03:32.50,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:03:27.50,00:03:32.50,VideoSource, NTP,0000,0000,0000,,Princess Mononoke
+Dialogue: 0,00:03:27.50,00:03:32.50,AudioSource, NTP,0000,0000,0000,,Monty Python and the Holy Grail sound clip
+Dialogue: 0,00:03:47.18,00:03:52.18,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:03:47.18,00:03:52.18,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:03:47.18,00:03:52.18,AudioSource, NTP,0000,0000,0000,,The Lancashire Hotpots - Bitter Lager Cider Ale Stout
+Dialogue: 0,00:04:05.05,00:04:10.05,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:04:05.05,00:04:10.05,VideoSource, NTP,0000,0000,0000,,End of Evangelion
+Dialogue: 0,00:04:05.05,00:04:10.05,AudioSource, NTP,0000,0000,0000,,The Shining sound clip
+Dialogue: 0,00:04:22.90,00:04:27.90,Editor, NTP,0000,0000,0000,,Absolute_Apocalypse 
+Dialogue: 0,00:04:22.90,00:04:27.90,VideoSource, NTP,0000,0000,0000,,School Days 
+Dialogue: 0,00:04:22.90,00:04:27.90,AudioSource, NTP,0000,0000,0000,,Kagami Seira - Super Special 
+Dialogue: 0,00:04:42.36,00:04:47.36,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:04:42.36,00:04:47.36,VideoSource, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:04:42.36,00:04:47.36,AudioSource, NTP,0000,0000,0000,,Miss Papaya - Supergirl
+Dialogue: 0,00:04:56.95,00:05:01.95,Editor, NTP,0000,0000,0000,,★☆★
+Dialogue: 0,00:04:56.95,00:05:01.95,VideoSource, NTP,0000,0000,0000,,Code Geass
+Dialogue: 0,00:04:56.95,00:05:01.95,AudioSource, NTP,0000,0000,0000,,Portal sound clips 

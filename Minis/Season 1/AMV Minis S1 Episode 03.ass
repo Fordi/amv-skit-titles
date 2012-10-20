@@ -1,0 +1,67 @@
+[Script Info]
+Title: AMV Minis S1 Episode 03
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:15.01,00:00:20.01,Editor, NTP,0000,0000,0000,,Nygmatech Enterprises
+Dialogue: 0,00:00:15.01,00:00:20.01,VideoSource, NTP,0000,0000,0000,,Moyashimon
+Dialogue: 0,00:00:15.01,00:00:20.01,AudioSource, NTP,0000,0000,0000,,Bill Nye the Science Guy theme song
+Dialogue: 0,00:00:45.22,00:00:50.22,Editor, NTP,0000,0000,0000,,Humnut
+Dialogue: 0,00:00:45.22,00:00:50.22,VideoSource, NTP,0000,0000,0000,,Dragonball Z 
+Dialogue: 0,00:00:45.22,00:00:50.22,AudioSource, NTP,0000,0000,0000,,Yugioh the Abridged Series sound clip
+Dialogue: 0,00:01:08.39,00:01:13.39,Editor, NTP,0000,0000,0000,,Absolute_Apocalypse 
+Dialogue: 0,00:01:08.39,00:01:13.39,VideoSource, NTP,0000,0000,0000,,Toradora! 
+Dialogue: 0,00:01:08.39,00:01:13.39,AudioSource, NTP,0000,0000,0000,,Donovan - Mellow Yellow
+Dialogue: 0,00:01:22.02,00:01:27.02,Editor, NTP,0000,0000,0000,,Absolute_Apocalypse
+Dialogue: 0,00:01:22.02,00:01:27.02,VideoSource, NTP,0000,0000,0000,,End of Evangelion
+Dialogue: 0,00:01:22.02,00:01:27.02,AudioSource, NTP,0000,0000,0000,,End of Evangelion sound clip
+Dialogue: 0,00:01:33.26,00:01:38.26,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:01:33.26,00:01:38.26,VideoSource, NTP,0000,0000,0000,,Petopeto-san
+Dialogue: 0,00:01:33.26,00:01:38.26,AudioSource, NTP,0000,0000,0000,,Lady Gaga - Pokerface
+Dialogue: 0,00:01:41.73,00:01:46.73,Editor, NTP,0000,0000,0000,,The-Ville 
+Dialogue: 0,00:01:41.73,00:01:46.73,VideoSource, NTP,0000,0000,0000,,Hellsing Ultimate
+Dialogue: 0,00:01:41.73,00:01:46.73,AudioSource, NTP,0000,0000,0000,,Alice Cooper - Feed my Frankenstein
+Dialogue: 0,00:01:52.16,00:01:57.16,Editor, NTP,0000,0000,0000,,Angelyco
+Dialogue: 0,00:01:52.16,00:01:57.16,VideoSource, NTP,0000,0000,0000,,Moyashimon - Microbe Theatre Deluxe
+Dialogue: 0,00:01:52.16,00:01:57.16,AudioSource, NTP,0000,0000,0000,,Relient K - Crayons Can Melt on Us for All I Care
+Dialogue: 0,00:02:04.68,00:02:09.68,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:02:04.68,00:02:09.68,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion 
+Dialogue: 0,00:02:04.68,00:02:09.68,AudioSource, NTP,0000,0000,0000,,Invader Zim sound clip
+Dialogue: 0,00:02:15.09,00:02:20.09,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:02:15.09,00:02:20.09,VideoSource, NTP,0000,0000,0000,,Excel Saga 
+Dialogue: 0,00:02:15.09,00:02:20.09,AudioSource, NTP,0000,0000,0000,,West Side Story - I Feel Pretty
+Dialogue: 0,00:02:41.44,00:02:46.44,Editor, NTP,0000,0000,0000,,Raster88
+Dialogue: 0,00:02:41.44,00:02:46.44,VideoSource, NTP,0000,0000,0000,,Fullmetal Alchemist
+Dialogue: 0,00:02:41.44,00:02:46.44,AudioSource, NTP,0000,0000,0000,,Jeff Dunham - Oh Holy Crap
+Dialogue: 0,00:02:50.13,00:02:55.13,Editor, NTP,0000,0000,0000,,Ari-chan
+Dialogue: 0,00:02:50.13,00:02:55.13,VideoSource, NTP,0000,0000,0000,,Saint Tail 
+Dialogue: 0,00:02:50.13,00:02:55.13,AudioSource, NTP,0000,0000,0000,,Papa Roach - Getting Away with Murder
+Dialogue: 0,00:03:19.92,00:03:24.92,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:03:19.92,00:03:24.92,VideoSource, NTP,0000,0000,0000,,End of Evangelion 
+Dialogue: 0,00:03:19.92,00:03:24.92,AudioSource, NTP,0000,0000,0000,,Troll 2 sound clip
+Dialogue: 0,00:03:39.11,00:03:44.11,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:03:39.11,00:03:44.11,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:03:39.11,00:03:44.11,AudioSource, NTP,0000,0000,0000,,Kelly - Let Me Borrow That Top
+Dialogue: 0,00:03:56.72,00:04:01.72,Editor, NTP,0000,0000,0000,,greensucksbluerules
+Dialogue: 0,00:03:56.72,00:04:01.72,VideoSource, NTP,0000,0000,0000,,Golgo 13: The Professional 
+Dialogue: 0,00:03:56.72,00:04:01.72,AudioSource, NTP,0000,0000,0000,,Tom Petty - Free Fallin' 
+Dialogue: 0,00:04:18.75,00:04:23.75,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:04:18.75,00:04:23.75,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:04:18.75,00:04:23.75,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:04:25.16,00:04:30.16,Editor, NTP,0000,0000,0000,,StarRodMan
+Dialogue: 0,00:04:25.16,00:04:30.16,VideoSource, NTP,0000,0000,0000,,Higurashi no Naku Koro ni Kai 
+Dialogue: 0,00:04:25.16,00:04:30.16,AudioSource, NTP,0000,0000,0000,,Team Fortress 2 

@@ -1,0 +1,67 @@
+[Script Info]
+Title: AMV Minis S1 Episode 09
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:14.89,00:00:19.89,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:00:14.89,00:00:19.89,VideoSource, NTP,0000,0000,0000,,Ouran High School Host Club
+Dialogue: 0,00:00:14.89,00:00:19.89,AudioSource, NTP,0000,0000,0000,,Renaldo Lapuz - We're Brothers Forever DANCE MIX
+Dialogue: 0,00:00:46.17,00:00:51.17,Editor, NTP,0000,0000,0000,,SouthTexasTitan
+Dialogue: 0,00:00:46.17,00:00:51.17,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:00:46.17,00:00:51.17,AudioSource, NTP,0000,0000,0000,,The Waterboy sound clip
+Dialogue: 0,00:00:54.03,00:00:59.03,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:00:54.03,00:00:59.03,VideoSource, NTP,0000,0000,0000,,Code Geass
+Dialogue: 0,00:00:54.03,00:00:59.03,AudioSource, NTP,0000,0000,0000,,Christina Aguilera - Genie In a Bottle
+Dialogue: 0,00:01:18.49,00:01:23.49,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:01:18.49,00:01:23.49,VideoSource, NTP,0000,0000,0000,,Bleach
+Dialogue: 0,00:01:18.49,00:01:23.49,AudioSource, NTP,0000,0000,0000,,Spongebob Squarepants sound clip
+Dialogue: 0,00:01:20.86,00:01:25.86,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:01:20.86,00:01:25.86,VideoSource, NTP,0000,0000,0000,,End of Evangelion
+Dialogue: 0,00:01:20.86,00:01:25.86,AudioSource, NTP,0000,0000,0000,,Conan: The Barbarian sound clip
+Dialogue: 0,00:02:00.92,00:02:05.92,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:02:00.92,00:02:05.92,VideoSource, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:02:00.92,00:02:05.92,AudioSource, NTP,0000,0000,0000,,Evanesence - Going Under
+Dialogue: 0,00:02:07.17,00:02:12.17,Editor, NTP,0000,0000,0000,,Prophet of Doom
+Dialogue: 0,00:02:07.17,00:02:12.17,VideoSource, NTP,0000,0000,0000,,Tenchi Muyo
+Dialogue: 0,00:02:07.17,00:02:12.17,AudioSource, NTP,0000,0000,0000,,Red Dwarf sound clip
+Dialogue: 0,00:02:37.24,00:02:42.24,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:02:37.24,00:02:42.24,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:02:37.24,00:02:42.24,AudioSource, NTP,0000,0000,0000,,The Door - The End, "Weird Al" Yankovic - Albuquerque
+Dialogue: 0,00:02:43.32,00:02:48.32,Editor, NTP,0000,0000,0000,,Prophet of Doom
+Dialogue: 0,00:02:43.32,00:02:48.32,VideoSource, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:02:43.32,00:02:48.32,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:03:14.18,00:03:19.18,Editor, NTP,0000,0000,0000,,emi-chan
+Dialogue: 0,00:03:14.18,00:03:19.18,VideoSource, NTP,0000,0000,0000,,Ouran High School Host Club
+Dialogue: 0,00:03:14.18,00:03:19.18,AudioSource, NTP,0000,0000,0000,,SMA Commercial sound clip
+Dialogue: 0,00:03:25.70,00:03:30.70,Editor, NTP,0000,0000,0000,,StarRodMan
+Dialogue: 0,00:03:25.70,00:03:30.70,VideoSource, NTP,0000,0000,0000,,Aim for the Top! Gunbuster
+Dialogue: 0,00:03:25.70,00:03:30.70,AudioSource, NTP,0000,0000,0000,,Punch-Out!! Training Theme
+Dialogue: 0,00:03:39.06,00:03:44.06,Editor, NTP,0000,0000,0000,,Jen Star
+Dialogue: 0,00:03:39.06,00:03:44.06,VideoSource, NTP,0000,0000,0000,,K-On
+Dialogue: 0,00:03:39.06,00:03:44.06,AudioSource, NTP,0000,0000,0000,,Glee sound clip
+Dialogue: 0,00:03:45.82,00:03:50.82,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:03:45.82,00:03:50.82,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:03:45.82,00:03:50.82,AudioSource, NTP,0000,0000,0000,,Thunderbirds Opening Theme
+Dialogue: 0,00:04:18.63,00:04:23.63,Editor, NTP,0000,0000,0000,,Stevie
+Dialogue: 0,00:04:18.63,00:04:23.63,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:04:18.63,00:04:23.63,AudioSource, NTP,0000,0000,0000,,How the Grinch Stole Christmas - Mr. Grinch
+Dialogue: 0,00:04:49.00,00:04:54.00,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:04:49.00,00:04:54.00,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:04:49.00,00:04:54.00,AudioSource, NTP,0000,0000,0000,,Nick Jr sound clip
+Dialogue: 0,00:05:07.06,00:05:12.06,Editor, NTP,0000,0000,0000,,Robert Frazer & fdYkn 
+Dialogue: 0,00:05:07.06,00:05:12.06,VideoSource, NTP,0000,0000,0000,,Heroman
+Dialogue: 0,00:05:07.06,00:05:12.06,AudioSource, NTP,0000,0000,0000,,Prodigy - Voodoo People (Pendulum Remix), Fallout 3 sound clips 

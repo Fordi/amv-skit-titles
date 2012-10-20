@@ -1,0 +1,64 @@
+[Script Info]
+Title: AMV Minis S1 Episode 06
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:14.98,00:00:19.98,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:00:14.98,00:00:19.98,VideoSource, NTP,0000,0000,0000,,Galaxy Angel
+Dialogue: 0,00:00:14.98,00:00:19.98,AudioSource, NTP,0000,0000,0000,,Lou Bega - Mambo No. 5
+Dialogue: 0,00:00:36.54,00:00:41.54,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:00:36.54,00:00:41.54,VideoSource, NTP,0000,0000,0000,,Evangelion 1.01: You Are (Not) Alone
+Dialogue: 0,00:00:36.54,00:00:41.54,AudioSource, NTP,0000,0000,0000,,Aqua Teen Hunger Force sound clip
+Dialogue: 0,00:00:52.37,00:00:57.37,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:00:52.37,00:00:57.37,VideoSource, NTP,0000,0000,0000,,Crayon Shin Chan
+Dialogue: 0,00:00:52.37,00:00:57.37,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:01:28.81,00:01:33.81,Editor, NTP,0000,0000,0000,,Zion Prowler Kraze
+Dialogue: 0,00:01:28.81,00:01:33.81,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:01:28.81,00:01:33.81,AudioSource, NTP,0000,0000,0000,,Carry On Screaming sound clip
+Dialogue: 0,00:01:38.34,00:01:43.34,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:01:38.34,00:01:43.34,VideoSource, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:01:38.34,00:01:43.34,AudioSource, NTP,0000,0000,0000,,Queen - Another one bites the dust
+Dialogue: 0,00:01:57.38,00:02:02.38,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:01:57.38,00:02:02.38,VideoSource, NTP,0000,0000,0000,,Aria: The Animation
+Dialogue: 0,00:01:57.38,00:02:02.38,AudioSource, NTP,0000,0000,0000,,Disney's The Little Mermaid sound clip
+Dialogue: 0,00:02:24.16,00:02:29.16,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:02:24.16,00:02:29.16,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:02:24.16,00:02:29.16,AudioSource, NTP,0000,0000,0000,,The Wizard sound clip
+Dialogue: 0,00:02:30.55,00:02:35.55,Editor, NTP,0000,0000,0000,,humnut
+Dialogue: 0,00:02:30.55,00:02:35.55,VideoSource, NTP,0000,0000,0000,,Today in class 5-2
+Dialogue: 0,00:02:30.55,00:02:35.55,AudioSource, NTP,0000,0000,0000,,Monkey Steals the Peach - Guitar Hero
+Dialogue: 0,00:02:58.69,00:03:03.69,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:02:58.69,00:03:03.69,VideoSource, NTP,0000,0000,0000,,Lucky Star
+Dialogue: 0,00:02:58.69,00:03:03.69,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:03:10.10,00:03:15.10,Editor, NTP,0000,0000,0000,,ChezTuffy 
+Dialogue: 0,00:03:10.10,00:03:15.10,VideoSource, NTP,0000,0000,0000,,The Vision of Escaflowne
+Dialogue: 0,00:03:10.10,00:03:15.10,AudioSource, NTP,0000,0000,0000,,Schnappi, das kleine Krokodil
+Dialogue: 0,00:03:18.48,00:03:23.48,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:03:18.48,00:03:23.48,VideoSource, NTP,0000,0000,0000,,Gunslinger Girl
+Dialogue: 0,00:03:18.48,00:03:23.48,AudioSource, NTP,0000,0000,0000,,The Italian Job sound clip
+Dialogue: 0,00:03:38.87,00:03:43.87,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:03:38.87,00:03:43.87,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:03:38.87,00:03:43.87,AudioSource, NTP,0000,0000,0000,,Bryant Oden - I Got A Pea
+Dialogue: 0,00:03:57.60,00:04:02.60,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:03:57.60,00:04:02.60,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:03:57.60,00:04:02.60,AudioSource, NTP,0000,0000,0000,,Beavis and Butthead: Do America sound clip
+Dialogue: 0,00:04:47.63,00:04:52.63,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:04:47.63,00:04:52.63,VideoSource, NTP,0000,0000,0000,,One Piece
+Dialogue: 0,00:04:47.63,00:04:52.63,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:04:51.29,00:04:56.29,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:04:51.29,00:04:56.29,VideoSource, NTP,0000,0000,0000,,Love Hina
+Dialogue: 0,00:04:51.29,00:04:56.29,AudioSource, NTP,0000,0000,0000,,Dora the Explorer theme song 

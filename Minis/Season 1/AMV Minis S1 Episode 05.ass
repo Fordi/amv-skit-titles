@@ -1,0 +1,61 @@
+[Script Info]
+Title: AMV Minis S1 Episode 05
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:15.05,00:00:20.05,Editor, NTP,0000,0000,0000,,Absolute_Apocalypse
+Dialogue: 0,00:00:15.05,00:00:20.05,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:00:15.05,00:00:20.05,AudioSource, NTP,0000,0000,0000,,Lonely Island - Like A Boss
+Dialogue: 0,00:00:43.65,00:00:48.65,Editor, NTP,0000,0000,0000,,CelticFoxx
+Dialogue: 0,00:00:43.65,00:00:48.65,VideoSource, NTP,0000,0000,0000,,Utawarerumono 
+Dialogue: 0,00:00:43.65,00:00:48.65,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:01:15.78,00:01:20.78,Editor, NTP,0000,0000,0000,,Threvlin
+Dialogue: 0,00:01:15.78,00:01:20.78,VideoSource, NTP,0000,0000,0000,,Ghost in the Shell
+Dialogue: 0,00:01:15.78,00:01:20.78,AudioSource, NTP,0000,0000,0000,,"Weird Al" Yankovic - Virus Alert
+Dialogue: 0,00:01:45.51,00:01:50.51,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:01:45.51,00:01:50.51,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:01:45.51,00:01:50.51,AudioSource, NTP,0000,0000,0000,,Futurama sound clip
+Dialogue: 0,00:02:11.38,00:02:16.38,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:02:11.38,00:02:16.38,VideoSource, NTP,0000,0000,0000,,Naruto Shippuden
+Dialogue: 0,00:02:11.38,00:02:16.38,AudioSource, NTP,0000,0000,0000,,The Producers - Keep it Gay
+Dialogue: 0,00:02:17.86,00:02:22.86,Editor, NTP,0000,0000,0000,,FORDboy357
+Dialogue: 0,00:02:17.86,00:02:22.86,VideoSource, NTP,0000,0000,0000,,Fist of the North Star
+Dialogue: 0,00:02:17.86,00:02:22.86,AudioSource, NTP,0000,0000,0000,,Hillbilly Ninja sound clip, South Park sound clip
+Dialogue: 0,00:02:38.39,00:02:43.39,Editor, NTP,0000,0000,0000,,Raster88
+Dialogue: 0,00:02:38.39,00:02:43.39,VideoSource, NTP,0000,0000,0000,,Naruto Shippuden
+Dialogue: 0,00:02:38.39,00:02:43.39,AudioSource, NTP,0000,0000,0000,,Alice in Wonderland - Painting the Roses Red
+Dialogue: 0,00:02:54.96,00:02:59.96,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:02:54.96,00:02:59.96,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:02:54.96,00:02:59.96,AudioSource, NTP,0000,0000,0000,,Futurama sound clip
+Dialogue: 0,00:03:06.19,00:03:11.19,Editor, NTP,0000,0000,0000,,NegiTraudt
+Dialogue: 0,00:03:06.19,00:03:11.19,VideoSource, NTP,0000,0000,0000,,Code Geass
+Dialogue: 0,00:03:06.19,00:03:11.19,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:03:21.74,00:03:26.74,Editor, NTP,0000,0000,0000,,Austin Marck 
+Dialogue: 0,00:03:21.74,00:03:26.74,VideoSource, NTP,0000,0000,0000,,Hayate No Gotoku
+Dialogue: 0,00:03:21.74,00:03:26.74,AudioSource, NTP,0000,0000,0000,,The Mighty boosh - Old Gregg
+Dialogue: 0,00:03:46.92,00:03:51.92,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:03:46.92,00:03:51.92,VideoSource, NTP,0000,0000,0000,,PetoPeto-san
+Dialogue: 0,00:03:46.92,00:03:51.92,AudioSource, NTP,0000,0000,0000,,LMFAO - Im in h-town trick
+Dialogue: 0,00:03:55.70,00:04:00.70,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:03:55.70,00:04:00.70,VideoSource, NTP,0000,0000,0000,,Chobits
+Dialogue: 0,00:03:55.70,00:04:00.70,AudioSource, NTP,0000,0000,0000,,Jon Etheridge - Prostitute Mickey 2
+Dialogue: 0,00:04:26.33,00:04:31.33,Editor, NTP,0000,0000,0000,,Humnut
+Dialogue: 0,00:04:26.33,00:04:31.33,VideoSource, NTP,0000,0000,0000,,Kodomo no Jikan
+Dialogue: 0,00:04:26.33,00:04:31.33,AudioSource, NTP,0000,0000,0000,,Venture Brothers sound clip
+Dialogue: 0,00:04:46.14,00:04:51.14,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:04:46.14,00:04:51.14,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:04:46.14,00:04:51.14,AudioSource, NTP,0000,0000,0000,,The Adventures of Sonic the Hedgehog sound clip 

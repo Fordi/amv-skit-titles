@@ -1,0 +1,64 @@
+[Script Info]
+Title: AMV Minis S1 Episode 02
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:14.89,00:00:19.89,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:00:14.89,00:00:19.89,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:00:14.89,00:00:19.89,AudioSource, NTP,0000,0000,0000,,Monty Python - Argument
+Dialogue: 0,00:00:44.93,00:00:49.93,Editor, NTP,0000,0000,0000,,greensucksbluerules
+Dialogue: 0,00:00:44.93,00:00:49.93,VideoSource, NTP,0000,0000,0000,,Lily C.A.T.
+Dialogue: 0,00:00:44.93,00:00:49.93,AudioSource, NTP,0000,0000,0000,,Cake - Carbon Monoxide
+Dialogue: 0,00:01:00.72,00:01:05.72,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:01:00.72,00:01:05.72,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion 
+Dialogue: 0,00:01:00.72,00:01:05.72,AudioSource, NTP,0000,0000,0000,,Futurama sound clip
+Dialogue: 0,00:01:16.31,00:01:21.31,Editor, NTP,0000,0000,0000,,Absolute_Apocalypse
+Dialogue: 0,00:01:16.31,00:01:21.31,VideoSource, NTP,0000,0000,0000,,Code Geass
+Dialogue: 0,00:01:16.31,00:01:21.31,AudioSource, NTP,0000,0000,0000,,Dead Kennedys - Kill the Poor
+Dialogue: 0,00:01:30.66,00:01:35.66,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:01:30.66,00:01:35.66,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:01:30.66,00:01:35.66,AudioSource, NTP,0000,0000,0000,,Monty Python - Argument
+Dialogue: 0,00:01:51.68,00:01:56.68,Editor, NTP,0000,0000,0000,,DXM
+Dialogue: 0,00:01:51.68,00:01:56.68,VideoSource, NTP,0000,0000,0000,,Hell girl
+Dialogue: 0,00:01:51.68,00:01:56.68,AudioSource, NTP,0000,0000,0000,,AC/DC - Dirty deeds (done dirt cheap) 
+Dialogue: 0,00:02:09.28,00:02:14.28,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:02:09.28,00:02:14.28,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion 
+Dialogue: 0,00:02:09.28,00:02:14.28,AudioSource, NTP,0000,0000,0000,,The Empire Strikes Back sound clip
+Dialogue: 0,00:02:43.10,00:02:48.10,Editor, NTP,0000,0000,0000,,Doomimus 
+Dialogue: 0,00:02:43.10,00:02:48.10,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:02:43.10,00:02:48.10,AudioSource, NTP,0000,0000,0000,,Cannibal Corpse - Make Them Suffer
+Dialogue: 0,00:02:56.61,00:03:01.61,Editor, NTP,0000,0000,0000,,Oghma
+Dialogue: 0,00:02:56.61,00:03:01.61,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:02:56.61,00:03:01.61,AudioSource, NTP,0000,0000,0000,,George Carlin
+Dialogue: 0,00:03:33.69,00:03:38.69,Editor, NTP,0000,0000,0000,,Oghma
+Dialogue: 0,00:03:33.69,00:03:38.69,VideoSource, NTP,0000,0000,0000,,Higurashi no Naku Koro ni
+Dialogue: 0,00:03:33.69,00:03:38.69,AudioSource, NTP,0000,0000,0000,,Fine Young Cannibals - She Drives Me Crazy
+Dialogue: 0,00:03:51.83,00:03:56.83,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:03:51.83,00:03:56.83,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:03:51.83,00:03:56.83,AudioSource, NTP,0000,0000,0000,,Me, Myself, and Irene sound clip
+Dialogue: 0,00:04:02.42,00:04:07.42,Editor, NTP,0000,0000,0000,,Hosaka Enterprises
+Dialogue: 0,00:04:02.42,00:04:07.42,VideoSource, NTP,0000,0000,0000,,Space Runaway Ideon, The Ideon: Be Invoked 
+Dialogue: 0,00:04:02.42,00:04:07.42,AudioSource, NTP,0000,0000,0000,,Spongebob Squarepants sound clip
+Dialogue: 0,00:04:11.55,00:04:16.55,Editor, NTP,0000,0000,0000,,Hockey-kun
+Dialogue: 0,00:04:11.55,00:04:16.55,VideoSource, NTP,0000,0000,0000,,Lucky Star 
+Dialogue: 0,00:04:11.55,00:04:16.55,AudioSource, NTP,0000,0000,0000,,Dschinghis Khan - Moskau 
+Dialogue: 0,00:04:32.21,00:04:37.21,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:04:32.21,00:04:37.21,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:04:32.21,00:04:37.21,AudioSource, NTP,0000,0000,0000,,Batman Beyond sound clip
+Dialogue: 0,00:04:43.51,00:04:48.51,Editor, NTP,0000,0000,0000,,Raster88
+Dialogue: 0,00:04:43.51,00:04:48.51,VideoSource, NTP,0000,0000,0000,,Pokemon
+Dialogue: 0,00:04:43.51,00:04:48.51,AudioSource, NTP,0000,0000,0000,,The Lonely Island - I'm on a Boat 

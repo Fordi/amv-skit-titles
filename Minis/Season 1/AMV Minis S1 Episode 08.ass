@@ -1,0 +1,79 @@
+[Script Info]
+Title: AMV Minis S1 Episode 08
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:14.95,00:00:19.95,Editor, NTP,0000,0000,0000,,LySs
+Dialogue: 0,00:00:14.95,00:00:19.95,VideoSource, NTP,0000,0000,0000,,Ouran High School Host Club
+Dialogue: 0,00:00:14.95,00:00:19.95,AudioSource, NTP,0000,0000,0000,,Soulja Boy Tell 'Em - Super Soak
+Dialogue: 0,00:00:28.98,00:00:33.98,Editor, NTP,0000,0000,0000,,Giliage
+Dialogue: 0,00:00:28.98,00:00:33.98,VideoSource, NTP,0000,0000,0000,,Nyan Koi!
+Dialogue: 0,00:00:28.98,00:00:33.98,AudioSource, NTP,0000,0000,0000,,South Park sound clip
+Dialogue: 0,00:00:43.34,00:00:48.34,Editor, NTP,0000,0000,0000,,Synbad2
+Dialogue: 0,00:00:43.34,00:00:48.34,VideoSource, NTP,0000,0000,0000,,Gurren Lagann
+Dialogue: 0,00:00:43.34,00:00:48.34,AudioSource, NTP,0000,0000,0000,,Falcon Punch sound clip
+Dialogue: 0,00:00:46.35,00:00:51.35,Editor, NTP,0000,0000,0000,,Prophet of Doom
+Dialogue: 0,00:00:46.35,00:00:51.35,VideoSource, NTP,0000,0000,0000,,Hare+Guu
+Dialogue: 0,00:00:46.35,00:00:51.35,AudioSource, NTP,0000,0000,0000,,Doogal sound clip
+Dialogue: 0,00:00:55.42,00:01:00.42,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:00:55.42,00:01:00.42,VideoSource, NTP,0000,0000,0000,,Super Smash Bros. Brawl
+Dialogue: 0,00:00:55.42,00:01:00.42,AudioSource, NTP,0000,0000,0000,,Homestar Runner - Trogdor (Metal Version)
+Dialogue: 0,00:01:06.88,00:01:11.88,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:01:06.88,00:01:11.88,VideoSource, NTP,0000,0000,0000,,MAR
+Dialogue: 0,00:01:06.88,00:01:11.88,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:01:15.77,00:01:20.77,Editor, NTP,0000,0000,0000,,Threvlin
+Dialogue: 0,00:01:15.77,00:01:20.77,VideoSource, NTP,0000,0000,0000,,Claymore
+Dialogue: 0,00:01:15.77,00:01:20.77,AudioSource, NTP,0000,0000,0000,,The Black Mages - Maybe I'm A Lion
+Dialogue: 0,00:01:34.15,00:01:39.15,Editor, NTP,0000,0000,0000,,Humnut
+Dialogue: 0,00:01:34.15,00:01:39.15,VideoSource, NTP,0000,0000,0000,,School Days
+Dialogue: 0,00:01:34.15,00:01:39.15,AudioSource, NTP,0000,0000,0000,,Robot Chicken sound clip
+Dialogue: 0,00:01:44.11,00:01:49.11,Editor, NTP,0000,0000,0000,,Synbad2
+Dialogue: 0,00:01:44.11,00:01:49.11,VideoSource, NTP,0000,0000,0000,,Naruto
+Dialogue: 0,00:01:44.11,00:01:49.11,AudioSource, NTP,0000,0000,0000,,Baha Men - Who Let the Dogs Out
+Dialogue: 0,00:01:55.69,00:02:00.69,Editor, NTP,0000,0000,0000,,DXM
+Dialogue: 0,00:01:55.69,00:02:00.69,VideoSource, NTP,0000,0000,0000,,Hellsing: Order
+Dialogue: 0,00:01:55.69,00:02:00.69,AudioSource, NTP,0000,0000,0000,,The Fifth Element sound clip
+Dialogue: 0,00:02:13.79,00:02:18.79,Editor, NTP,0000,0000,0000,,Shirker
+Dialogue: 0,00:02:13.79,00:02:18.79,VideoSource, NTP,0000,0000,0000,,Princess Tutu
+Dialogue: 0,00:02:13.79,00:02:18.79,AudioSource, NTP,0000,0000,0000,,Left 4 Dead 2 sound clip
+Dialogue: 0,00:02:23.80,00:02:28.80,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:02:23.80,00:02:28.80,VideoSource, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:02:23.80,00:02:28.80,AudioSource, NTP,0000,0000,0000,,Katy Perry - Hot n Cold
+Dialogue: 0,00:02:38.92,00:02:43.92,Editor, NTP,0000,0000,0000,,Sherby
+Dialogue: 0,00:02:38.92,00:02:43.92,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:02:38.92,00:02:43.92,AudioSource, NTP,0000,0000,0000,,Austin Powers in Goldmember sound clip
+Dialogue: 0,00:02:58.23,00:03:03.23,Editor, NTP,0000,0000,0000,,Zabkar
+Dialogue: 0,00:02:58.23,00:03:03.23,VideoSource, NTP,0000,0000,0000,,One Piece
+Dialogue: 0,00:02:58.23,00:03:03.23,AudioSource, NTP,0000,0000,0000,,Michael Jackson - Smooth Criminal
+Dialogue: 0,00:03:29.34,00:03:34.34,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:03:29.34,00:03:34.34,VideoSource, NTP,0000,0000,0000,,Slayers Next
+Dialogue: 0,00:03:29.34,00:03:34.34,AudioSource, NTP,0000,0000,0000,,The Lion King sound clip
+Dialogue: 0,00:03:49.37,00:03:54.37,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:03:49.37,00:03:54.37,VideoSource, NTP,0000,0000,0000,,Zero no Tsukaima
+Dialogue: 0,00:03:49.37,00:03:54.37,AudioSource, NTP,0000,0000,0000,,Macross Frontier sound clip
+Dialogue: 0,00:04:01.18,00:04:06.18,Editor, NTP,0000,0000,0000,,Synbad2
+Dialogue: 0,00:04:01.18,00:04:06.18,VideoSource, NTP,0000,0000,0000,,Gurren Lagann
+Dialogue: 0,00:04:01.18,00:04:06.18,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Eat It
+Dialogue: 0,00:04:11.89,00:04:16.89,Editor, NTP,0000,0000,0000,,Darkzi
+Dialogue: 0,00:04:11.89,00:04:16.89,VideoSource, NTP,0000,0000,0000,,Tower of Druaga - Sword of Uruk
+Dialogue: 0,00:04:11.89,00:04:16.89,AudioSource, NTP,0000,0000,0000,,The Tick sound clip
+Dialogue: 0,00:04:17.05,00:04:22.05,Editor, NTP,0000,0000,0000,,MAS8705
+Dialogue: 0,00:04:17.05,00:04:22.05,VideoSource, NTP,0000,0000,0000,,Kenichi: The Mightiest Disciple
+Dialogue: 0,00:04:17.05,00:04:22.05,AudioSource, NTP,0000,0000,0000,,Street Fighter 4 & DBZ sound clips 
+Dialogue: 0,00:04:24.45,00:04:29.45,Editor, NTP,0000,0000,0000,,Shirker
+Dialogue: 0,00:04:24.45,00:04:29.45,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:04:24.45,00:04:29.45,AudioSource, NTP,0000,0000,0000,,Eminem - Medicine Ball 
