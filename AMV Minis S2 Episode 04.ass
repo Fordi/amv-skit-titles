@@ -1,0 +1,85 @@
+[Script Info]
+Title: AMV Minis S2 Episode 04
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.71,00:00:15.71,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:00:10.71,00:00:15.71,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:00:10.71,00:00:15.71,AudioSource, NTP,0000,0000,0000,,Mentos Commercial
+Dialogue: 0,00:00:41.34,00:00:46.34,Editor, NTP,0000,0000,0000,,santiago198
+Dialogue: 0,00:00:41.34,00:00:46.34,VideoSource, NTP,0000,0000,0000,,Puella Magi Madoka Magica
+Dialogue: 0,00:00:41.34,00:00:46.34,AudioSource, NTP,0000,0000,0000,,Eminem - One Shot Two Shot
+Dialogue: 0,00:00:51.99,00:00:56.99,Editor, NTP,0000,0000,0000,,frankyfilms
+Dialogue: 0,00:00:51.99,00:00:56.99,VideoSource, NTP,0000,0000,0000,,Baccano
+Dialogue: 0,00:00:51.99,00:00:56.99,AudioSource, NTP,0000,0000,0000,,asdfmovie2 - I Like Trains segment #1 
+Dialogue: 0,00:00:58.65,00:01:03.65,Editor, NTP,0000,0000,0000,,Lmckay023
+Dialogue: 0,00:00:58.65,00:01:03.65,VideoSource, NTP,0000,0000,0000,,K-on! 
+Dialogue: 0,00:00:58.65,00:01:03.65,AudioSource, NTP,0000,0000,0000,,Lordi - Hard Rock Hallelujah 
+Dialogue: 0,00:01:11.51,00:01:16.51,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:01:11.51,00:01:16.51,VideoSource, NTP,0000,0000,0000,,Chobits
+Dialogue: 0,00:01:11.51,00:01:16.51,AudioSource, NTP,0000,0000,0000,,Looney Tunes - Yankee Doodle Daffy sound clip
+Dialogue: 0,00:01:31.70,00:01:36.70,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:01:31.70,00:01:36.70,VideoSource, NTP,0000,0000,0000,,Highschool of the Dead 
+Dialogue: 0,00:01:31.70,00:01:36.70,AudioSource, NTP,0000,0000,0000,,J.T. Machinima - I Bagged a N00b 
+Dialogue: 0,00:01:35.98,00:01:40.98,Editor, NTP,0000,0000,0000,,Shibbidah
+Dialogue: 0,00:01:35.98,00:01:40.98,VideoSource, NTP,0000,0000,0000,,Clannad
+Dialogue: 0,00:01:35.98,00:01:40.98,AudioSource, NTP,0000,0000,0000,,Vitamin String Quartet - Through the Fire and the Flames (Violin Cover) 
+Dialogue: 0,00:02:00.17,00:02:05.17,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:02:00.17,00:02:05.17,VideoSource, NTP,0000,0000,0000,,Dragonball Z 
+Dialogue: 0,00:02:00.17,00:02:05.17,AudioSource, NTP,0000,0000,0000,,Katy Perry - Firework
+Dialogue: 0,00:02:11.80,00:02:16.80,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:02:11.80,00:02:16.80,VideoSource, NTP,0000,0000,0000,,To Aru Kagaku no Railgun 
+Dialogue: 0,00:02:11.80,00:02:16.80,AudioSource, NTP,0000,0000,0000,,Bow wow wow - Aphrodisiac
+Dialogue: 0,00:02:22.82,00:02:27.82,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:02:22.82,00:02:27.82,VideoSource, NTP,0000,0000,0000,,Ookami-san and her Seven Companions 
+Dialogue: 0,00:02:22.82,00:02:27.82,AudioSource, NTP,0000,0000,0000,,The Good, the Bad, and the Ugly - Il Buono, Il Brutto, Il Cattivo 
+Dialogue: 0,00:02:44.18,00:02:49.18,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:02:44.18,00:02:49.18,VideoSource, NTP,0000,0000,0000,,Lucky Star 
+Dialogue: 0,00:02:44.18,00:02:49.18,AudioSource, NTP,0000,0000,0000,,Homestar Runner - Teen Girl Sqad
+Dialogue: 0,00:03:00.95,00:03:05.95,Editor, NTP,0000,0000,0000,,Chewi105
+Dialogue: 0,00:03:00.95,00:03:05.95,VideoSource, NTP,0000,0000,0000,,Fullmetal Alchemist: Brotherhood 
+Dialogue: 0,00:03:00.95,00:03:05.95,AudioSource, NTP,0000,0000,0000,,The Script - Breakeven (Falling To Pieces) 
+Dialogue: 0,00:03:06.44,00:03:11.44,Editor, NTP,0000,0000,0000,,Involdus
+Dialogue: 0,00:03:06.44,00:03:11.44,VideoSource, NTP,0000,0000,0000,,Ah my Goddess, Southpark 
+Dialogue: 0,00:03:06.44,00:03:11.44,AudioSource, NTP,0000,0000,0000,,Hot Chip - I Feel Better
+Dialogue: 0,00:03:26.11,00:03:31.11,Editor, NTP,0000,0000,0000,,SleeplessPanda
+Dialogue: 0,00:03:26.11,00:03:31.11,VideoSource, NTP,0000,0000,0000,,Soul Eater 
+Dialogue: 0,00:03:26.11,00:03:31.11,AudioSource, NTP,0000,0000,0000,,Dean Martin - Ain't That A Kick In The Head
+Dialogue: 0,00:03:37.60,00:03:42.60,Editor, NTP,0000,0000,0000,,Chewi105
+Dialogue: 0,00:03:37.60,00:03:42.60,VideoSource, NTP,0000,0000,0000,,Deathnote
+Dialogue: 0,00:03:37.60,00:03:42.60,AudioSource, NTP,0000,0000,0000,,O-zone - Dragostea Din Tei
+Dialogue: 0,00:03:39.61,00:03:44.61,Editor, NTP,0000,0000,0000,,synbad2
+Dialogue: 0,00:03:39.61,00:03:44.61,VideoSource, NTP,0000,0000,0000,,Gundam 00 
+Dialogue: 0,00:03:39.61,00:03:44.61,AudioSource, NTP,0000,0000,0000,,Zulu - The Man with the Golden Gun 
+Dialogue: 0,00:03:46.68,00:03:51.68,Editor, NTP,0000,0000,0000,,vejtornado
+Dialogue: 0,00:03:46.68,00:03:51.68,VideoSource, NTP,0000,0000,0000,,One Piece 
+Dialogue: 0,00:03:46.68,00:03:51.68,AudioSource, NTP,0000,0000,0000,,Caramell - Caramelldansen
+Dialogue: 0,00:04:10.93,00:04:15.93,Editor, NTP,0000,0000,0000,,Robert Frazer 
+Dialogue: 0,00:04:10.93,00:04:15.93,VideoSource, NTP,0000,0000,0000,,Puella Magi Madoka Magica 
+Dialogue: 0,00:04:10.93,00:04:15.93,AudioSource, NTP,0000,0000,0000,,Pringles commercial
+Dialogue: 0,00:04:21.85,00:04:26.85,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:04:21.85,00:04:26.85,VideoSource, NTP,0000,0000,0000,,K-on 
+Dialogue: 0,00:04:21.85,00:04:26.85,AudioSource, NTP,0000,0000,0000,,Savlonic - Electro Gypsy 
+Dialogue: 0,00:04:30.61,00:04:35.61,Editor, NTP,0000,0000,0000,,N.P.C.C. 
+Dialogue: 0,00:04:30.61,00:04:35.61,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z: Bardock ? The Father of Goku 
+Dialogue: 0,00:04:30.61,00:04:35.61,AudioSource, NTP,0000,0000,0000,,Sonic R - Can You Feel The Sunshine 
+Dialogue: 0,00:04:41.29,00:04:46.29,Editor, NTP,0000,0000,0000,,humnut
+Dialogue: 0,00:04:41.29,00:04:46.29,VideoSource, NTP,0000,0000,0000,,He is My Master 
+Dialogue: 0,00:04:41.29,00:04:46.29,AudioSource, NTP,0000,0000,0000,,Aqua Teen Hunger Force sound clip
+Dialogue: 0,00:04:58.23,00:05:03.23,Editor, NTP,0000,0000,0000,,StarRodMan
+Dialogue: 0,00:04:58.23,00:05:03.23,VideoSource, NTP,0000,0000,0000,,Tengen Toppa Gurren Lagann 
+Dialogue: 0,00:04:58.23,00:05:03.23,AudioSource, NTP,0000,0000,0000,,Dexter's Laboratory - You're Ridin' That Hog 
