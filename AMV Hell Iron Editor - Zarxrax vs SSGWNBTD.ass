@@ -1,0 +1,129 @@
+[Script Info]
+Title: AMV Hell Iron Editor 1 - Zarxrax vs SSGWNBTD
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AnimeName, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,60,0
+Style: SongName, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,44,0
+Style: SongArtist, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: Editor, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:13.79,00:00:18.79,AnimeName, NTP,0000,0000,0000,,Evangelion 2.22
+Dialogue: 0,00:00:13.79,00:00:18.79,SongName, NTP,0000,0000,0000,,Ludo
+Dialogue: 0,00:00:13.79,00:00:18.79,SongArtist, NTP,0000,0000,0000,,Anything for You
+Dialogue: 0,00:00:13.79,00:00:18.79,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:00:30.76,00:00:35.76,AnimeName, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:00:30.76,00:00:35.76,SongName, NTP,0000,0000,0000,,Rammstein
+Dialogue: 0,00:00:30.76,00:00:35.76,SongArtist, NTP,0000,0000,0000,,B********
+Dialogue: 0,00:00:30.76,00:00:35.76,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:00:49.91,00:00:54.91,AnimeName, NTP,0000,0000,0000,,Redline
+Dialogue: 0,00:00:49.91,00:00:54.91,SongName, NTP,0000,0000,0000,,Cake
+Dialogue: 0,00:00:49.91,00:00:54.91,SongArtist, NTP,0000,0000,0000,,The Distance
+Dialogue: 0,00:00:49.91,00:00:54.91,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:00:56.75,00:01:01.75,AnimeName, NTP,0000,0000,0000,,AMV Hell 3
+Dialogue: 0,00:00:56.75,00:01:01.75,SongName, NTP,0000,0000,0000,,Dethklok
+Dialogue: 0,00:00:56.75,00:01:01.75,SongArtist, NTP,0000,0000,0000,,Dethharmonic
+Dialogue: 0,00:00:56.75,00:01:01.75,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:00.63,00:01:05.63,AnimeName, NTP,0000,0000,0000,,Evangelion 2.22
+Dialogue: 0,00:01:00.63,00:01:05.63,SongName, NTP,0000,0000,0000,,Neon Trees
+Dialogue: 0,00:01:00.63,00:01:05.63,SongArtist, NTP,0000,0000,0000,,Animal
+Dialogue: 0,00:01:00.63,00:01:05.63,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:08.21,00:01:13.21,AnimeName, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:01:08.21,00:01:13.21,SongName, NTP,0000,0000,0000,,Ke$ha
+Dialogue: 0,00:01:08.21,00:01:13.21,SongArtist, NTP,0000,0000,0000,,Dinosaur
+Dialogue: 0,00:01:08.21,00:01:13.21,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:15.22,00:01:20.22,AnimeName, NTP,0000,0000,0000,,AMV Hell 3
+Dialogue: 0,00:01:15.22,00:01:20.22,SongName, NTP,0000,0000,0000,,Paul Stanley
+Dialogue: 0,00:01:15.22,00:01:20.22,SongArtist, NTP,0000,0000,0000,,Live to Win
+Dialogue: 0,00:01:15.22,00:01:20.22,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:22.88,00:01:27.88,AnimeName, NTP,0000,0000,0000,,Puni Puni Poemy
+Dialogue: 0,00:01:22.88,00:01:27.88,SongName, NTP,0000,0000,0000,,Avril Lavigne
+Dialogue: 0,00:01:22.88,00:01:27.88,SongArtist, NTP,0000,0000,0000,,What the Hell
+Dialogue: 0,00:01:22.88,00:01:27.88,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:32.37,00:01:37.37,AnimeName, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:01:32.37,00:01:37.37,SongName, NTP,0000,0000,0000,,Betzefer
+Dialogue: 0,00:01:32.37,00:01:37.37,SongArtist, NTP,0000,0000,0000,,Doomsday
+Dialogue: 0,00:01:32.37,00:01:37.37,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:36.79,00:01:41.79,AnimeName, NTP,0000,0000,0000,,Redline
+Dialogue: 0,00:01:36.79,00:01:41.79,SongName, NTP,0000,0000,0000,,Dethklok
+Dialogue: 0,00:01:36.79,00:01:41.79,SongArtist, NTP,0000,0000,0000,,Dethharmonic
+Dialogue: 0,00:01:36.79,00:01:41.79,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:41.74,00:01:46.74,AnimeName, NTP,0000,0000,0000,,AMV Hell 3
+Dialogue: 0,00:01:41.74,00:01:46.74,SongName, NTP,0000,0000,0000,,Trent Reznor and Atticus Ross
+Dialogue: 0,00:01:41.74,00:01:46.74,SongArtist, NTP,0000,0000,0000,,In the Hall of the Mountain King
+Dialogue: 0,00:01:41.74,00:01:46.74,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:01:49.29,00:01:54.29,AnimeName, NTP,0000,0000,0000,,Panty and Stocking with Garterbelt
+Dialogue: 0,00:01:49.29,00:01:54.29,SongName, NTP,0000,0000,0000,,Schoolyard Heroes
+Dialogue: 0,00:01:49.29,00:01:54.29,SongArtist, NTP,0000,0000,0000,,Violence Is All The Rage
+Dialogue: 0,00:01:49.29,00:01:54.29,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:02:03.31,00:02:08.31,AnimeName, NTP,0000,0000,0000,,Gurren Lagann
+Dialogue: 0,00:02:03.31,00:02:08.31,SongName, NTP,0000,0000,0000,,Anchorman: The Legend of Ron Burgundy
+Dialogue: 0,00:02:03.31,00:02:08.31,SongArtist, NTP,0000,0000,0000,,Audio
+Dialogue: 0,00:02:03.31,00:02:08.31,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:02:17.26,00:02:22.26,AnimeName, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:02:17.26,00:02:22.26,SongName, NTP,0000,0000,0000,,Ol' Dirty Bastard
+Dialogue: 0,00:02:17.26,00:02:22.26,SongArtist, NTP,0000,0000,0000,,Goin' Down
+Dialogue: 0,00:02:17.26,00:02:22.26,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:02:53.44,00:02:58.44,AnimeName, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:02:53.44,00:02:58.44,SongName, NTP,0000,0000,0000,,Airplane!
+Dialogue: 0,00:02:53.44,00:02:58.44,SongArtist, NTP,0000,0000,0000,,Sound clip
+Dialogue: 0,00:02:53.44,00:02:58.44,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:03:02.55,00:03:07.55,AnimeName, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:03:02.55,00:03:07.55,SongName, NTP,0000,0000,0000,,Filligar
+Dialogue: 0,00:03:02.55,00:03:07.55,SongArtist, NTP,0000,0000,0000,,Sunflower Kid
+Dialogue: 0,00:03:02.55,00:03:07.55,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:03:14.32,00:03:19.32,AnimeName, NTP,0000,0000,0000,,Panty and Stocking
+Dialogue: 0,00:03:14.32,00:03:19.32,SongName, NTP,0000,0000,0000,,Beyonce
+Dialogue: 0,00:03:14.32,00:03:19.32,SongArtist, NTP,0000,0000,0000,,Halo
+Dialogue: 0,00:03:14.32,00:03:19.32,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:03:20.64,00:03:25.64,AnimeName, NTP,0000,0000,0000,,Puni Puni Poemi
+Dialogue: 0,00:03:20.64,00:03:25.64,SongName, NTP,0000,0000,0000,,Third Impact
+Dialogue: 0,00:03:20.64,00:03:25.64,SongArtist, NTP,0000,0000,0000,,Squid Girl
+Dialogue: 0,00:03:20.64,00:03:25.64,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:03:30.87,00:03:35.87,AnimeName, NTP,0000,0000,0000,,Redline
+Dialogue: 0,00:03:30.87,00:03:35.87,SongName, NTP,0000,0000,0000,,Lyude
+Dialogue: 0,00:03:30.87,00:03:35.87,SongArtist, NTP,0000,0000,0000,,F-Zero X Big Blue remix
+Dialogue: 0,00:03:30.87,00:03:35.87,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:05.49,00:04:10.49,AnimeName, NTP,0000,0000,0000,,Gurren Lagann Movie 2
+Dialogue: 0,00:04:05.49,00:04:10.49,SongName, NTP,0000,0000,0000,,Futurama
+Dialogue: 0,00:04:05.49,00:04:10.49,SongArtist, NTP,0000,0000,0000,,sound clip
+Dialogue: 0,00:04:05.49,00:04:10.49,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:08.39,00:04:13.39,AnimeName, NTP,0000,0000,0000,,Evangelion 2.22
+Dialogue: 0,00:04:08.39,00:04:13.39,SongName, NTP,0000,0000,0000,,Plastiscines
+Dialogue: 0,00:04:08.39,00:04:13.39,SongArtist, NTP,0000,0000,0000,,Bitch
+Dialogue: 0,00:04:08.39,00:04:13.39,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:20.50,00:04:25.50,AnimeName, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:04:20.50,00:04:25.50,SongName, NTP,0000,0000,0000,,System of a Down
+Dialogue: 0,00:04:20.50,00:04:25.50,SongArtist, NTP,0000,0000,0000,,Deer Dance
+Dialogue: 0,00:04:20.50,00:04:25.50,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:26.34,00:04:31.34,AnimeName, NTP,0000,0000,0000,,AMV Hell 3
+Dialogue: 0,00:04:26.34,00:04:31.34,SongName, NTP,0000,0000,0000,,f(x)
+Dialogue: 0,00:04:26.34,00:04:31.34,SongArtist, NTP,0000,0000,0000,,Electric Shock
+Dialogue: 0,00:04:26.34,00:04:31.34,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:31.06,00:04:36.06,AnimeName, NTP,0000,0000,0000,,AMV Hell 3
+Dialogue: 0,00:04:31.06,00:04:36.06,SongName, NTP,0000,0000,0000,,Psy
+Dialogue: 0,00:04:31.06,00:04:36.06,SongArtist, NTP,0000,0000,0000,,Gangnam Style
+Dialogue: 0,00:04:31.06,00:04:36.06,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:38.77,00:04:43.77,AnimeName, NTP,0000,0000,0000,,Puni Puni Poemi
+Dialogue: 0,00:04:38.77,00:04:43.77,SongName, NTP,0000,0000,0000,,Kyary Pamyu Pamyu
+Dialogue: 0,00:04:38.77,00:04:43.77,SongArtist, NTP,0000,0000,0000,,PONPONPON
+Dialogue: 0,00:04:38.77,00:04:43.77,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:54.35,00:04:59.35,AnimeName, NTP,0000,0000,0000,,Redline
+Dialogue: 0,00:04:54.35,00:04:59.35,SongName, NTP,0000,0000,0000,,KISS
+Dialogue: 0,00:04:54.35,00:04:59.35,SongArtist, NTP,0000,0000,0000,,Lick It Up
+Dialogue: 0,00:04:54.35,00:04:59.35,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:58.42,00:05:03.42,AnimeName, NTP,0000,0000,0000,,Gurren Lagann Movie 2
+Dialogue: 0,00:04:58.42,00:05:03.42,SongName, NTP,0000,0000,0000,,Mega Man
+Dialogue: 0,00:04:58.42,00:05:03.42,SongArtist, NTP,0000,0000,0000,,Drill Man Jazz remix 
+Dialogue: 0,00:04:58.42,00:05:03.42,Editor, NTP,0000,0000,0000,,Zarxrax
