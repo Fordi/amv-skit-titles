@@ -1,0 +1,62 @@
+[Script Info]
+Title: AMV Minis S2 Episode X2 - Dragon Ball
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:12.64,00:00:17.64,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:00:12.64,00:00:17.64,AudioSource, NTP,0000,0000,0000,,Portal 2 sounds
+Dialogue: 0,00:00:36.68,00:00:41.68,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:00:36.68,00:00:41.68,AudioSource, NTP,0000,0000,0000,,J. Geils Band - Freeze Frame
+Dialogue: 0,00:00:48.74,00:00:53.74,Editor, NTP,0000,0000,0000,,N.P.C.C. 
+Dialogue: 0,00:00:48.74,00:00:53.74,AudioSource, NTP,0000,0000,0000,,Sonic R - Super Sonic Racing
+Dialogue: 0,00:01:13.40,00:01:18.40,Editor, NTP,0000,0000,0000,,jeremyhac
+Dialogue: 0,00:01:13.40,00:01:18.40,AudioSource, NTP,0000,0000,0000,,Futurama sound clip
+Dialogue: 0,00:01:23.91,00:01:28.91,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.) 
+Dialogue: 0,00:01:23.91,00:01:28.91,AudioSource, NTP,0000,0000,0000,,Queen - I Want to Break Free
+Dialogue: 0,00:01:33.67,00:01:38.67,Editor, NTP,0000,0000,0000,,jeremyhac
+Dialogue: 0,00:01:33.67,00:01:38.67,AudioSource, NTP,0000,0000,0000,,Gloria Gaynor - I Will Survive
+Dialogue: 0,00:01:53.80,00:01:58.80,Editor, NTP,0000,0000,0000,,jeremyhac
+Dialogue: 0,00:01:53.80,00:01:58.80,AudioSource, NTP,0000,0000,0000,,Seether - Needles
+Dialogue: 0,00:02:08.76,00:02:13.76,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:02:08.76,00:02:13.76,AudioSource, NTP,0000,0000,0000,,Batman Opening theme
+Dialogue: 0,00:02:14.32,00:02:19.32,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:02:14.32,00:02:19.32,AudioSource, NTP,0000,0000,0000,,Portal 2 sounds
+Dialogue: 0,00:02:42.88,00:02:47.88,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:02:42.88,00:02:47.88,AudioSource, NTP,0000,0000,0000,,Third Eye Blind - Never Let You Go
+Dialogue: 0,00:03:00.80,00:03:05.80,Editor, NTP,0000,0000,0000,,jjlb84
+Dialogue: 0,00:03:00.80,00:03:05.80,AudioSource, NTP,0000,0000,0000,,Llamas with hats 4 
+Dialogue: 0,00:03:26.58,00:03:31.58,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:03:26.58,00:03:31.58,AudioSource, NTP,0000,0000,0000,,Taio Cruz - Dynamite
+Dialogue: 0,00:03:35.43,00:03:40.43,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:03:35.43,00:03:40.43,AudioSource, NTP,0000,0000,0000,,The Simpsons sound clip
+Dialogue: 0,00:03:39.29,00:03:44.29,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:03:39.29,00:03:44.29,AudioSource, NTP,0000,0000,0000,,Bubba Sparxxx featuring Ying Yang Twins - Ms. New Booty 
+Dialogue: 0,00:03:54.20,00:03:59.20,Editor, NTP,0000,0000,0000,,HalOfBorg
+Dialogue: 0,00:03:54.20,00:03:59.20,AudioSource, NTP,0000,0000,0000,,Jimmy Buffett - Were You Born An Asshole 
+Dialogue: 0,00:04:26.41,00:04:31.41,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:26.41,00:04:31.41,AudioSource, NTP,0000,0000,0000,,Austin Powers: The Spy Who Shagged Me sound clip
+Dialogue: 0,00:04:35.79,00:04:40.79,Editor, NTP,0000,0000,0000,,N.P.C.C. 
+Dialogue: 0,00:04:35.79,00:04:40.79,AudioSource, NTP,0000,0000,0000,,Jem and The Holograms - She's Got The Power 
+Dialogue: 0,00:04:50.98,00:04:55.98,Editor, NTP,0000,0000,0000,,synbad2
+Dialogue: 0,00:04:50.98,00:04:55.98,AudioSource, NTP,0000,0000,0000,,My Little Pony: Friendship is Magic - sound clip
+Dialogue: 0,00:04:54.73,00:04:59.73,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:04:54.73,00:04:59.73,AudioSource, NTP,0000,0000,0000,,Vast - Free
+Dialogue: 0,00:05:11.29,00:05:16.29,Editor, NTP,0000,0000,0000,,Chewi105 & Zarxrax
+Dialogue: 0,00:05:11.29,00:05:16.29,AudioSource, NTP,0000,0000,0000,,CB4 - Im Black Y'all 
+Dialogue: 0,00:05:13.90,00:05:18.90,Editor, NTP,0000,0000,0000,,Jeremyhac
+Dialogue: 0,00:05:13.90,00:05:18.90,AudioSource, NTP,0000,0000,0000,,Minnie Ripperton - Loving You
+Dialogue: 0,00:05:37.80,00:05:42.80,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:05:37.80,00:05:42.80,AudioSource, NTP,0000,0000,0000,,Portal 2 sounds 

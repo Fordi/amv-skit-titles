@@ -1,0 +1,82 @@
+[Script Info]
+Title: AMV Minis S2 Episode X1 - Anime is dead to me
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:01.53,00:00:06.53,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:00:01.53,00:00:06.53,VideoSource, NTP,0000,0000,0000,,My Ordinary Life
+Dialogue: 0,00:00:01.53,00:00:06.53,AudioSource, NTP,0000,0000,0000,,The Ren & Stimpy Show sound clip
+Dialogue: 0,00:01:00.05,00:01:05.05,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:01:00.05,00:01:05.05,VideoSource, NTP,0000,0000,0000,,The Sword in the Stone 
+Dialogue: 0,00:01:00.05,00:01:05.05,AudioSource, NTP,0000,0000,0000,,m1dy vs M-Project - Squid vs Pantyhose 
+Dialogue: 0,00:01:27.03,00:01:32.03,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:01:27.03,00:01:32.03,VideoSource, NTP,0000,0000,0000,,The Powerpuff Girls 
+Dialogue: 0,00:01:27.03,00:01:32.03,AudioSource, NTP,0000,0000,0000,,Macy Gray - Slap A Bitch 
+Dialogue: 0,00:01:35.17,00:01:40.17,Editor, NTP,0000,0000,0000,,bloodlover1987
+Dialogue: 0,00:01:35.17,00:01:40.17,VideoSource, NTP,0000,0000,0000,,Hey Arnold 
+Dialogue: 0,00:01:35.17,00:01:40.17,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Do I Creep You Out
+Dialogue: 0,00:01:54.58,00:01:59.58,Editor, NTP,0000,0000,0000,,Pain
+Dialogue: 0,00:01:54.58,00:01:59.58,VideoSource, NTP,0000,0000,0000,,Asterix Conquers Rome 
+Dialogue: 0,00:01:54.58,00:01:59.58,AudioSource, NTP,0000,0000,0000,,Disturbed - Indestructible
+Dialogue: 0,00:02:06.20,00:02:11.20,Editor, NTP,0000,0000,0000,,N.P.C.C. 
+Dialogue: 0,00:02:06.20,00:02:11.20,VideoSource, NTP,0000,0000,0000,,Dexter's Laboratory 
+Dialogue: 0,00:02:06.20,00:02:11.20,AudioSource, NTP,0000,0000,0000,,Michael Sembello - Maniac
+Dialogue: 0,00:02:20.31,00:02:25.31,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:02:20.31,00:02:25.31,VideoSource, NTP,0000,0000,0000,,Pocahontas
+Dialogue: 0,00:02:20.31,00:02:25.31,AudioSource, NTP,0000,0000,0000,,Imogen Heap - Hide and Seek
+Dialogue: 0,00:02:36.71,00:02:41.71,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:02:36.71,00:02:41.71,VideoSource, NTP,0000,0000,0000,,The Boondocks 
+Dialogue: 0,00:02:36.71,00:02:41.71,AudioSource, NTP,0000,0000,0000,,Oli Chang - Chicken Techno 
+Dialogue: 0,00:02:46.22,00:02:51.22,Editor, NTP,0000,0000,0000,,ssgwnbtd
+Dialogue: 0,00:02:46.22,00:02:51.22,VideoSource, NTP,0000,0000,0000,,Adventure Time
+Dialogue: 0,00:02:46.22,00:02:51.22,AudioSource, NTP,0000,0000,0000,,The Lonely Island - Falcor vs. Atreyu
+Dialogue: 0,00:03:15.69,00:03:20.69,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:03:15.69,00:03:20.69,VideoSource, NTP,0000,0000,0000,,My Little Pony: Frienship is Magic 
+Dialogue: 0,00:03:15.69,00:03:20.69,AudioSource, NTP,0000,0000,0000,,Starfox 64 sound clip
+Dialogue: 0,00:03:17.04,00:03:22.04,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:03:17.04,00:03:22.04,VideoSource, NTP,0000,0000,0000,,The Raccoons 
+Dialogue: 0,00:03:17.04,00:03:22.04,AudioSource, NTP,0000,0000,0000,,Super Mario sound clips
+Dialogue: 0,00:03:38.31,00:03:43.31,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:03:38.31,00:03:43.31,VideoSource, NTP,0000,0000,0000,,SpongeBob Squarepants 
+Dialogue: 0,00:03:38.31,00:03:43.31,AudioSource, NTP,0000,0000,0000,,Planet of the Apes sound clip
+Dialogue: 0,00:03:48.68,00:03:53.68,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:03:48.68,00:03:53.68,VideoSource, NTP,0000,0000,0000,,Ratatouille
+Dialogue: 0,00:03:48.68,00:03:53.68,AudioSource, NTP,0000,0000,0000,,Camille - Le Festin, Ratatouille Sound clip, Original audio
+Dialogue: 0,00:04:18.78,00:04:23.78,Editor, NTP,0000,0000,0000,,Chewi105
+Dialogue: 0,00:04:18.78,00:04:23.78,VideoSource, NTP,0000,0000,0000,,The Lion King 
+Dialogue: 0,00:04:18.78,00:04:23.78,AudioSource, NTP,0000,0000,0000,,Legend of Zelda: Ocarina of Time sound clips
+Dialogue: 0,00:04:30.88,00:04:35.88,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:04:30.88,00:04:35.88,VideoSource, NTP,0000,0000,0000,,Time Squad 
+Dialogue: 0,00:04:30.88,00:04:35.88,AudioSource, NTP,0000,0000,0000,,Black Tide - Warriors of Time 
+Dialogue: 0,00:04:51.46,00:04:56.46,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:04:51.46,00:04:56.46,VideoSource, NTP,0000,0000,0000,,Snow White and the Seven Dwarfs 
+Dialogue: 0,00:04:51.46,00:04:56.46,AudioSource, NTP,0000,0000,0000,,Randy Newman - Short People
+Dialogue: 0,00:04:58.05,00:05:03.05,Editor, NTP,0000,0000,0000,,Masahiro
+Dialogue: 0,00:04:58.05,00:05:03.05,VideoSource, NTP,0000,0000,0000,,Boondocks
+Dialogue: 0,00:04:58.05,00:05:03.05,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Don't Download This Song 
+Dialogue: 0,00:05:24.65,00:05:29.65,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:05:24.65,00:05:29.65,VideoSource, NTP,0000,0000,0000,,My Little Pony: Friendship is Magic 
+Dialogue: 0,00:05:24.65,00:05:29.65,AudioSource, NTP,0000,0000,0000,,TeddyLoid - Fly Away
+Dialogue: 0,00:05:46.71,00:05:51.71,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:05:46.71,00:05:51.71,VideoSource, NTP,0000,0000,0000,,Invader Zim 
+Dialogue: 0,00:05:46.71,00:05:51.71,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Everything You Know Is Wrong 
+Dialogue: 0,00:05:57.55,00:06:02.55,Editor, NTP,0000,0000,0000,,N.P.C.C. 
+Dialogue: 0,00:05:57.55,00:06:02.55,VideoSource, NTP,0000,0000,0000,,JEM and The Holograms 
+Dialogue: 0,00:05:57.55,00:06:02.55,AudioSource, NTP,0000,0000,0000,,Amy Winehouse - Rehab
+Dialogue: 0,00:06:24.37,00:06:29.37,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:06:24.37,00:06:29.37,VideoSource, NTP,0000,0000,0000,,Metalocalypse
+Dialogue: 0,00:06:24.37,00:06:29.37,AudioSource, NTP,0000,0000,0000,,Soulja Boy - Super Soak 
