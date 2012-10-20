@@ -1,0 +1,73 @@
+[Script Info]
+Title: AMV Minis S1 Episode 10
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:14.96,00:00:19.96,Editor, NTP,0000,0000,0000,,Synbad2
+Dialogue: 0,00:00:14.96,00:00:19.96,VideoSource, NTP,0000,0000,0000,,Gurren Lagann
+Dialogue: 0,00:00:14.96,00:00:19.96,AudioSource, NTP,0000,0000,0000,,Spider Man theme song
+Dialogue: 0,00:00:29.61,00:00:34.61,Editor, NTP,0000,0000,0000,,SouthTexasTitan
+Dialogue: 0,00:00:29.61,00:00:34.61,VideoSource, NTP,0000,0000,0000,,High School of the Dead
+Dialogue: 0,00:00:29.61,00:00:34.61,AudioSource, NTP,0000,0000,0000,,300 sound clip
+Dialogue: 0,00:00:34.56,00:00:39.56,Editor, NTP,0000,0000,0000,,Prophet of Doom
+Dialogue: 0,00:00:34.56,00:00:39.56,VideoSource, NTP,0000,0000,0000,,Hare+Guu
+Dialogue: 0,00:00:34.56,00:00:39.56,AudioSource, NTP,0000,0000,0000,,Hall & Oates - Maneater
+Dialogue: 0,00:00:58.74,00:01:03.74,Editor, NTP,0000,0000,0000,,Fujhiton
+Dialogue: 0,00:00:58.74,00:01:03.74,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:00:58.74,00:01:03.74,AudioSource, NTP,0000,0000,0000,,Super Smash Bros. sound clip
+Dialogue: 0,00:01:12.19,00:01:17.19,Editor, NTP,0000,0000,0000,,Celticfoxx
+Dialogue: 0,00:01:12.19,00:01:17.19,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:01:12.19,00:01:17.19,AudioSource, NTP,0000,0000,0000,,Jonathan Coulton - Re: Your Brains
+Dialogue: 0,00:01:34.17,00:01:39.17,Editor, NTP,0000,0000,0000,,Shirker
+Dialogue: 0,00:01:34.17,00:01:39.17,VideoSource, NTP,0000,0000,0000,,Gunslinger Girl
+Dialogue: 0,00:01:34.17,00:01:39.17,AudioSource, NTP,0000,0000,0000,,Dirty Harry sound clip
+Dialogue: 0,00:01:56.14,00:02:01.14,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:01:56.14,00:02:01.14,VideoSource, NTP,0000,0000,0000,,Yu-Gi-Oh! DM
+Dialogue: 0,00:01:56.14,00:02:01.14,AudioSource, NTP,0000,0000,0000,,The Guild - (Do You Wanna Date My) Avatar 
+Dialogue: 0,00:02:12.08,00:02:17.08,Editor, NTP,0000,0000,0000,,Darkzi
+Dialogue: 0,00:02:12.08,00:02:17.08,VideoSource, NTP,0000,0000,0000,,Gurren Lagann
+Dialogue: 0,00:02:12.08,00:02:17.08,AudioSource, NTP,0000,0000,0000,,Invader Zim sound clip
+Dialogue: 0,00:02:39.18,00:02:44.18,Editor, NTP,0000,0000,0000,,SV.inc (Juno)
+Dialogue: 0,00:02:39.18,00:02:44.18,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:02:39.18,00:02:44.18,AudioSource, NTP,0000,0000,0000,,Dj Hazard - Psichodelic
+Dialogue: 0,00:02:52.59,00:02:57.59,Editor, NTP,0000,0000,0000,,Blend That
+Dialogue: 0,00:02:52.59,00:02:57.59,VideoSource, NTP,0000,0000,0000,,Samurai Champloo
+Dialogue: 0,00:02:52.59,00:02:57.59,AudioSource, NTP,0000,0000,0000,,South Park sound clip
+Dialogue: 0,00:03:05.91,00:03:10.91,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:03:05.91,00:03:10.91,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:03:05.91,00:03:10.91,AudioSource, NTP,0000,0000,0000,,The Lonely Island - Jizz In My Pants
+Dialogue: 0,00:03:15.03,00:03:20.03,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:03:15.03,00:03:20.03,VideoSource, NTP,0000,0000,0000,,Ponyo
+Dialogue: 0,00:03:15.03,00:03:20.03,AudioSource, NTP,0000,0000,0000,,Army of Darkness sound clip
+Dialogue: 0,00:03:35.08,00:03:40.08,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:03:35.08,00:03:40.08,VideoSource, NTP,0000,0000,0000,,K-ON
+Dialogue: 0,00:03:35.08,00:03:40.08,AudioSource, NTP,0000,0000,0000,,Legend of Zelda overworld theme
+Dialogue: 0,00:04:10.06,00:04:15.06,Editor, NTP,0000,0000,0000,,Nygmatech Enterprises
+Dialogue: 0,00:04:10.06,00:04:15.06,VideoSource, NTP,0000,0000,0000,,Mitsudomoe
+Dialogue: 0,00:04:10.06,00:04:15.06,AudioSource, NTP,0000,0000,0000,,Robot Chicken sound clip
+Dialogue: 0,00:04:13.27,00:04:18.27,Editor, NTP,0000,0000,0000,,Moo
+Dialogue: 0,00:04:13.27,00:04:18.27,VideoSource, NTP,0000,0000,0000,,Lucky Star
+Dialogue: 0,00:04:13.27,00:04:18.27,AudioSource, NTP,0000,0000,0000,,Midori - Yukiko-san
+Dialogue: 0,00:04:21.66,00:04:26.66,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:04:21.66,00:04:26.66,VideoSource, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:04:21.66,00:04:26.66,AudioSource, NTP,0000,0000,0000,,Robot Chicken sound clip
+Dialogue: 0,00:04:34.31,00:04:39.31,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:04:34.31,00:04:39.31,VideoSource, NTP,0000,0000,0000,,Tengen Toppa Gurren Lagann Movie 2
+Dialogue: 0,00:04:34.31,00:04:39.31,AudioSource, NTP,0000,0000,0000,,A-ha - Take On Me
+Dialogue: 0,00:04:46.41,00:04:51.41,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:04:46.41,00:04:51.41,VideoSource, NTP,0000,0000,0000,,Naruto Shippuden
+Dialogue: 0,00:04:46.41,00:04:51.41,AudioSource, NTP,0000,0000,0000,,Legend Of The Dragoon commercial 
