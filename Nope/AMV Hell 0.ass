@@ -1,0 +1,525 @@
+[Script Info]
+Title: AMV Hell 0
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.3333333333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AnimeName, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,60,0
+Style: SongName, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,44,0
+Style: SongArtist, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: Editor, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:31.00,00:00:36.00,AnimeName, NTP,0000,0000,0000,,The Ring / Azumanga Daioh
+Dialogue: 0,00:00:31.00,00:00:36.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:00:31.00,00:00:36.00,SongArtist, NTP,0000,0000,0000,,The Ring
+Dialogue: 0,00:00:31.00,00:00:36.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:00:55.00,00:01:00.00,AnimeName, NTP,0000,0000,0000,,Boku no Sexual Harrassment
+Dialogue: 0,00:00:55.00,00:01:00.00,SongName, NTP,0000,0000,0000,,"Corn" Opening
+Dialogue: 0,00:00:55.00,00:01:00.00,SongArtist, NTP,0000,0000,0000,,Aqua Teen Hunger Force
+Dialogue: 0,00:00:55.00,00:01:00.00,Editor, NTP,0000,0000,0000,,AquaSky
+Dialogue: 0,00:01:19.00,00:01:24.00,AnimeName, NTP,0000,0000,0000,,Bible Black
+Dialogue: 0,00:01:19.00,00:01:24.00,SongName, NTP,0000,0000,0000,,I Like Bukkake
+Dialogue: 0,00:01:19.00,00:01:24.00,SongArtist, NTP,0000,0000,0000,,Dog Horse
+Dialogue: 0,00:01:19.00,00:01:24.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:01:53.00,00:01:58.00,AnimeName, NTP,0000,0000,0000,,Puni Puni Poemi
+Dialogue: 0,00:01:53.00,00:01:58.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:01:53.00,00:01:58.00,SongArtist, NTP,0000,0000,0000,,Family Guy
+Dialogue: 0,00:01:53.00,00:01:58.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:01:59.00,00:02:04.00,AnimeName, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:01:59.00,00:02:04.00,SongName, NTP,0000,0000,0000,,Invisible Touch
+Dialogue: 0,00:01:59.00,00:02:04.00,SongArtist, NTP,0000,0000,0000,,Genesis
+Dialogue: 0,00:01:59.00,00:02:04.00,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:02:10.00,00:02:15.00,AnimeName, NTP,0000,0000,0000,,Story of Little Monica
+Dialogue: 0,00:02:10.00,00:02:15.00,SongName, NTP,0000,0000,0000,,What's New, Pussycat?
+Dialogue: 0,00:02:10.00,00:02:15.00,SongArtist, NTP,0000,0000,0000,,Tom Jones
+Dialogue: 0,00:02:10.00,00:02:15.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:02:20.00,00:02:25.00,AnimeName, NTP,0000,0000,0000,,Dr. Shameless
+Dialogue: 0,00:02:20.00,00:02:25.00,SongName, NTP,0000,0000,0000,,Dr. Feel Good
+Dialogue: 0,00:02:20.00,00:02:25.00,SongArtist, NTP,0000,0000,0000,,Motley Crue
+Dialogue: 0,00:02:20.00,00:02:25.00,Editor, NTP,0000,0000,0000,,Roll The Stampede
+Dialogue: 0,00:02:34.00,00:02:39.00,AnimeName, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:02:34.00,00:02:39.00,SongName, NTP,0000,0000,0000,,Assistant Principal's Big Day
+Dialogue: 0,00:02:34.00,00:02:39.00,SongArtist, NTP,0000,0000,0000,,Adam Sandler
+Dialogue: 0,00:02:34.00,00:02:39.00,Editor, NTP,0000,0000,0000,,DownWithPants
+Dialogue: 0,00:03:01.00,00:03:06.00,AnimeName, NTP,0000,0000,0000,,Puni Puni Poemi
+Dialogue: 0,00:03:01.00,00:03:06.00,SongName, NTP,0000,0000,0000,,Putti Putti
+Dialogue: 0,00:03:01.00,00:03:06.00,SongArtist, NTP,0000,0000,0000,,Jay Epae
+Dialogue: 0,00:03:01.00,00:03:06.00,Editor, NTP,0000,0000,0000,,FoxJones
+Dialogue: 0,00:03:11.00,00:03:16.00,AnimeName, NTP,0000,0000,0000,,Love Hina
+Dialogue: 0,00:03:11.00,00:03:16.00,SongName, NTP,0000,0000,0000,,Easy Breasy
+Dialogue: 0,00:03:11.00,00:03:16.00,SongArtist, NTP,0000,0000,0000,,Utada Hikaru
+Dialogue: 0,00:03:11.00,00:03:16.00,Editor, NTP,0000,0000,0000,,godix
+Dialogue: 0,00:03:16.00,00:03:21.00,AnimeName, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:03:16.00,00:03:21.00,SongName, NTP,0000,0000,0000,,You Make Me Wanna Cum
+Dialogue: 0,00:03:16.00,00:03:21.00,SongArtist, NTP,0000,0000,0000,,John Kamys
+Dialogue: 0,00:03:16.00,00:03:21.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:03:48.00,00:03:53.00,AnimeName, NTP,0000,0000,0000,,Family of Debauchery
+Dialogue: 0,00:03:48.00,00:03:53.00,SongName, NTP,0000,0000,0000,,Rover Take Over
+Dialogue: 0,00:03:48.00,00:03:53.00,SongArtist, NTP,0000,0000,0000,,Lords of Acid
+Dialogue: 0,00:03:48.00,00:03:53.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:04.00,00:04:09.00,AnimeName, NTP,0000,0000,0000,,End of Evangelion
+Dialogue: 0,00:04:04.00,00:04:09.00,SongName, NTP,0000,0000,0000,,If You're Happy and You Know It
+Dialogue: 0,00:04:04.00,00:04:09.00,SongArtist, NTP,0000,0000,0000,,????
+Dialogue: 0,00:04:04.00,00:04:09.00,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:04:27.00,00:04:32.00,AnimeName, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:04:27.00,00:04:32.00,SongName, NTP,0000,0000,0000,,Ricky
+Dialogue: 0,00:04:27.00,00:04:32.00,SongArtist, NTP,0000,0000,0000,,"Weird Al" Yankovic
+Dialogue: 0,00:04:27.00,00:04:32.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:04:34.00,00:04:39.00,AnimeName, NTP,0000,0000,0000,,Tokyo Godfathers
+Dialogue: 0,00:04:34.00,00:04:39.00,SongName, NTP,0000,0000,0000,,I'm Not a Fucking Drag Queen
+Dialogue: 0,00:04:34.00,00:04:39.00,SongArtist, NTP,0000,0000,0000,,Peter Outerbridge
+Dialogue: 0,00:04:34.00,00:04:39.00,Editor, NTP,0000,0000,0000,,Janzki
+Dialogue: 0,00:04:56.00,00:05:01.00,AnimeName, NTP,0000,0000,0000,,Bondage Mansion
+Dialogue: 0,00:04:56.00,00:05:01.00,SongName, NTP,0000,0000,0000,,Whip It
+Dialogue: 0,00:04:56.00,00:05:01.00,SongArtist, NTP,0000,0000,0000,,Devo
+Dialogue: 0,00:04:56.00,00:05:01.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:05:02.00,00:05:07.00,AnimeName, NTP,0000,0000,0000,,Eiken
+Dialogue: 0,00:05:02.00,00:05:07.00,SongName, NTP,0000,0000,0000,,I've Got a Lovely Bunch of Coconuts
+Dialogue: 0,00:05:02.00,00:05:07.00,SongArtist, NTP,0000,0000,0000,,Monty Python
+Dialogue: 0,00:05:02.00,00:05:07.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:05:17.00,00:05:22.00,AnimeName, NTP,0000,0000,0000,,X
+Dialogue: 0,00:05:17.00,00:05:22.00,SongName, NTP,0000,0000,0000,,Joousamamonogatari
+Dialogue: 0,00:05:17.00,00:05:22.00,SongArtist, NTP,0000,0000,0000,,Joousama
+Dialogue: 0,00:05:17.00,00:05:22.00,Editor, NTP,0000,0000,0000,,theocide
+Dialogue: 0,00:05:31.00,00:05:36.00,AnimeName, NTP,0000,0000,0000,,Bokusatsu Tenshi Dokuro-chan
+Dialogue: 0,00:05:31.00,00:05:36.00,SongName, NTP,0000,0000,0000,,Don't Lose Your Head
+Dialogue: 0,00:05:31.00,00:05:36.00,SongArtist, NTP,0000,0000,0000,,Queen
+Dialogue: 0,00:05:31.00,00:05:36.00,Editor, NTP,0000,0000,0000,,FoxJones
+Dialogue: 0,00:05:48.00,00:05:53.00,AnimeName, NTP,0000,0000,0000,,Golden Boy
+Dialogue: 0,00:05:48.00,00:05:53.00,SongName, NTP,0000,0000,0000,,Mother Fucker on a Motorcycle
+Dialogue: 0,00:05:48.00,00:05:53.00,SongArtist, NTP,0000,0000,0000,,Machine Gun Fellatio
+Dialogue: 0,00:05:48.00,00:05:53.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:05:58.00,00:06:03.00,AnimeName, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:05:58.00,00:06:03.00,SongName, NTP,0000,0000,0000,,"Psycho Dad" Sound Clip
+Dialogue: 0,00:05:58.00,00:06:03.00,SongArtist, NTP,0000,0000,0000,,Married With Children
+Dialogue: 0,00:05:58.00,00:06:03.00,Editor, NTP,0000,0000,0000,,CHAMELEON_D_H
+Dialogue: 0,00:06:30.00,00:06:35.00,AnimeName, NTP,0000,0000,0000,,Green Green
+Dialogue: 0,00:06:30.00,00:06:35.00,SongName, NTP,0000,0000,0000,,Fingertips - 18
+Dialogue: 0,00:06:30.00,00:06:35.00,SongArtist, NTP,0000,0000,0000,,They Might Be Giants
+Dialogue: 0,00:06:30.00,00:06:35.00,Editor, NTP,0000,0000,0000,,Jesmaster
+Dialogue: 0,00:06:38.00,00:06:43.00,AnimeName, NTP,0000,0000,0000,,Cool Devices
+Dialogue: 0,00:06:38.00,00:06:43.00,SongName, NTP,0000,0000,0000,,S & M
+Dialogue: 0,00:06:38.00,00:06:43.00,SongArtist, NTP,0000,0000,0000,,2 Live Crew
+Dialogue: 0,00:06:38.00,00:06:43.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:07:16.00,00:07:21.00,AnimeName, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:07:16.00,00:07:21.00,SongName, NTP,0000,0000,0000,,I'm Black Y'all
+Dialogue: 0,00:07:16.00,00:07:21.00,SongArtist, NTP,0000,0000,0000,,CB4
+Dialogue: 0,00:07:16.00,00:07:21.00,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:07:33.00,00:07:38.00,AnimeName, NTP,0000,0000,0000,,Wife
+Dialogue: 0,00:07:33.00,00:07:38.00,SongName, NTP,0000,0000,0000,,Stacy's Mom
+Dialogue: 0,00:07:33.00,00:07:38.00,SongArtist, NTP,0000,0000,0000,,Fountains of Wayne
+Dialogue: 0,00:07:33.00,00:07:38.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:08:06.00,00:08:11.00,AnimeName, NTP,0000,0000,0000,,La Blue Girl Returns
+Dialogue: 0,00:08:06.00,00:08:11.00,SongName, NTP,0000,0000,0000,,Oh Nick Please Not So Quick
+Dialogue: 0,00:08:06.00,00:08:11.00,SongArtist, NTP,0000,0000,0000,,E-Rotic
+Dialogue: 0,00:08:06.00,00:08:11.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:08:09.00,00:08:14.00,AnimeName, NTP,0000,0000,0000,,Read or Die
+Dialogue: 0,00:08:09.00,00:08:14.00,SongName, NTP,0000,0000,0000,,Maddening Shroud
+Dialogue: 0,00:08:09.00,00:08:14.00,SongArtist, NTP,0000,0000,0000,,Frou Frou
+Dialogue: 0,00:08:09.00,00:08:14.00,Editor, NTP,0000,0000,0000,,Jasper-isis
+Dialogue: 0,00:08:20.00,00:08:25.00,AnimeName, NTP,0000,0000,0000,,Slam Dunk
+Dialogue: 0,00:08:20.00,00:08:25.00,SongName, NTP,0000,0000,0000,,There is Hate
+Dialogue: 0,00:08:20.00,00:08:25.00,SongArtist, NTP,0000,0000,0000,,Pluton Svea
+Dialogue: 0,00:08:20.00,00:08:25.00,Editor, NTP,0000,0000,0000,,Kai Stromler
+Dialogue: 0,00:08:28.00,00:08:33.00,AnimeName, NTP,0000,0000,0000,,Golden Boy
+Dialogue: 0,00:08:28.00,00:08:33.00,SongName, NTP,0000,0000,0000,,Dunkie Butt
+Dialogue: 0,00:08:28.00,00:08:33.00,SongArtist, NTP,0000,0000,0000,,12 Gauge
+Dialogue: 0,00:08:28.00,00:08:33.00,Editor, NTP,0000,0000,0000,,Roll The Stampede
+Dialogue: 0,00:09:00.00,00:09:05.00,AnimeName, NTP,0000,0000,0000,,Perfect Blue
+Dialogue: 0,00:09:00.00,00:09:05.00,SongName, NTP,0000,0000,0000,,Rape Me
+Dialogue: 0,00:09:00.00,00:09:05.00,SongArtist, NTP,0000,0000,0000,,Nirvana
+Dialogue: 0,00:09:00.00,00:09:05.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:09:30.00,00:09:35.00,AnimeName, NTP,0000,0000,0000,,Hanada Shounen-shi
+Dialogue: 0,00:09:30.00,00:09:35.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:09:30.00,00:09:35.00,SongArtist, NTP,0000,0000,0000,,"Got Milk" Commercial
+Dialogue: 0,00:09:30.00,00:09:35.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:09:39.00,00:09:44.00,AnimeName, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:09:39.00,00:09:44.00,SongName, NTP,0000,0000,0000,,Oh Yeah
+Dialogue: 0,00:09:39.00,00:09:44.00,SongArtist, NTP,0000,0000,0000,,Yello
+Dialogue: 0,00:09:39.00,00:09:44.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:10:19.00,00:10:24.00,AnimeName, NTP,0000,0000,0000,,Haibane Renmei
+Dialogue: 0,00:10:19.00,00:10:24.00,SongName, NTP,0000,0000,0000,,(sic)
+Dialogue: 0,00:10:19.00,00:10:24.00,SongArtist, NTP,0000,0000,0000,,Slipknot
+Dialogue: 0,00:10:19.00,00:10:24.00,Editor, NTP,0000,0000,0000,,Dave_911
+Dialogue: 0,00:10:49.00,00:10:54.00,AnimeName, NTP,0000,0000,0000,,Cowboy Bebop: The Movie
+Dialogue: 0,00:10:49.00,00:10:54.00,SongName, NTP,0000,0000,0000,,Coming 2 America
+Dialogue: 0,00:10:49.00,00:10:54.00,SongArtist, NTP,0000,0000,0000,,Ludicris
+Dialogue: 0,00:10:49.00,00:10:54.00,Editor, NTP,0000,0000,0000,,theocide
+Dialogue: 0,00:10:52.00,00:10:57.00,AnimeName, NTP,0000,0000,0000,,Bible Black
+Dialogue: 0,00:10:52.00,00:10:57.00,SongName, NTP,0000,0000,0000,,Main Theme
+Dialogue: 0,00:10:52.00,00:10:57.00,SongArtist, NTP,0000,0000,0000,,The Benny Hill Show
+Dialogue: 0,00:10:52.00,00:10:57.00,Editor, NTP,0000,0000,0000,,Koopiskeva
+Dialogue: 0,00:11:07.00,00:11:12.00,AnimeName, NTP,0000,0000,0000,,Magical Shopping Arcade Abenobashi
+Dialogue: 0,00:11:07.00,00:11:12.00,SongName, NTP,0000,0000,0000,,Karate
+Dialogue: 0,00:11:07.00,00:11:12.00,SongArtist, NTP,0000,0000,0000,,Tenacious D
+Dialogue: 0,00:11:07.00,00:11:12.00,Editor, NTP,0000,0000,0000,,FallenPhoenix
+Dialogue: 0,00:11:29.00,00:11:34.00,AnimeName, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:11:29.00,00:11:34.00,SongName, NTP,0000,0000,0000,,Suck My Dick
+Dialogue: 0,00:11:29.00,00:11:34.00,SongArtist, NTP,0000,0000,0000,,Blowfly
+Dialogue: 0,00:11:29.00,00:11:34.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:11:40.00,00:11:45.00,AnimeName, NTP,0000,0000,0000,,Story of Little Monica
+Dialogue: 0,00:11:40.00,00:11:45.00,SongName, NTP,0000,0000,0000,,Come What May
+Dialogue: 0,00:11:40.00,00:11:45.00,SongArtist, NTP,0000,0000,0000,,Moulin Rouge
+Dialogue: 0,00:11:40.00,00:11:45.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:11:54.00,00:11:59.00,AnimeName, NTP,0000,0000,0000,,Bible Black
+Dialogue: 0,00:11:54.00,00:11:59.00,SongName, NTP,0000,0000,0000,,Da Butt
+Dialogue: 0,00:11:54.00,00:11:59.00,SongArtist, NTP,0000,0000,0000,,EU
+Dialogue: 0,00:11:54.00,00:11:59.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:12:15.00,00:12:20.00,AnimeName, NTP,0000,0000,0000,,He is my Master
+Dialogue: 0,00:12:15.00,00:12:20.00,SongName, NTP,0000,0000,0000,,Unknown Reason
+Dialogue: 0,00:12:15.00,00:12:20.00,SongArtist, NTP,0000,0000,0000,,Cales
+Dialogue: 0,00:12:15.00,00:12:20.00,Editor, NTP,0000,0000,0000,,Kai Stromler
+Dialogue: 0,00:12:29.00,00:12:34.00,AnimeName, NTP,0000,0000,0000,,Darling
+Dialogue: 0,00:12:29.00,00:12:34.00,SongName, NTP,0000,0000,0000,,Super-duper-man
+Dialogue: 0,00:12:29.00,00:12:34.00,SongArtist, NTP,0000,0000,0000,,Toybox
+Dialogue: 0,00:12:29.00,00:12:34.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:12:36.00,00:12:41.00,AnimeName, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:12:36.00,00:12:41.00,SongName, NTP,0000,0000,0000,,Forgetful Lucy
+Dialogue: 0,00:12:36.00,00:12:41.00,SongArtist, NTP,0000,0000,0000,,Adam Sandler
+Dialogue: 0,00:12:36.00,00:12:41.00,Editor, NTP,0000,0000,0000,,aielI_Ileia
+Dialogue: 0,00:12:54.00,00:12:59.00,AnimeName, NTP,0000,0000,0000,,Holy Virgins
+Dialogue: 0,00:12:54.00,00:12:59.00,SongName, NTP,0000,0000,0000,,Hallelujah
+Dialogue: 0,00:12:54.00,00:12:59.00,SongArtist, NTP,0000,0000,0000,,Rufus Wainright
+Dialogue: 0,00:12:54.00,00:12:59.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:13:23.00,00:13:28.00,AnimeName, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:13:23.00,00:13:28.00,SongName, NTP,0000,0000,0000,,"Staying Power" & "I'm Gonna Love You, Just a Little More Baby"
+Dialogue: 0,00:13:23.00,00:13:28.00,SongArtist, NTP,0000,0000,0000,,Barry White
+Dialogue: 0,00:13:23.00,00:13:28.00,Editor, NTP,0000,0000,0000,,FurryCurry
+Dialogue: 0,00:14:03.00,00:14:08.00,AnimeName, NTP,0000,0000,0000,,Puni Puni Poemi
+Dialogue: 0,00:14:03.00,00:14:08.00,SongName, NTP,0000,0000,0000,,Brick House
+Dialogue: 0,00:14:03.00,00:14:08.00,SongArtist, NTP,0000,0000,0000,,Commodores
+Dialogue: 0,00:14:03.00,00:14:08.00,Editor, NTP,0000,0000,0000,,Roll The Stampede
+Dialogue: 0,00:14:30.00,00:14:35.00,AnimeName, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:14:30.00,00:14:35.00,SongName, NTP,0000,0000,0000,,Bits and Pieces
+Dialogue: 0,00:14:30.00,00:14:35.00,SongArtist, NTP,0000,0000,0000,,The Dave Clark Five
+Dialogue: 0,00:14:30.00,00:14:35.00,Editor, NTP,0000,0000,0000,,Qyöt27
+Dialogue: 0,00:14:57.00,00:15:02.00,AnimeName, NTP,0000,0000,0000,,Samurai X
+Dialogue: 0,00:14:57.00,00:15:02.00,SongName, NTP,0000,0000,0000,,The First Cut is the Deepest
+Dialogue: 0,00:14:57.00,00:15:02.00,SongArtist, NTP,0000,0000,0000,,Sheryl Crow
+Dialogue: 0,00:14:57.00,00:15:02.00,Editor, NTP,0000,0000,0000,,Muddapunka
+Dialogue: 0,00:15:08.00,00:15:13.00,AnimeName, NTP,0000,0000,0000,,Puni Puni Poemi
+Dialogue: 0,00:15:08.00,00:15:13.00,SongName, NTP,0000,0000,0000,,Fell In Love With a Girl
+Dialogue: 0,00:15:08.00,00:15:13.00,SongArtist, NTP,0000,0000,0000,,White Stripes
+Dialogue: 0,00:15:08.00,00:15:13.00,Editor, NTP,0000,0000,0000,,rogueintellectproductions
+Dialogue: 0,00:15:33.00,00:15:38.00,AnimeName, NTP,0000,0000,0000,,Golden Boy
+Dialogue: 0,00:15:33.00,00:15:38.00,SongName, NTP,0000,0000,0000,,Special
+Dialogue: 0,00:15:33.00,00:15:38.00,SongArtist, NTP,0000,0000,0000,,Avenue Q
+Dialogue: 0,00:15:33.00,00:15:38.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:15:43.00,00:15:48.00,AnimeName, NTP,0000,0000,0000,,UFO Princess Valkyrie
+Dialogue: 0,00:15:43.00,00:15:48.00,SongName, NTP,0000,0000,0000,,To Another Galaxy
+Dialogue: 0,00:15:43.00,00:15:48.00,SongArtist, NTP,0000,0000,0000,,Tokyo Ghetto Pussy
+Dialogue: 0,00:15:43.00,00:15:48.00,Editor, NTP,0000,0000,0000,,FoxJones
+Dialogue: 0,00:15:55.00,00:16:00.00,AnimeName, NTP,0000,0000,0000,,Ogenki Clinic
+Dialogue: 0,00:15:55.00,00:16:00.00,SongName, NTP,0000,0000,0000,,Dr. Dick
+Dialogue: 0,00:15:55.00,00:16:00.00,SongArtist, NTP,0000,0000,0000,,E-Rotic
+Dialogue: 0,00:15:55.00,00:16:00.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:16:16.00,00:16:21.00,AnimeName, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:16:16.00,00:16:21.00,SongName, NTP,0000,0000,0000,,The Sign
+Dialogue: 0,00:16:16.00,00:16:21.00,SongArtist, NTP,0000,0000,0000,,Ace of Base
+Dialogue: 0,00:16:16.00,00:16:21.00,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:16:46.00,00:16:51.00,AnimeName, NTP,0000,0000,0000,,Coed Affairs
+Dialogue: 0,00:16:46.00,00:16:51.00,SongName, NTP,0000,0000,0000,,Girls Just Wanna Have Fun
+Dialogue: 0,00:16:46.00,00:16:51.00,SongArtist, NTP,0000,0000,0000,,Cindy Lauper
+Dialogue: 0,00:16:46.00,00:16:51.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:17:04.00,00:17:09.00,AnimeName, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:17:04.00,00:17:09.00,SongName, NTP,0000,0000,0000,,The Sun Will Come Out Tomorrow
+Dialogue: 0,00:17:04.00,00:17:09.00,SongArtist, NTP,0000,0000,0000,,Annie
+Dialogue: 0,00:17:04.00,00:17:09.00,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:17:33.00,00:17:38.00,AnimeName, NTP,0000,0000,0000,,Viper (PC Game) / Pics from 4chan
+Dialogue: 0,00:17:33.00,00:17:38.00,SongName, NTP,0000,0000,0000,,Who Let the Dogs Out?
+Dialogue: 0,00:17:33.00,00:17:38.00,SongArtist, NTP,0000,0000,0000,,Baha Men
+Dialogue: 0,00:17:33.00,00:17:38.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:17:39.00,00:17:44.00,AnimeName, NTP,0000,0000,0000,,La Blue Girl
+Dialogue: 0,00:17:39.00,00:17:44.00,SongName, NTP,0000,0000,0000,,I Touch Myself
+Dialogue: 0,00:17:39.00,00:17:44.00,SongArtist, NTP,0000,0000,0000,,The Divinyls
+Dialogue: 0,00:17:39.00,00:17:44.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:18:04.00,00:18:09.00,AnimeName, NTP,0000,0000,0000,,Ghost in the Shell
+Dialogue: 0,00:18:04.00,00:18:09.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:18:04.00,00:18:09.00,SongArtist, NTP,0000,0000,0000,,Daria
+Dialogue: 0,00:18:04.00,00:18:09.00,Editor, NTP,0000,0000,0000,,Orwell
+Dialogue: 0,00:18:09.00,00:18:14.00,AnimeName, NTP,0000,0000,0000,,Darling
+Dialogue: 0,00:18:09.00,00:18:14.00,SongName, NTP,0000,0000,0000,,Footloose
+Dialogue: 0,00:18:09.00,00:18:14.00,SongArtist, NTP,0000,0000,0000,,Bus Stop
+Dialogue: 0,00:18:09.00,00:18:14.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:18:21.00,00:18:26.00,AnimeName, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:18:21.00,00:18:26.00,SongName, NTP,0000,0000,0000,,The Penis Song
+Dialogue: 0,00:18:21.00,00:18:26.00,SongArtist, NTP,0000,0000,0000,,Monty Python
+Dialogue: 0,00:18:21.00,00:18:26.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:19:01.00,00:19:06.00,AnimeName, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:19:01.00,00:19:06.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:19:01.00,00:19:06.00,SongArtist, NTP,0000,0000,0000,,Dolemite
+Dialogue: 0,00:19:01.00,00:19:06.00,Editor, NTP,0000,0000,0000,,TsunamiJones
+Dialogue: 0,00:19:12.00,00:19:17.00,AnimeName, NTP,0000,0000,0000,,Akiba Girls
+Dialogue: 0,00:19:12.00,00:19:17.00,SongName, NTP,0000,0000,0000,,Summer of 69
+Dialogue: 0,00:19:12.00,00:19:17.00,SongArtist, NTP,0000,0000,0000,,Bowling for Soup
+Dialogue: 0,00:19:12.00,00:19:17.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:19:20.00,00:19:25.00,AnimeName, NTP,0000,0000,0000,,Golden Boy
+Dialogue: 0,00:19:20.00,00:19:25.00,SongName, NTP,0000,0000,0000,,Enormous Penis
+Dialogue: 0,00:19:20.00,00:19:25.00,SongArtist, NTP,0000,0000,0000,,Da Vinci's Notebook
+Dialogue: 0,00:19:20.00,00:19:25.00,Editor, NTP,0000,0000,0000,,Xenodrake
+Dialogue: 0,00:19:54.00,00:19:59.00,AnimeName, NTP,0000,0000,0000,,Bondage Mansion
+Dialogue: 0,00:19:54.00,00:19:59.00,SongName, NTP,0000,0000,0000,,Are You In?
+Dialogue: 0,00:19:54.00,00:19:59.00,SongArtist, NTP,0000,0000,0000,,Incubus
+Dialogue: 0,00:19:54.00,00:19:59.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:20:08.00,00:20:13.00,AnimeName, NTP,0000,0000,0000,,La Blue Girl
+Dialogue: 0,00:20:08.00,00:20:13.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:20:08.00,00:20:13.00,SongArtist, NTP,0000,0000,0000,,"Herbal Essences" Commercial
+Dialogue: 0,00:20:08.00,00:20:13.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:20:19.00,00:20:24.00,AnimeName, NTP,0000,0000,0000,,Bible Black
+Dialogue: 0,00:20:19.00,00:20:24.00,SongName, NTP,0000,0000,0000,,Bang Bang (My Baby Shot Me Down)
+Dialogue: 0,00:20:19.00,00:20:24.00,SongArtist, NTP,0000,0000,0000,,Nancy Sinatra
+Dialogue: 0,00:20:19.00,00:20:24.00,Editor, NTP,0000,0000,0000,,Roll The Stampede
+Dialogue: 0,00:20:38.00,00:20:43.00,AnimeName, NTP,0000,0000,0000,,End of Evangelion
+Dialogue: 0,00:20:38.00,00:20:43.00,SongName, NTP,0000,0000,0000,,Elektronik Supersonik
+Dialogue: 0,00:20:38.00,00:20:43.00,SongArtist, NTP,0000,0000,0000,,ZLAD!
+Dialogue: 0,00:20:38.00,00:20:43.00,Editor, NTP,0000,0000,0000,,Kai Stromler
+Dialogue: 0,00:20:48.00,00:20:53.00,AnimeName, NTP,0000,0000,0000,,Fooly Cooly
+Dialogue: 0,00:20:48.00,00:20:53.00,SongName, NTP,0000,0000,0000,,7 Words
+Dialogue: 0,00:20:48.00,00:20:53.00,SongArtist, NTP,0000,0000,0000,,Deftones
+Dialogue: 0,00:20:48.00,00:20:53.00,Editor, NTP,0000,0000,0000,,Garylisk
+Dialogue: 0,00:21:04.00,00:21:09.00,AnimeName, NTP,0000,0000,0000,,Jungle de Ikou
+Dialogue: 0,00:21:04.00,00:21:09.00,SongName, NTP,0000,0000,0000,,Witch Doctor
+Dialogue: 0,00:21:04.00,00:21:09.00,SongArtist, NTP,0000,0000,0000,,Cartoons
+Dialogue: 0,00:21:04.00,00:21:09.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:21:19.00,00:21:24.00,AnimeName, NTP,0000,0000,0000,,Ai no Kusabi
+Dialogue: 0,00:21:19.00,00:21:24.00,SongName, NTP,0000,0000,0000,,Touch-a Touch-a Touch Me
+Dialogue: 0,00:21:19.00,00:21:24.00,SongArtist, NTP,0000,0000,0000,,Rocky Horror Picture Show
+Dialogue: 0,00:21:19.00,00:21:24.00,Editor, NTP,0000,0000,0000,,Nikki Whitecraft
+Dialogue: 0,00:21:45.00,00:21:50.00,AnimeName, NTP,0000,0000,0000,,Body Transfer
+Dialogue: 0,00:21:45.00,00:21:50.00,SongName, NTP,0000,0000,0000,,Every Breath You Take
+Dialogue: 0,00:21:45.00,00:21:50.00,SongArtist, NTP,0000,0000,0000,,The Police
+Dialogue: 0,00:21:45.00,00:21:50.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:22:00.00,00:22:05.00,AnimeName, NTP,0000,0000,0000,,Dancing Lemon Guys
+Dialogue: 0,00:22:00.00,00:22:05.00,SongName, NTP,0000,0000,0000,,Party All the Time
+Dialogue: 0,00:22:00.00,00:22:05.00,SongArtist, NTP,0000,0000,0000,,Eddy Murphy
+Dialogue: 0,00:22:00.00,00:22:05.00,Editor, NTP,0000,0000,0000,,AMV4000 & Tardo
+Dialogue: 0,00:22:20.00,00:22:25.00,AnimeName, NTP,0000,0000,0000,,Story of Little Monica
+Dialogue: 0,00:22:20.00,00:22:25.00,SongName, NTP,0000,0000,0000,,Pussy
+Dialogue: 0,00:22:20.00,00:22:25.00,SongArtist, NTP,0000,0000,0000,,Lords of Acid
+Dialogue: 0,00:22:20.00,00:22:25.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:22:51.00,00:22:56.00,AnimeName, NTP,0000,0000,0000,,Darling
+Dialogue: 0,00:22:51.00,00:22:56.00,SongName, NTP,0000,0000,0000,,Sex Machine
+Dialogue: 0,00:22:51.00,00:22:56.00,SongArtist, NTP,0000,0000,0000,,E-Rotic
+Dialogue: 0,00:22:51.00,00:22:56.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:23:11.00,00:23:16.00,AnimeName, NTP,0000,0000,0000,,Bible Black
+Dialogue: 0,00:23:11.00,00:23:16.00,SongName, NTP,0000,0000,0000,,The Touch
+Dialogue: 0,00:23:11.00,00:23:16.00,SongArtist, NTP,0000,0000,0000,,Stan Bush
+Dialogue: 0,00:23:11.00,00:23:16.00,Editor, NTP,0000,0000,0000,,Roll The Stampede
+Dialogue: 0,00:23:28.00,00:23:33.00,AnimeName, NTP,0000,0000,0000,,Love Doll
+Dialogue: 0,00:23:28.00,00:23:33.00,SongName, NTP,0000,0000,0000,,Strokin
+Dialogue: 0,00:23:28.00,00:23:33.00,SongArtist, NTP,0000,0000,0000,,Clarence Carter
+Dialogue: 0,00:23:28.00,00:23:33.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:24:00.00,00:24:05.00,AnimeName, NTP,0000,0000,0000,,Black Widow
+Dialogue: 0,00:24:00.00,00:24:05.00,SongName, NTP,0000,0000,0000,,Dance With a Dolly
+Dialogue: 0,00:24:00.00,00:24:05.00,SongArtist, NTP,0000,0000,0000,,The Federals
+Dialogue: 0,00:24:00.00,00:24:05.00,Editor, NTP,0000,0000,0000,,Kai Stromler
+Dialogue: 0,00:24:10.00,00:24:15.00,AnimeName, NTP,0000,0000,0000,,Beat Angel Escalayer
+Dialogue: 0,00:24:10.00,00:24:15.00,SongName, NTP,0000,0000,0000,,My Heart Will Go On
+Dialogue: 0,00:24:10.00,00:24:15.00,SongArtist, NTP,0000,0000,0000,,DJ Oblom & i_L
+Dialogue: 0,00:24:10.00,00:24:15.00,Editor, NTP,0000,0000,0000,,Kai Stromler
+Dialogue: 0,00:24:27.00,00:24:32.00,AnimeName, NTP,0000,0000,0000,,Bible Black
+Dialogue: 0,00:24:27.00,00:24:32.00,SongName, NTP,0000,0000,0000,,Sweet Transvestite
+Dialogue: 0,00:24:27.00,00:24:32.00,SongArtist, NTP,0000,0000,0000,,Rocky Horror Picture Show
+Dialogue: 0,00:24:27.00,00:24:32.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:24:39.00,00:24:44.00,AnimeName, NTP,0000,0000,0000,,Full Moon wo Sagashite
+Dialogue: 0,00:24:39.00,00:24:44.00,SongName, NTP,0000,0000,0000,,Y'all Want a Single
+Dialogue: 0,00:24:39.00,00:24:44.00,SongArtist, NTP,0000,0000,0000,,Korn
+Dialogue: 0,00:24:39.00,00:24:44.00,Editor, NTP,0000,0000,0000,,Garylisk
+Dialogue: 0,00:25:08.00,00:25:13.00,AnimeName, NTP,0000,0000,0000,,Ogenki Clinic
+Dialogue: 0,00:25:08.00,00:25:13.00,SongName, NTP,0000,0000,0000,,Ding Dong Song
+Dialogue: 0,00:25:08.00,00:25:13.00,SongArtist, NTP,0000,0000,0000,,Gunther
+Dialogue: 0,00:25:08.00,00:25:13.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:25:16.00,00:25:21.00,AnimeName, NTP,0000,0000,0000,,Sibling Secret
+Dialogue: 0,00:25:16.00,00:25:21.00,SongName, NTP,0000,0000,0000,,Hot Sex on a Platter
+Dialogue: 0,00:25:16.00,00:25:21.00,SongArtist, NTP,0000,0000,0000,,A Tribe Called Quest
+Dialogue: 0,00:25:16.00,00:25:21.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:25:31.00,00:25:36.00,AnimeName, NTP,0000,0000,0000,,Story of Little Monica
+Dialogue: 0,00:25:31.00,00:25:36.00,SongName, NTP,0000,0000,0000,,Good Vibrations
+Dialogue: 0,00:25:31.00,00:25:36.00,SongArtist, NTP,0000,0000,0000,,Beach Boys
+Dialogue: 0,00:25:31.00,00:25:36.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:25:36.00,00:25:41.00,AnimeName, NTP,0000,0000,0000,,Puni Puni Poemi
+Dialogue: 0,00:25:36.00,00:25:41.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:25:36.00,00:25:41.00,SongArtist, NTP,0000,0000,0000,,Finding Nemo
+Dialogue: 0,00:25:36.00,00:25:41.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:25:41.00,00:25:46.00,AnimeName, NTP,0000,0000,0000,,Blue Seed
+Dialogue: 0,00:25:41.00,00:25:46.00,SongName, NTP,0000,0000,0000,,Toxic
+Dialogue: 0,00:25:41.00,00:25:46.00,SongArtist, NTP,0000,0000,0000,,Britney Spears
+Dialogue: 0,00:25:41.00,00:25:46.00,Editor, NTP,0000,0000,0000,,Venomi
+Dialogue: 0,00:26:09.00,00:26:14.00,AnimeName, NTP,0000,0000,0000,,Midnight Sleazy Train
+Dialogue: 0,00:26:09.00,00:26:14.00,SongName, NTP,0000,0000,0000,,The Most Offensive Song Ever
+Dialogue: 0,00:26:09.00,00:26:14.00,SongArtist, NTP,0000,0000,0000,,South Park
+Dialogue: 0,00:26:09.00,00:26:14.00,Editor, NTP,0000,0000,0000,,Muddapunka
+Dialogue: 0,00:26:21.00,00:26:26.00,AnimeName, NTP,0000,0000,0000,,Golden Boy
+Dialogue: 0,00:26:21.00,00:26:26.00,SongName, NTP,0000,0000,0000,,The Ballad of Chasey Lain
+Dialogue: 0,00:26:21.00,00:26:26.00,SongArtist, NTP,0000,0000,0000,,Bloodhound Gang
+Dialogue: 0,00:26:21.00,00:26:26.00,Editor, NTP,0000,0000,0000,,Shadowfox998
+Dialogue: 0,00:26:48.00,00:26:53.00,AnimeName, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:26:48.00,00:26:53.00,SongName, NTP,0000,0000,0000,,Ass Like That
+Dialogue: 0,00:26:48.00,00:26:53.00,SongArtist, NTP,0000,0000,0000,,Eminem
+Dialogue: 0,00:26:48.00,00:26:53.00,Editor, NTP,0000,0000,0000,,badmartialarts
+Dialogue: 0,00:27:11.00,00:27:16.00,AnimeName, NTP,0000,0000,0000,,Kite
+Dialogue: 0,00:27:11.00,00:27:16.00,SongName, NTP,0000,0000,0000,,Father Figure
+Dialogue: 0,00:27:11.00,00:27:16.00,SongArtist, NTP,0000,0000,0000,,George Michael
+Dialogue: 0,00:27:11.00,00:27:16.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:27:33.00,00:27:38.00,AnimeName, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:27:33.00,00:27:38.00,SongName, NTP,0000,0000,0000,,Greatest Hits
+Dialogue: 0,00:27:33.00,00:27:38.00,SongArtist, NTP,0000,0000,0000,,Ludacris
+Dialogue: 0,00:27:33.00,00:27:38.00,Editor, NTP,0000,0000,0000,,Roll The Stampede
+Dialogue: 0,00:28:20.00,00:28:25.00,AnimeName, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:28:20.00,00:28:25.00,SongName, NTP,0000,0000,0000,,The White Stuff
+Dialogue: 0,00:28:20.00,00:28:25.00,SongArtist, NTP,0000,0000,0000,,"Weird Al" Yankovic
+Dialogue: 0,00:28:20.00,00:28:25.00,Editor, NTP,0000,0000,0000,,TimWizard
+Dialogue: 0,00:28:33.00,00:28:38.00,AnimeName, NTP,0000,0000,0000,,La Blue Girl Returns
+Dialogue: 0,00:28:33.00,00:28:38.00,SongName, NTP,0000,0000,0000,,Sex Dwarf
+Dialogue: 0,00:28:33.00,00:28:38.00,SongArtist, NTP,0000,0000,0000,,Scooter
+Dialogue: 0,00:28:33.00,00:28:38.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:29:02.00,00:29:07.00,AnimeName, NTP,0000,0000,0000,,2x2 Shinobuden
+Dialogue: 0,00:29:02.00,00:29:07.00,SongName, NTP,0000,0000,0000,,Mope
+Dialogue: 0,00:29:02.00,00:29:07.00,SongArtist, NTP,0000,0000,0000,,Bloodhound Gang
+Dialogue: 0,00:29:02.00,00:29:07.00,Editor, NTP,0000,0000,0000,,FoxJones
+Dialogue: 0,00:29:35.00,00:29:40.00,AnimeName, NTP,0000,0000,0000,,Ranma 1/2
+Dialogue: 0,00:29:35.00,00:29:40.00,SongName, NTP,0000,0000,0000,,Androgyny
+Dialogue: 0,00:29:35.00,00:29:40.00,SongArtist, NTP,0000,0000,0000,,Garbage
+Dialogue: 0,00:29:35.00,00:29:40.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:29:45.00,00:29:50.00,AnimeName, NTP,0000,0000,0000,,Nymphs of the Stratosphere
+Dialogue: 0,00:29:45.00,00:29:50.00,SongName, NTP,0000,0000,0000,,Chocolate Salty Balls
+Dialogue: 0,00:29:45.00,00:29:50.00,SongArtist, NTP,0000,0000,0000,,South Park
+Dialogue: 0,00:29:45.00,00:29:50.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:29:53.00,00:29:58.00,AnimeName, NTP,0000,0000,0000,,RahXephon
+Dialogue: 0,00:29:53.00,00:29:58.00,SongName, NTP,0000,0000,0000,,Faggot
+Dialogue: 0,00:29:53.00,00:29:58.00,SongArtist, NTP,0000,0000,0000,,Mindless Self Indulgence
+Dialogue: 0,00:29:53.00,00:29:58.00,Editor, NTP,0000,0000,0000,,Koopiskeva / SnhKnives
+Dialogue: 0,00:30:46.00,00:30:51.00,AnimeName, NTP,0000,0000,0000,,Princess 69
+Dialogue: 0,00:30:46.00,00:30:51.00,SongName, NTP,0000,0000,0000,,Shock the Monkey
+Dialogue: 0,00:30:46.00,00:30:51.00,SongArtist, NTP,0000,0000,0000,,Peter Gabriel
+Dialogue: 0,00:30:46.00,00:30:51.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:31:18.00,00:31:23.00,AnimeName, NTP,0000,0000,0000,,Puni Puni Poemi
+Dialogue: 0,00:31:18.00,00:31:23.00,SongName, NTP,0000,0000,0000,,Rodeo Song
+Dialogue: 0,00:31:18.00,00:31:23.00,SongArtist, NTP,0000,0000,0000,,Chris Ledoux
+Dialogue: 0,00:31:18.00,00:31:23.00,Editor, NTP,0000,0000,0000,,FallenPhoenix
+Dialogue: 0,00:31:23.00,00:31:28.00,AnimeName, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:31:23.00,00:31:28.00,SongName, NTP,0000,0000,0000,,Cum on Me
+Dialogue: 0,00:31:23.00,00:31:28.00,SongArtist, NTP,0000,0000,0000,,Roobie Breastnut
+Dialogue: 0,00:31:23.00,00:31:28.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:31:45.00,00:31:50.00,AnimeName, NTP,0000,0000,0000,,Bondage Queen Kate
+Dialogue: 0,00:31:45.00,00:31:50.00,SongName, NTP,0000,0000,0000,,Like A Virgin
+Dialogue: 0,00:31:45.00,00:31:50.00,SongArtist, NTP,0000,0000,0000,,Madonna
+Dialogue: 0,00:31:45.00,00:31:50.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:31:57.00,00:32:02.00,AnimeName, NTP,0000,0000,0000,,Super Milk-chan
+Dialogue: 0,00:31:57.00,00:32:02.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:31:57.00,00:32:02.00,SongArtist, NTP,0000,0000,0000,,Glengarry Glen Ross
+Dialogue: 0,00:31:57.00,00:32:02.00,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:32:10.00,00:32:15.00,AnimeName, NTP,0000,0000,0000,,Ebichu
+Dialogue: 0,00:32:10.00,00:32:15.00,SongName, NTP,0000,0000,0000,,Wynona's Big Brown Beaver
+Dialogue: 0,00:32:10.00,00:32:15.00,SongArtist, NTP,0000,0000,0000,,Primus
+Dialogue: 0,00:32:10.00,00:32:15.00,Editor, NTP,0000,0000,0000,,SpaceKase
+Dialogue: 0,00:32:27.00,00:32:32.00,AnimeName, NTP,0000,0000,0000,,Bokusatsu Tenshi Dokuro-chan
+Dialogue: 0,00:32:27.00,00:32:32.00,SongName, NTP,0000,0000,0000,,Trollhammaren
+Dialogue: 0,00:32:27.00,00:32:32.00,SongArtist, NTP,0000,0000,0000,,Finntroll
+Dialogue: 0,00:32:27.00,00:32:32.00,Editor, NTP,0000,0000,0000,,Kai Stromler
+Dialogue: 0,00:32:51.00,00:32:56.00,AnimeName, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:32:51.00,00:32:56.00,SongName, NTP,0000,0000,0000,,You Kicked My Dog
+Dialogue: 0,00:32:51.00,00:32:56.00,SongArtist, NTP,0000,0000,0000,,The Jerky Boys
+Dialogue: 0,00:32:51.00,00:32:56.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:33:05.00,00:33:10.00,AnimeName, NTP,0000,0000,0000,,Kite / Mezzo Forte
+Dialogue: 0,00:33:05.00,00:33:10.00,SongName, NTP,0000,0000,0000,,Kung-Fu Fighting Dance Remix
+Dialogue: 0,00:33:05.00,00:33:10.00,SongArtist, NTP,0000,0000,0000,,Carl Douglas
+Dialogue: 0,00:33:05.00,00:33:10.00,Editor, NTP,0000,0000,0000,,Castor Troy
+Dialogue: 0,00:33:37.00,00:33:42.00,AnimeName, NTP,0000,0000,0000,,Serial Experiments Lain / Porn
+Dialogue: 0,00:33:37.00,00:33:42.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:33:37.00,00:33:42.00,SongArtist, NTP,0000,0000,0000,,Porn
+Dialogue: 0,00:33:37.00,00:33:42.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:33:39.00,00:33:44.00,AnimeName, NTP,0000,0000,0000,,Wordsworth
+Dialogue: 0,00:33:39.00,00:33:44.00,SongName, NTP,0000,0000,0000,,Old McDonald Had a Farm
+Dialogue: 0,00:33:39.00,00:33:44.00,SongArtist, NTP,0000,0000,0000,,Barney & Friends
+Dialogue: 0,00:33:39.00,00:33:44.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:34:06.00,00:34:11.00,AnimeName, NTP,0000,0000,0000,,Imouto Jiru
+Dialogue: 0,00:34:06.00,00:34:11.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:34:06.00,00:34:11.00,SongArtist, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:34:06.00,00:34:11.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:34:22.00,00:34:27.00,AnimeName, NTP,0000,0000,0000,,Body Transfer
+Dialogue: 0,00:34:22.00,00:34:27.00,SongName, NTP,0000,0000,0000,,All by Myself
+Dialogue: 0,00:34:22.00,00:34:27.00,SongArtist, NTP,0000,0000,0000,,Celine Dion
+Dialogue: 0,00:34:22.00,00:34:27.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:34:36.00,00:34:41.00,AnimeName, NTP,0000,0000,0000,,Yuuwaku
+Dialogue: 0,00:34:36.00,00:34:41.00,SongName, NTP,0000,0000,0000,,What's This?
+Dialogue: 0,00:34:36.00,00:34:41.00,SongArtist, NTP,0000,0000,0000,,The Nightmare Before Christmas
+Dialogue: 0,00:34:36.00,00:34:41.00,Editor, NTP,0000,0000,0000,,SSGWNBTD
+Dialogue: 0,00:34:47.00,00:34:52.00,AnimeName, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:34:47.00,00:34:52.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:34:47.00,00:34:52.00,SongArtist, NTP,0000,0000,0000,,Fahrenheit 9/11
+Dialogue: 0,00:34:47.00,00:34:52.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:34:56.00,00:35:01.00,AnimeName, NTP,0000,0000,0000,,Venus 5
+Dialogue: 0,00:34:56.00,00:35:01.00,SongName, NTP,0000,0000,0000,,Touch-a Touch-a Touch Me
+Dialogue: 0,00:34:56.00,00:35:01.00,SongArtist, NTP,0000,0000,0000,,Rocky Horror Picture Show
+Dialogue: 0,00:34:56.00,00:35:01.00,Editor, NTP,0000,0000,0000,,Janzki
+Dialogue: 0,00:35:09.00,00:35:14.00,AnimeName, NTP,0000,0000,0000,,Immoral Sisters
+Dialogue: 0,00:35:09.00,00:35:14.00,SongName, NTP,0000,0000,0000,,When You F%@#ed Grandpa
+Dialogue: 0,00:35:09.00,00:35:14.00,SongArtist, NTP,0000,0000,0000,,Blink182
+Dialogue: 0,00:35:09.00,00:35:14.00,Editor, NTP,0000,0000,0000,,SpaceKase
+Dialogue: 0,00:35:14.00,00:35:19.00,AnimeName, NTP,0000,0000,0000,,Dvine[LUV]
+Dialogue: 0,00:35:14.00,00:35:19.00,SongName, NTP,0000,0000,0000,,Verb, That's What's Happening
+Dialogue: 0,00:35:14.00,00:35:19.00,SongArtist, NTP,0000,0000,0000,,School House Rock
+Dialogue: 0,00:35:14.00,00:35:19.00,Editor, NTP,0000,0000,0000,,badmartialarts
+Dialogue: 0,00:35:56.00,00:36:01.00,AnimeName, NTP,0000,0000,0000,,Jungle de Ikou
+Dialogue: 0,00:35:56.00,00:36:01.00,SongName, NTP,0000,0000,0000,,Some Niggers Never Die
+Dialogue: 0,00:35:56.00,00:36:01.00,SongArtist, NTP,0000,0000,0000,,Johnny Rebel
+Dialogue: 0,00:35:56.00,00:36:01.00,Editor, NTP,0000,0000,0000,,Kai Stromler
+Dialogue: 0,00:36:06.00,00:36:11.00,AnimeName, NTP,0000,0000,0000,,Story of Little Monica
+Dialogue: 0,00:36:06.00,00:36:11.00,SongName, NTP,0000,0000,0000,,My Sharona
+Dialogue: 0,00:36:06.00,00:36:11.00,SongArtist, NTP,0000,0000,0000,,The Knack
+Dialogue: 0,00:36:06.00,00:36:11.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:36:16.00,00:36:21.00,AnimeName, NTP,0000,0000,0000,,Princess 69
+Dialogue: 0,00:36:16.00,00:36:21.00,SongName, NTP,0000,0000,0000,,Come On Come On
+Dialogue: 0,00:36:16.00,00:36:21.00,SongArtist, NTP,0000,0000,0000,,Smash Mouth
+Dialogue: 0,00:36:16.00,00:36:21.00,Editor, NTP,0000,0000,0000,,Roll The Stampede
+Dialogue: 0,00:36:35.00,00:36:40.00,AnimeName, NTP,0000,0000,0000,,Nymphs of the Stratosphere
+Dialogue: 0,00:36:35.00,00:36:40.00,SongName, NTP,0000,0000,0000,,"An Angel Gets Its Wings" / "Ring My Bell"
+Dialogue: 0,00:36:35.00,00:36:40.00,SongArtist, NTP,0000,0000,0000,,Vince Gill & Trisha Yearwood / Anita Ward
+Dialogue: 0,00:36:35.00,00:36:40.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:36:52.00,00:36:57.00,AnimeName, NTP,0000,0000,0000,,Family of Debauchery
+Dialogue: 0,00:36:52.00,00:36:57.00,SongName, NTP,0000,0000,0000,,How Much is that Doggie in the Window?
+Dialogue: 0,00:36:52.00,00:36:57.00,SongArtist, NTP,0000,0000,0000,,Patty Paige
+Dialogue: 0,00:36:52.00,00:36:57.00,Editor, NTP,0000,0000,0000,,Kitsuner
+Dialogue: 0,00:37:03.00,00:37:08.00,AnimeName, NTP,0000,0000,0000,,Princess 69
+Dialogue: 0,00:37:03.00,00:37:08.00,SongName, NTP,0000,0000,0000,,Hokey Pokey
+Dialogue: 0,00:37:03.00,00:37:08.00,SongArtist, NTP,0000,0000,0000,,Shonen Knife
+Dialogue: 0,00:37:03.00,00:37:08.00,Editor, NTP,0000,0000,0000,,godix
+Dialogue: 0,00:37:21.00,00:37:26.00,AnimeName, NTP,0000,0000,0000,,Nymphs of the Stratosphere
+Dialogue: 0,00:37:21.00,00:37:26.00,SongName, NTP,0000,0000,0000,,I Cum Blood
+Dialogue: 0,00:37:21.00,00:37:26.00,SongArtist, NTP,0000,0000,0000,,Cannibal Corpse
+Dialogue: 0,00:37:21.00,00:37:26.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:37:35.00,00:37:40.00,AnimeName, NTP,0000,0000,0000,,Story of Little Monica
+Dialogue: 0,00:37:35.00,00:37:40.00,SongName, NTP,0000,0000,0000,,Cherry Pie
+Dialogue: 0,00:37:35.00,00:37:40.00,SongArtist, NTP,0000,0000,0000,,Warrent
+Dialogue: 0,00:37:35.00,00:37:40.00,Editor, NTP,0000,0000,0000,,ChaosProjects
+Dialogue: 0,00:37:57.00,00:38:02.00,AnimeName, NTP,0000,0000,0000,,Nightshift Nurses
+Dialogue: 0,00:37:57.00,00:38:02.00,SongName, NTP,0000,0000,0000,,Scatman
+Dialogue: 0,00:37:57.00,00:38:02.00,SongArtist, NTP,0000,0000,0000,,Scatman John
+Dialogue: 0,00:37:57.00,00:38:02.00,Editor, NTP,0000,0000,0000,,MexicanJunior
+Dialogue: 0,00:38:25.00,00:38:30.00,AnimeName, NTP,0000,0000,0000,,Shoyonoido Mako-chan
+Dialogue: 0,00:38:25.00,00:38:30.00,SongName, NTP,0000,0000,0000,,I Love Little Girls
+Dialogue: 0,00:38:25.00,00:38:30.00,SongArtist, NTP,0000,0000,0000,,Oingo Boingo
+Dialogue: 0,00:38:25.00,00:38:30.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:38:45.00,00:38:50.00,AnimeName, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:38:45.00,00:38:50.00,SongName, NTP,0000,0000,0000,,Sound Clip
+Dialogue: 0,00:38:45.00,00:38:50.00,SongArtist, NTP,0000,0000,0000,,"Hey Everybody, I'm Looking at Gay Porno"
+Dialogue: 0,00:38:45.00,00:38:50.00,Editor, NTP,0000,0000,0000,,Zarxrax
+Dialogue: 0,00:39:06.00,00:39:11.00,AnimeName, NTP,0000,0000,0000,,Boku no Sexual Harrassment
+Dialogue: 0,00:39:06.00,00:39:11.00,SongName, NTP,0000,0000,0000,,"Corn" Opening (2)
+Dialogue: 0,00:39:06.00,00:39:11.00,SongArtist, NTP,0000,0000,0000,,Aqua Teen Hunger Force
+Dialogue: 0,00:39:06.00,00:39:11.00,Editor, NTP,0000,0000,0000,,AquaSky
+Dialogue: 0,00:39:34.00,00:39:39.00,AnimeName, NTP,0000,0000,0000,,Credits
+Dialogue: 0,00:39:34.00,00:39:39.00,SongName, NTP,0000,0000,0000,,Dinner
+Dialogue: 0,00:39:34.00,00:39:39.00,SongArtist, NTP,0000,0000,0000,,The Evolution Control Committee
+Dialogue: 0,00:39:34.00,00:39:39.00,Editor, NTP,0000,0000,0000,,Zarxrax
