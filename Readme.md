@@ -1,7 +1,7 @@
 What is this?
 =============
 
-This is the output of my work - using [Skitter](https://gist.github.com/3792504) - to skit-title [AMV Hell](http://www.amvhell.com/).  
+This is the output of my work - using [Skitter](https://github.com/Fordi/skitter) - to skit-title [AMV Hell](http://www.amvhell.com/).  
 
 What is skit-titling?
 ---------------------
@@ -25,11 +25,12 @@ ASS is the file extension used for Advanced Substation Alpha - a widely-used sub
 How did you make these?
 -----------------------
 
-1. I deployed [Skitter](https://gist.github.com/3792504) on my local machine's [webserver](http://www.wampserver.com/en/)
+1. I deployed [Skitter](https://github.com/Fordi/skitter) on my local machine's [webserver](http://www.wampserver.com/en/)
 2. I copied the [AMV Hell](http://www.amvhell.com/) videos into a subfolder of skitter
 3. One by one, I configured Skitter to point to an appropriate video, acquired the credits listing page from the AMV Hell site, and built a CSS selector to point to each of the credits.
-    * For AMV Hell 1-3, I had to use [VLC](http://www.videolan.org/vlc/index.html) to convert them to webm format, so that Chrome could play them.
+    * For AMV Hell 1-3 and CE, I had to use [VLC](http://www.videolan.org/vlc/index.html) to convert them to webm format, so that Chrome could play them.
 4. I pointed my browser to my local machine, and started creating the ASS file using Skitter's interface.
+5. For AMV Hell 0 and /0, I was lucky enough to find someone had already created a skit-log with times.  A quick PHP script translated those into ASS.  They're to-the-second resolution, so they're a little off one way or ther other, but frankly, I'm glad to not have to watch them.
 
 Can you do {insert compilation here}?
 --------------------------------------------
