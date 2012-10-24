@@ -1,0 +1,319 @@
+[Script Info]
+Title: Best of AMV Minis
+Original Script: Fordi
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY: 480
+Timer: 100,0000
+Video Aspect Ratio: 1.333333
+Video Zoom: 1
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Editor, Arial,16,&H00FCFCFC,&H00FCFCFC,&H00000008,&H80000008,-1,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,30,46,0
+Style: VideoSource, Arial,16,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,-1,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,30,0
+Style: AudioSource, Arial,14,&H00B4FCFC,&H00B4FCFC,&H00000008,&H80000008,0,0,0,0,100,100,0.00,0.00,1,1.00,2.00,1,16,0,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginR, MarginL, MarginV, Effect, Text
+Dialogue: 0,00:00:10.69,00:00:15.69,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:00:10.69,00:00:15.69,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z
+Dialogue: 0,00:00:10.69,00:00:15.69,AudioSource, NTP,0000,0000,0000,,Portal 2 sound clips
+Dialogue: 0,00:00:34.39,00:00:39.39,Editor, NTP,0000,0000,0000,,santiago198
+Dialogue: 0,00:00:34.39,00:00:39.39,VideoSource, NTP,0000,0000,0000,,Puella Magi Madoka Magica
+Dialogue: 0,00:00:34.39,00:00:39.39,AudioSource, NTP,0000,0000,0000,,Eminem - One Shot Two Shot
+Dialogue: 0,00:00:44.98,00:00:49.98,Editor, NTP,0000,0000,0000,,SilentChaz
+Dialogue: 0,00:00:44.98,00:00:49.98,VideoSource, NTP,0000,0000,0000,,Interstella 5555
+Dialogue: 0,00:00:44.98,00:00:49.98,AudioSource, NTP,0000,0000,0000,,Charlie Teh Unicron sound clip
+Dialogue: 0,00:00:48.46,00:00:53.46,Editor, NTP,0000,0000,0000,,Raster88
+Dialogue: 0,00:00:48.46,00:00:53.46,VideoSource, NTP,0000,0000,0000,,Pokemon
+Dialogue: 0,00:00:48.46,00:00:53.46,AudioSource, NTP,0000,0000,0000,,The Lonely Island - I'm on a Boat
+Dialogue: 0,00:01:07.21,00:01:12.21,Editor, NTP,0000,0000,0000,,Hockey-kun
+Dialogue: 0,00:01:07.21,00:01:12.21,VideoSource, NTP,0000,0000,0000,,Lucky Star
+Dialogue: 0,00:01:07.21,00:01:12.21,AudioSource, NTP,0000,0000,0000,,Dschinghis Khan - Moskau
+Dialogue: 0,00:01:28.32,00:01:33.32,Editor, NTP,0000,0000,0000,,StarRodMan
+Dialogue: 0,00:01:28.32,00:01:33.32,VideoSource, NTP,0000,0000,0000,,Higurashi no Naku Koro ni Kai
+Dialogue: 0,00:01:28.32,00:01:33.32,AudioSource, NTP,0000,0000,0000,,Team Fortress 2
+Dialogue: 0,00:01:58.42,00:02:03.42,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:01:58.42,00:02:03.42,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:01:58.42,00:02:03.42,AudioSource, NTP,0000,0000,0000,,Batman Beyond sound clip
+Dialogue: 0,00:02:09.73,00:02:14.73,Editor, NTP,0000,0000,0000,,&#x2605;&#x2606;&#x2605;
+Dialogue: 0,00:02:09.73,00:02:14.73,VideoSource, NTP,0000,0000,0000,,Code Geass
+Dialogue: 0,00:02:09.73,00:02:14.73,AudioSource, NTP,0000,0000,0000,,Portal sound clips
+Dialogue: 0,00:02:29.98,00:02:34.98,Editor, NTP,0000,0000,0000,,Shirker
+Dialogue: 0,00:02:29.98,00:02:34.98,VideoSource, NTP,0000,0000,0000,,One Piece
+Dialogue: 0,00:02:29.98,00:02:34.98,AudioSource, NTP,0000,0000,0000,,LooseLouie - "I'm a Dog" sound clip
+Dialogue: 0,00:03:10.77,00:03:15.77,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:03:10.77,00:03:15.77,VideoSource, NTP,0000,0000,0000,,Dragonball Z
+Dialogue: 0,00:03:10.77,00:03:15.77,AudioSource, NTP,0000,0000,0000,,Queen - I Want to Break Free
+Dialogue: 0,00:03:20.13,00:03:25.13,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:03:20.13,00:03:25.13,VideoSource, NTP,0000,0000,0000,,Chobits
+Dialogue: 0,00:03:20.13,00:03:25.13,AudioSource, NTP,0000,0000,0000,,Looney Tunes - Yankee Doodle Daffy sound clip
+Dialogue: 0,00:03:40.38,00:03:45.38,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:03:40.38,00:03:45.38,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:03:40.38,00:03:45.38,AudioSource, NTP,0000,0000,0000,,Futurama sound clip
+Dialogue: 0,00:03:43.28,00:03:48.28,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:03:43.28,00:03:48.28,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:03:43.28,00:03:48.28,AudioSource, NTP,0000,0000,0000,,The A-Team Opening Theme
+Dialogue: 0,00:04:15.52,00:04:20.52,Editor, NTP,0000,0000,0000,,theEngineers
+Dialogue: 0,00:04:15.52,00:04:20.52,VideoSource, NTP,0000,0000,0000,,Code Geass
+Dialogue: 0,00:04:15.52,00:04:20.52,AudioSource, NTP,0000,0000,0000,,Portal 2 - Want You Gone
+Dialogue: 0,00:04:27.26,00:04:32.26,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:04:27.26,00:04:32.26,VideoSource, NTP,0000,0000,0000,,Akikan!
+Dialogue: 0,00:04:27.26,00:04:32.26,AudioSource, NTP,0000,0000,0000,,The Whitest Kids U' Know - Grapist
+Dialogue: 0,00:04:45.31,00:04:50.31,Editor, NTP,0000,0000,0000,,Koolfox
+Dialogue: 0,00:04:45.31,00:04:50.31,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:04:45.31,00:04:50.31,AudioSource, NTP,0000,0000,0000,,Hot Butter - Popcorn
+Dialogue: 0,00:05:06.90,00:05:11.90,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:05:06.90,00:05:11.90,VideoSource, NTP,0000,0000,0000,,School Rumble
+Dialogue: 0,00:05:06.90,00:05:11.90,AudioSource, NTP,0000,0000,0000,,Indochine - You Spin Me Round (Like A Record)
+Dialogue: 0,00:05:36.23,00:05:41.23,Editor, NTP,0000,0000,0000,,EvilestDeath
+Dialogue: 0,00:05:36.23,00:05:41.23,VideoSource, NTP,0000,0000,0000,,One Piece
+Dialogue: 0,00:05:36.23,00:05:41.23,AudioSource, NTP,0000,0000,0000,,Macho Man Randy Savage Slim Jim Commercial
+Dialogue: 0,00:05:39.51,00:05:44.51,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:05:39.51,00:05:44.51,VideoSource, NTP,0000,0000,0000,,Lucky Star
+Dialogue: 0,00:05:39.51,00:05:44.51,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:05:50.79,00:05:55.79,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:05:50.79,00:05:55.79,VideoSource, NTP,0000,0000,0000,,JoJo's bizarre adventure
+Dialogue: 0,00:05:50.79,00:05:55.79,AudioSource, NTP,0000,0000,0000,,Chuck Berry - Riding along in my automobile
+Dialogue: 0,00:06:03.79,00:06:08.79,Editor, NTP,0000,0000,0000,,Stevie
+Dialogue: 0,00:06:03.79,00:06:08.79,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:06:03.79,00:06:08.79,AudioSource, NTP,0000,0000,0000,,How the Grinch Stole Christmas - Mr. Grinch
+Dialogue: 0,00:06:33.97,00:06:38.97,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:06:33.97,00:06:38.97,VideoSource, NTP,0000,0000,0000,,K-ON
+Dialogue: 0,00:06:33.97,00:06:38.97,AudioSource, NTP,0000,0000,0000,,Legend of Zelda overworld theme
+Dialogue: 0,00:07:08.59,00:07:13.59,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:07:08.59,00:07:13.59,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:07:08.59,00:07:13.59,AudioSource, NTP,0000,0000,0000,,mrweebl - Cat Face
+Dialogue: 0,00:07:21.37,00:07:26.37,Editor, NTP,0000,0000,0000,,Nygmatech Enterprises
+Dialogue: 0,00:07:21.37,00:07:26.37,VideoSource, NTP,0000,0000,0000,,Moyashimon
+Dialogue: 0,00:07:21.37,00:07:26.37,AudioSource, NTP,0000,0000,0000,,Bill Nye the Science Guy theme song
+Dialogue: 0,00:07:51.49,00:07:56.49,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:07:51.49,00:07:56.49,VideoSource, NTP,0000,0000,0000,,K-On!
+Dialogue: 0,00:07:51.49,00:07:56.49,AudioSource, NTP,0000,0000,0000,,Squeeze - Tempted
+Dialogue: 0,00:07:58.44,00:08:03.44,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:07:58.44,00:08:03.44,VideoSource, NTP,0000,0000,0000,,Elfen Lied
+Dialogue: 0,00:07:58.44,00:08:03.44,AudioSource, NTP,0000,0000,0000,,Melissa Manchester - Midnight Blue
+Dialogue: 0,00:08:07.60,00:08:12.60,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:08:07.60,00:08:12.60,VideoSource, NTP,0000,0000,0000,,Galaxy Angel
+Dialogue: 0,00:08:07.60,00:08:12.60,AudioSource, NTP,0000,0000,0000,,Lou Bega - Mambo No. 5
+Dialogue: 0,00:08:29.07,00:08:34.07,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:08:29.07,00:08:34.07,VideoSource, NTP,0000,0000,0000,,Dragon Ball: The Path to Power
+Dialogue: 0,00:08:29.07,00:08:34.07,AudioSource, NTP,0000,0000,0000,,The Legend of Zelda: Ocarina of Time - sound clip
+Dialogue: 0,00:08:40.22,00:08:45.22,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:08:40.22,00:08:45.22,VideoSource, NTP,0000,0000,0000,,Love Hina
+Dialogue: 0,00:08:40.22,00:08:45.22,AudioSource, NTP,0000,0000,0000,,Dora the Explorer theme song
+Dialogue: 0,00:09:06.63,00:09:11.63,Editor, NTP,0000,0000,0000,,jjlb84
+Dialogue: 0,00:09:06.63,00:09:11.63,VideoSource, NTP,0000,0000,0000,,Dragonball Z
+Dialogue: 0,00:09:06.63,00:09:11.63,AudioSource, NTP,0000,0000,0000,,Llamas with hats 4
+Dialogue: 0,00:09:33.02,00:09:38.02,Editor, NTP,0000,0000,0000,,emi-chan
+Dialogue: 0,00:09:33.02,00:09:38.02,VideoSource, NTP,0000,0000,0000,,Ouran High School Host Club
+Dialogue: 0,00:09:33.02,00:09:38.02,AudioSource, NTP,0000,0000,0000,,SMA Commercial sound clip
+Dialogue: 0,00:09:43.98,00:09:48.98,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:09:43.98,00:09:48.98,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:09:43.98,00:09:48.98,AudioSource, NTP,0000,0000,0000,,Jackass 3.5 - sound clip
+Dialogue: 0,00:10:00.33,00:10:05.33,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:10:00.33,00:10:05.33,VideoSource, NTP,0000,0000,0000,,Lucky Star
+Dialogue: 0,00:10:00.33,00:10:05.33,AudioSource, NTP,0000,0000,0000,,Talladega Nights sound clip
+Dialogue: 0,00:10:19.37,00:10:24.37,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:10:19.37,00:10:24.37,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z
+Dialogue: 0,00:10:19.37,00:10:24.37,AudioSource, NTP,0000,0000,0000,,Portal 2 sound clips
+Dialogue: 0,00:10:47.00,00:10:52.00,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:10:47.00,00:10:52.00,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:10:47.00,00:10:52.00,AudioSource, NTP,0000,0000,0000,,Family Guy sound clip
+Dialogue: 0,00:11:06.58,00:11:11.58,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:11:06.58,00:11:11.58,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:11:06.58,00:11:11.58,AudioSource, NTP,0000,0000,0000,,Team America - I'm So Ronery
+Dialogue: 0,00:11:58.28,00:12:03.28,Editor, NTP,0000,0000,0000,,BeyondSandrock
+Dialogue: 0,00:11:58.28,00:12:03.28,VideoSource, NTP,0000,0000,0000,,Full Metal Alchemist
+Dialogue: 0,00:11:58.28,00:12:03.28,AudioSource, NTP,0000,0000,0000,,The Muppet Movie - Movin' Right Along
+Dialogue: 0,00:12:28.48,00:12:33.48,Editor, NTP,0000,0000,0000,,scarmullet
+Dialogue: 0,00:12:28.48,00:12:33.48,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:12:28.48,00:12:33.48,AudioSource, NTP,0000,0000,0000,,Nick Jr sound clip
+Dialogue: 0,00:12:46.55,00:12:51.55,Editor, NTP,0000,0000,0000,,Dajore Niseny Elph
+Dialogue: 0,00:12:46.55,00:12:51.55,VideoSource, NTP,0000,0000,0000,,Pokemon
+Dialogue: 0,00:12:46.55,00:12:51.55,AudioSource, NTP,0000,0000,0000,,Garfield and Friends - Intro
+Dialogue: 0,00:13:20.18,00:13:25.18,Editor, NTP,0000,0000,0000,,Absolute_Apocalypse
+Dialogue: 0,00:13:20.18,00:13:25.18,VideoSource, NTP,0000,0000,0000,,Evangelion
+Dialogue: 0,00:13:20.18,00:13:25.18,AudioSource, NTP,0000,0000,0000,,Lonely Island - Like A Boss
+Dialogue: 0,00:13:49.48,00:13:54.48,Editor, NTP,0000,0000,0000,,Masahiro
+Dialogue: 0,00:13:49.48,00:13:54.48,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:13:49.48,00:13:54.48,AudioSource, NTP,0000,0000,0000,,Cory Williams - The Mean Kitty Song
+Dialogue: 0,00:14:04.04,00:14:09.04,Editor, NTP,0000,0000,0000,,CelticFoxx
+Dialogue: 0,00:14:04.04,00:14:09.04,VideoSource, NTP,0000,0000,0000,,Digimon the movie
+Dialogue: 0,00:14:04.04,00:14:09.04,AudioSource, NTP,0000,0000,0000,,Nyan cat
+Dialogue: 0,00:14:20.72,00:14:25.72,Editor, NTP,0000,0000,0000,,mattroks101
+Dialogue: 0,00:14:20.72,00:14:25.72,VideoSource, NTP,0000,0000,0000,,Baccano!
+Dialogue: 0,00:14:20.72,00:14:25.72,AudioSource, NTP,0000,0000,0000,,Littlekuriboh - Brooklyn Rage
+Dialogue: 0,00:14:37.13,00:14:42.13,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:14:37.13,00:14:42.13,VideoSource, NTP,0000,0000,0000,,Bokusatsu Tenshi Dokuro-chan
+Dialogue: 0,00:14:37.13,00:14:42.13,AudioSource, NTP,0000,0000,0000,,Spongebob Squarepants sound clip
+Dialogue: 0,00:14:48.53,00:14:53.53,Editor, NTP,0000,0000,0000,,StarRodMan
+Dialogue: 0,00:14:48.53,00:14:53.53,VideoSource, NTP,0000,0000,0000,,Overman King Gainer
+Dialogue: 0,00:14:48.53,00:14:53.53,AudioSource, NTP,0000,0000,0000,,Johnny Bravo Theme Song
+Dialogue: 0,00:14:57.14,00:15:02.14,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:14:57.14,00:15:02.14,VideoSource, NTP,0000,0000,0000,,Fist of the North Star
+Dialogue: 0,00:14:57.14,00:15:02.14,AudioSource, NTP,0000,0000,0000,,Fleetwood Mac - Hold Me
+Dialogue: 0,00:15:10.67,00:15:15.67,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:15:10.67,00:15:15.67,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi-chan Suzumiya
+Dialogue: 0,00:15:10.67,00:15:15.67,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - The Night Santa Went Crazy
+Dialogue: 0,00:15:18.92,00:15:23.92,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:15:18.92,00:15:23.92,VideoSource, NTP,0000,0000,0000,,Tengen Toppa Gurren Lagann Movie 2
+Dialogue: 0,00:15:18.92,00:15:23.92,AudioSource, NTP,0000,0000,0000,,A-ha - Take On Me
+Dialogue: 0,00:15:30.96,00:15:35.96,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:15:30.96,00:15:35.96,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:15:30.96,00:15:35.96,AudioSource, NTP,0000,0000,0000,,Kelly - Let Me Borrow That Top
+Dialogue: 0,00:15:48.41,00:15:53.41,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:15:48.41,00:15:53.41,VideoSource, NTP,0000,0000,0000,,Bakemonogatari
+Dialogue: 0,00:15:48.41,00:15:53.41,AudioSource, NTP,0000,0000,0000,,cash cash - jaw drop
+Dialogue: 0,00:16:09.96,00:16:14.96,Editor, NTP,0000,0000,0000,,StarRodMan
+Dialogue: 0,00:16:09.96,00:16:14.96,VideoSource, NTP,0000,0000,0000,,Tengen Toppa Gurren Lagann
+Dialogue: 0,00:16:09.96,00:16:14.96,AudioSource, NTP,0000,0000,0000,,Dexter's Laboratory - You're Ridin' That Hog
+Dialogue: 0,00:16:31.78,00:16:36.78,Editor, NTP,0000,0000,0000,,ThatsNotMyName_studio
+Dialogue: 0,00:16:31.78,00:16:36.78,VideoSource, NTP,0000,0000,0000,,Fullmetal Alchemist
+Dialogue: 0,00:16:31.78,00:16:36.78,AudioSource, NTP,0000,0000,0000,,Disney's Beauty and the Beast - Gaston
+Dialogue: 0,00:16:47.55,00:16:52.55,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:16:47.55,00:16:52.55,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z
+Dialogue: 0,00:16:47.55,00:16:52.55,AudioSource, NTP,0000,0000,0000,,Bill Withers - Lean On Me
+Dialogue: 0,00:17:09.72,00:17:14.72,Editor, NTP,0000,0000,0000,,StarRodMan
+Dialogue: 0,00:17:09.72,00:17:14.72,VideoSource, NTP,0000,0000,0000,,Aim for the Top! Gunbuster
+Dialogue: 0,00:17:09.72,00:17:14.72,AudioSource, NTP,0000,0000,0000,,Punch-Out!! Training Theme
+Dialogue: 0,00:17:23.22,00:17:28.22,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:17:23.22,00:17:28.22,VideoSource, NTP,0000,0000,0000,,Princess Mononoke
+Dialogue: 0,00:17:23.22,00:17:28.22,AudioSource, NTP,0000,0000,0000,,Monty Python and the Holy Grail sound clip
+Dialogue: 0,00:17:42.39,00:17:47.39,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:17:42.39,00:17:47.39,VideoSource, NTP,0000,0000,0000,,Nausicaä of the Valley of the Wind
+Dialogue: 0,00:17:42.39,00:17:47.39,AudioSource, NTP,0000,0000,0000,,Nobuo Uematsu - Chocobo Theme (Final Fantasy III DS version)
+Dialogue: 0,00:17:49.29,00:17:54.29,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:17:49.29,00:17:54.29,VideoSource, NTP,0000,0000,0000,,Cowboy Bebop
+Dialogue: 0,00:17:49.29,00:17:54.29,AudioSource, NTP,0000,0000,0000,,Megamind (the movie) - Intro scene
+Dialogue: 0,00:18:09.08,00:18:14.08,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:18:09.08,00:18:14.08,VideoSource, NTP,0000,0000,0000,,Umineko
+Dialogue: 0,00:18:09.08,00:18:14.08,AudioSource, NTP,0000,0000,0000,,Giga Pudding commercial audio
+Dialogue: 0,00:18:25.14,00:18:30.14,Editor, NTP,0000,0000,0000,,Chewi105 & mattroks101
+Dialogue: 0,00:18:25.14,00:18:30.14,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:18:25.14,00:18:30.14,AudioSource, NTP,0000,0000,0000,,Pong sound effects
+Dialogue: 0,00:18:37.42,00:18:42.42,Editor, NTP,0000,0000,0000,,Peter Hopkins
+Dialogue: 0,00:18:37.42,00:18:42.42,VideoSource, NTP,0000,0000,0000,,Skip Beat
+Dialogue: 0,00:18:37.42,00:18:42.42,AudioSource, NTP,0000,0000,0000,,Lonely Island - On the Ground
+Dialogue: 0,00:19:07.01,00:19:12.01,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:19:07.01,00:19:12.01,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:19:07.01,00:19:12.01,AudioSource, NTP,0000,0000,0000,,Monty Python - Argument
+Dialogue: 0,00:19:28.38,00:19:33.38,Editor, NTP,0000,0000,0000,,DXM
+Dialogue: 0,00:19:28.38,00:19:33.38,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z
+Dialogue: 0,00:19:28.38,00:19:33.38,AudioSource, NTP,0000,0000,0000,,Kung pow sound clip
+Dialogue: 0,00:20:14.78,00:20:19.78,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:20:14.78,00:20:19.78,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:20:14.78,00:20:19.78,AudioSource, NTP,0000,0000,0000,,Eminem - Toy Soldiers
+Dialogue: 0,00:20:41.16,00:20:46.16,Editor, NTP,0000,0000,0000,,Oghma
+Dialogue: 0,00:20:41.16,00:20:46.16,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:20:41.16,00:20:46.16,AudioSource, NTP,0000,0000,0000,,George Carlin
+Dialogue: 0,00:21:17.70,00:21:22.70,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:21:17.70,00:21:22.70,VideoSource, NTP,0000,0000,0000,,High School of the Dead
+Dialogue: 0,00:21:17.70,00:21:22.70,AudioSource, NTP,0000,0000,0000,,Bee Gees - Stayin' Alive
+Dialogue: 0,00:21:39.13,00:21:44.13,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:21:39.13,00:21:44.13,VideoSource, NTP,0000,0000,0000,,Toki wo kakeru shoujo
+Dialogue: 0,00:21:39.13,00:21:44.13,AudioSource, NTP,0000,0000,0000,,Barrell Roll song
+Dialogue: 0,00:21:53.08,00:21:58.08,Editor, NTP,0000,0000,0000,,Sherby
+Dialogue: 0,00:21:53.08,00:21:58.08,VideoSource, NTP,0000,0000,0000,,The Melancholy of Haruhi Suzumiya
+Dialogue: 0,00:21:53.08,00:21:58.08,AudioSource, NTP,0000,0000,0000,,Austin Powers in Goldmember sound clip
+Dialogue: 0,00:22:12.39,00:22:17.39,Editor, NTP,0000,0000,0000,,Oghma
+Dialogue: 0,00:22:12.39,00:22:17.39,VideoSource, NTP,0000,0000,0000,,Bokusatsu Tenshi Dokuro-chan
+Dialogue: 0,00:22:12.39,00:22:17.39,AudioSource, NTP,0000,0000,0000,,Aqua Teen Hunger Force sound clip
+Dialogue: 0,00:22:34.37,00:22:39.37,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:22:34.37,00:22:39.37,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:22:34.37,00:22:39.37,AudioSource, NTP,0000,0000,0000,,Disney's Pocahontas - Colors of the Wind
+Dialogue: 0,00:23:09.89,00:23:14.89,Editor, NTP,0000,0000,0000,,Dajore Niseny Elph
+Dialogue: 0,00:23:09.89,00:23:14.89,VideoSource, NTP,0000,0000,0000,,Sailor Moon Super S
+Dialogue: 0,00:23:09.89,00:23:14.89,AudioSource, NTP,0000,0000,0000,,Star Wars Episode 4: A New Hope Sound Clip
+Dialogue: 0,00:23:33.18,00:23:38.18,Editor, NTP,0000,0000,0000,,Shirker
+Dialogue: 0,00:23:33.18,00:23:38.18,VideoSource, NTP,0000,0000,0000,,Princess Tutu
+Dialogue: 0,00:23:33.18,00:23:38.18,AudioSource, NTP,0000,0000,0000,,Left 4 Dead 2 sound clip
+Dialogue: 0,00:23:42.93,00:23:47.93,Editor, NTP,0000,0000,0000,,carloscurro
+Dialogue: 0,00:23:42.93,00:23:47.93,VideoSource, NTP,0000,0000,0000,,Golden Boy
+Dialogue: 0,00:23:42.93,00:23:47.93,AudioSource, NTP,0000,0000,0000,,John Williams - E.T.
+Dialogue: 0,00:24:08.66,00:24:13.66,Editor, NTP,0000,0000,0000,,Tank
+Dialogue: 0,00:24:08.66,00:24:13.66,VideoSource, NTP,0000,0000,0000,,Dai Mahou Touge
+Dialogue: 0,00:24:08.66,00:24:13.66,AudioSource, NTP,0000,0000,0000,,Portal 2 sound clip
+Dialogue: 0,00:24:11.03,00:24:16.03,Editor, NTP,0000,0000,0000,,mattroks101
+Dialogue: 0,00:24:11.03,00:24:16.03,VideoSource, NTP,0000,0000,0000,,Various
+Dialogue: 0,00:24:11.03,00:24:16.03,AudioSource, NTP,0000,0000,0000,,Gorrilaz - Feel Good inc.
+Dialogue: 0,00:24:32.45,00:24:37.45,Editor, NTP,0000,0000,0000,,Doomimus
+Dialogue: 0,00:24:32.45,00:24:37.45,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:24:32.45,00:24:37.45,AudioSource, NTP,0000,0000,0000,,The Divinyls - I Touch Myself
+Dialogue: 0,00:25:18.30,00:25:23.30,Editor, NTP,0000,0000,0000,,Hieimaster
+Dialogue: 0,00:25:18.30,00:25:23.30,VideoSource, NTP,0000,0000,0000,,Bleach
+Dialogue: 0,00:25:18.30,00:25:23.30,AudioSource, NTP,0000,0000,0000,,NFL Theme Song
+Dialogue: 0,00:25:39.27,00:25:44.27,Editor, NTP,0000,0000,0000,,Calvin3
+Dialogue: 0,00:25:39.27,00:25:44.27,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:25:39.27,00:25:44.27,AudioSource, NTP,0000,0000,0000,,Songify This - Winning by Charlie Sheen
+Dialogue: 0,00:26:03.57,00:26:08.57,Editor, NTP,0000,0000,0000,,Shibbidah
+Dialogue: 0,00:26:03.57,00:26:08.57,VideoSource, NTP,0000,0000,0000,,Shinryaku! Ika Musume
+Dialogue: 0,00:26:03.57,00:26:08.57,AudioSource, NTP,0000,0000,0000,,Alestorm - Death Throes of the Terrorsquid
+Dialogue: 0,00:26:15.59,00:26:20.59,Editor, NTP,0000,0000,0000,,Deemer
+Dialogue: 0,00:26:15.59,00:26:20.59,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:26:15.59,00:26:20.59,AudioSource, NTP,0000,0000,0000,,Weird Al Yankovic - Your Horoscope For Today
+Dialogue: 0,00:26:20.53,00:26:25.53,Editor, NTP,0000,0000,0000,,N.P.C.C.
+Dialogue: 0,00:26:20.53,00:26:25.53,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:26:20.53,00:26:25.53,AudioSource, NTP,0000,0000,0000,,Jem and The Holograms (The Misfits) - Congratulations
+Dialogue: 0,00:26:32.77,00:26:37.77,Editor, NTP,0000,0000,0000,,Tazuto
+Dialogue: 0,00:26:32.77,00:26:37.77,VideoSource, NTP,0000,0000,0000,,Excel Saga
+Dialogue: 0,00:26:32.77,00:26:37.77,AudioSource, NTP,0000,0000,0000,,Katy Perry - Hot n Cold
+Dialogue: 0,00:26:47.92,00:26:52.92,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:26:47.92,00:26:52.92,VideoSource, NTP,0000,0000,0000,,Azumanga Daioh
+Dialogue: 0,00:26:47.92,00:26:52.92,AudioSource, NTP,0000,0000,0000,,SUPER STAR -MITSURU- - She is my wife
+Dialogue: 0,00:26:54.65,00:26:59.65,Editor, NTP,0000,0000,0000,,Shirker
+Dialogue: 0,00:26:54.65,00:26:59.65,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:26:54.65,00:26:59.65,AudioSource, NTP,0000,0000,0000,,Eminem - Medicine Ball
+Dialogue: 0,00:27:21.55,00:27:26.55,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:27:21.55,00:27:26.55,VideoSource, NTP,0000,0000,0000,,Toradora!
+Dialogue: 0,00:27:21.55,00:27:26.55,AudioSource, NTP,0000,0000,0000,,Family Guy - Surfin' Bird
+Dialogue: 0,00:27:32.38,00:27:37.38,Editor, NTP,0000,0000,0000,,theEngineers
+Dialogue: 0,00:27:32.38,00:27:37.38,VideoSource, NTP,0000,0000,0000,,Death Note
+Dialogue: 0,00:27:32.38,00:27:37.38,AudioSource, NTP,0000,0000,0000,,Invader Zim sound clip
+Dialogue: 0,00:27:42.97,00:27:47.97,Editor, NTP,0000,0000,0000,,LawRayLiet
+Dialogue: 0,00:27:42.97,00:27:47.97,VideoSource, NTP,0000,0000,0000,,Berserk
+Dialogue: 0,00:27:42.97,00:27:47.97,AudioSource, NTP,0000,0000,0000,,Tobuscus - LITERAL Assassin's Creed: Brotherhood Trailer
+Dialogue: 0,00:28:24.63,00:28:29.63,Editor, NTP,0000,0000,0000,,SleeplessPanda (C.T.)
+Dialogue: 0,00:28:24.63,00:28:29.63,VideoSource, NTP,0000,0000,0000,,Hellsing OVA
+Dialogue: 0,00:28:24.63,00:28:29.63,AudioSource, NTP,0000,0000,0000,,Nice Peter - Nom Nom Nom Nom, Babies!
+Dialogue: 0,00:28:28.83,00:28:33.83,Editor, NTP,0000,0000,0000,,BlamKing
+Dialogue: 0,00:28:28.83,00:28:33.83,VideoSource, NTP,0000,0000,0000,,Ponyo
+Dialogue: 0,00:28:28.83,00:28:33.83,AudioSource, NTP,0000,0000,0000,,Fastball - You're An Ocean
+Dialogue: 0,00:28:36.31,00:28:41.31,Editor, NTP,0000,0000,0000,,Koolfox & TigerboyPT
+Dialogue: 0,00:28:36.31,00:28:41.31,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:28:36.31,00:28:41.31,AudioSource, NTP,0000,0000,0000,,Mortal Kombat sounds
+Dialogue: 0,00:28:55.12,00:29:00.12,Editor, NTP,0000,0000,0000,,Humnut
+Dialogue: 0,00:28:55.12,00:29:00.12,VideoSource, NTP,0000,0000,0000,,Dragonball Z
+Dialogue: 0,00:28:55.12,00:29:00.12,AudioSource, NTP,0000,0000,0000,,Yugioh the Abridged Series sound clip
+Dialogue: 0,00:29:18.08,00:29:23.08,Editor, NTP,0000,0000,0000,,Sticgam
+Dialogue: 0,00:29:18.08,00:29:23.08,VideoSource, NTP,0000,0000,0000,,Higurashi, School Days, Darker Than Black, Baccano
+Dialogue: 0,00:29:18.08,00:29:23.08,AudioSource, NTP,0000,0000,0000,,Gnarls Barkley - Crazy
+Dialogue: 0,00:29:37.49,00:29:42.49,Editor, NTP,0000,0000,0000,,mattroks101
+Dialogue: 0,00:29:37.49,00:29:42.49,VideoSource, NTP,0000,0000,0000,,Baccano!
+Dialogue: 0,00:29:37.49,00:29:42.49,AudioSource, NTP,0000,0000,0000,,asdfmovie 3
+Dialogue: 0,00:29:41.19,00:29:46.19,Editor, NTP,0000,0000,0000,,Koolfox
+Dialogue: 0,00:29:41.19,00:29:46.19,VideoSource, NTP,0000,0000,0000,,Nichijou
+Dialogue: 0,00:29:41.19,00:29:46.19,AudioSource, NTP,0000,0000,0000,,Starbucks commercial
+Dialogue: 0,00:29:55.61,00:30:00.61,Editor, NTP,0000,0000,0000,,Raster88
+Dialogue: 0,00:29:55.61,00:30:00.61,VideoSource, NTP,0000,0000,0000,,Dragonball Z
+Dialogue: 0,00:29:55.61,00:30:00.61,AudioSource, NTP,0000,0000,0000,,Richard - Slaughter Your World
+Dialogue: 0,00:30:10.52,00:30:15.52,Editor, NTP,0000,0000,0000,,Robert Frazer & fdYkn
+Dialogue: 0,00:30:10.52,00:30:15.52,VideoSource, NTP,0000,0000,0000,,Heroman
+Dialogue: 0,00:30:10.52,00:30:15.52,AudioSource, NTP,0000,0000,0000,,Prodigy - Voodoo People (Pendulum Remix), Fallout 3 sound clips
+Dialogue: 0,00:30:40.55,00:30:45.55,Editor, NTP,0000,0000,0000,,Rspectcopyrightmyass
+Dialogue: 0,00:30:40.55,00:30:45.55,VideoSource, NTP,0000,0000,0000,,They Are My Nobel Masters
+Dialogue: 0,00:30:40.55,00:30:45.55,AudioSource, NTP,0000,0000,0000,,The Lazer Collection (Dr. Octagonapus) sound clip
+Dialogue: 0,00:30:42.95,00:30:47.95,Editor, NTP,0000,0000,0000,,Rebbie
+Dialogue: 0,00:30:42.95,00:30:47.95,VideoSource, NTP,0000,0000,0000,,Neon Genesis Evangelion
+Dialogue: 0,00:30:42.95,00:30:47.95,AudioSource, NTP,0000,0000,0000,,Futurama sound clip
+Dialogue: 0,00:30:58.47,00:31:03.47,Editor, NTP,0000,0000,0000,,havrd
+Dialogue: 0,00:30:58.47,00:31:03.47,VideoSource, NTP,0000,0000,0000,,Kyoto Animation Commercial
+Dialogue: 0,00:30:58.47,00:31:03.47,AudioSource, NTP,0000,0000,0000,,The Hitchhickers guide to the galaxy - So long and thanks for all the fish
+Dialogue: 0,00:31:16.60,00:31:21.60,Editor, NTP,0000,0000,0000,,Malev
+Dialogue: 0,00:31:16.60,00:31:21.60,VideoSource, NTP,0000,0000,0000,,Dragon Ball Z
+Dialogue: 0,00:31:16.60,00:31:21.60,AudioSource, NTP,0000,0000,0000,,Portal 2 sound clips
+Dialogue: 0,00:31:31.37,00:31:36.37,Editor, NTP,0000,0000,0000,,Robert Frazer
+Dialogue: 0,00:31:31.37,00:31:36.37,VideoSource, NTP,0000,0000,0000,,My Ordinary Life
+Dialogue: 0,00:31:31.37,00:31:36.37,AudioSource, NTP,0000,0000,0000,,The Ren & Stimpy Show sound clip
