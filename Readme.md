@@ -10,7 +10,7 @@ AMV Hell and other compilations are comprised of sets of vignettes, skits, or ot
 
 How do I use these?
 -------------------
-First you'll need to download a copy.  The "Download" link above will get you a copy, packaged as .tar.gz.  If you don't know how to open one of those, get yourself a copy of [7-zip](http://www.7-zip.org/) and install it.
+First you'll need to download [a copy](https://github.com/Fordi/amv-skit-titles/archive/master.zip).  Github's doing zips of the master branch now, so that's easy.  If you don't know what to do with a .zip file, I don't understand what you're saying.
 
 If you're familiar with [git](http://msysgit.github.com/), you know the drill.
 
@@ -30,7 +30,7 @@ How did you make these?
 3. One by one, I configured Skitter to point to an appropriate video, acquired the credits listing page from the AMV Hell site, and built a CSS selector to point to each of the credits.
     * For AMV Hell 1-3 and CE, I had to use [VLC](http://www.videolan.org/vlc/index.html) to convert them to webm format, so that Chrome could play them.
 4. I pointed my browser to my local machine, and started creating the ASS file using Skitter's interface.
-5. For AMV Hell 0 and /0, I was lucky enough to find someone had already created a skit-log with times.  A quick PHP script translated those into ASS.  They're to-the-second resolution, so they're a little off one way or ther other, but frankly, I'm glad to not have to watch them.
+5. For AMV Hell 0 and /0, I was lucky enough to find someone had already created a skit-log with times.  A quick PHP script translated those into ASS.  They're to-the-second resolution, so they're a little off one way or the other, but frankly, I'm glad to not have to watch them.
 
 Can you do {insert compilation here}?
 --------------------------------------------
